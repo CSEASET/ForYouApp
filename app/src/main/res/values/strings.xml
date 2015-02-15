@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">For You</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Developers</string>
+    <string name="title_activity_yearlist">For You</string>
+    <string name="title_activity_subject_list">For You</string>
+    <string name="title_activity_developer">Developers</string>
+
+</resources>
