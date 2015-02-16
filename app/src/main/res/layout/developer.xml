@@ -93,7 +93,7 @@
                 android:layout_gravity="center_horizontal" />
 
             <TextView
-                android:text="Madhur Mittal (CSE - I Year)"
+                android:text="Madhur Mittal (CSE - I Year)\n"
                 android:layout_width="wrap_content"
                 android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceMedium"

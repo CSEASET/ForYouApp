@@ -20,10 +20,11 @@
             android:layout_centerHorizontal="true"
             android:src="@drawable/logo_big" />
     -->
-    <TextView
+    <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
+        android:background="?android:attr/selectableItemBackground"
         android:text="T a p  T o  P r o c e e d"
         android:id="@+id/textView"
         android:textColor="#ff000000"

@@ -24,7 +24,7 @@ public class yearlist extends ActionBarActivity {
             Intent intent = new Intent(this, subject_list.class);
             startActivity(intent);
         } else
-            Toast.makeText(this, "This part is coming soon!", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Coming Soon!", Toast.LENGTH_SHORT).show();
     }
 
     @Override
