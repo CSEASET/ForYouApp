@@ -8,27 +8,28 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
     tools:context=".MainActivity"
-    android:onClick="clickHandler">
+    android:background="@drawable/bg_logo_big">
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="300dp"
-        android:id="@+id/imageView"
-        android:src="@drawable/logo_big" />
 
+    <!--
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/imageView"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/logo_big" />
+    -->
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="T a p  T o  P r o c e e d"
         android:id="@+id/textView"
-        android:textColor="#0354AB"
-        android:shadowColor="#78D7DE"
-        android:shadowDx="0"
-        android:shadowDy="0"
+        android:textColor="#ff000000"
         android:textStyle="bold"
-        android:shadowRadius="20.0"
+        android:paddingBottom="@dimen/tap_bottom"
         android:layout_alignParentBottom="true"
+        android:onClick="clickHandler"
         android:layout_centerHorizontal="true" />
-
 </RelativeLayout>

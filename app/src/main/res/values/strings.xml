@@ -7,5 +7,7 @@
     <string name="title_activity_yearlist">For You</string>
     <string name="title_activity_subject_list">For You</string>
     <string name="title_activity_developer">Developers</string>
+    <string name="share_title">Share this App!</string>
+    <string name="rate_us">RATE US</string>
 
 </resources>

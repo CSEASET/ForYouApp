@@ -10,53 +10,68 @@
     tools:context="com.example.foryou.yearlist"
     android:weightSum="1">
 
-    <TextView
-        android:text="YEAR"
+    <ScrollView
         android:layout_width="match_parent"
-        android:gravity="center"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_marginBottom="@dimen/yearlist_margin_bottom"
-        android:layout_height="wrap_content" />
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:scrollbarStyle="outsideInset"
+        android:layout_gravity="center_horizontal">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="clickHandler"
-        android:layout_marginTop="@dimen/yearlist_margin_top"
-        android:tag="1"
-        android:text="         I  YEAR         "
-        android:id="@+id/button"
-        android:layout_gravity="center_horizontal" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/container"
+            android:showDividers="middle"
+            android:divider="?android:dividerHorizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
 
-    <Button
-        android:layout_width="wrap_content"
-        android:onClick="clickHandler"
-        android:layout_height="wrap_content"
-        android:tag="2"
-        android:text="         II  YEAR         "
-        android:id="@+id/button2"
-        android:layout_marginTop="@dimen/yearlist_margin_top"
-        android:layout_gravity="center_horizontal" />
+            <TextView
+                android:text="Choose Year"
+                android:layout_width="match_parent"
+                android:gravity="center"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_marginBottom="@dimen/yearlist_margin_bottom"
+                android:layout_height="60dp" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:onClick="clickHandler"
-        android:layout_height="wrap_content"
-        android:tag="3"
-        android:text="         III  YEAR         "
-        android:layout_marginTop="@dimen/yearlist_margin_top"
-        android:id="@+id/button3"
-        android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="match_parent"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="60dp"
+                android:onClick="clickHandler"
+                android:tag="1"
+                android:text="         I  YEAR         "
+                android:id="@+id/button"
+                android:layout_gravity="center_horizontal" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="clickHandler"
-        android:tag="4"
-        android:text="         IV  YEAR         "
-        android:layout_marginTop="@dimen/yearlist_margin_top"
-        android:id="@+id/button4"
-        android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="match_parent"
+                android:onClick="clickHandler"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="60dp"
+                android:tag="2"
+                android:text="         II  YEAR         "
+                android:id="@+id/button2"
+                android:layout_gravity="center_horizontal" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:onClick="clickHandler"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="60dp"
+                android:tag="3"
+                android:text="         III  YEAR         "
+                android:id="@+id/button3"
+                android:layout_gravity="center_horizontal" />
 
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:onClick="clickHandler"
+                android:background="?android:attr/selectableItemBackground"
+                android:tag="4"
+                android:text="         IV  YEAR         "
+                android:id="@+id/button4"
+                android:layout_gravity="center_horizontal" />
+        </LinearLayout>
+    </ScrollView>
 </LinearLayout>

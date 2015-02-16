@@ -1,6 +1,8 @@
 package com.example.foryou;
 
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.net.Uri;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -40,6 +42,23 @@ public class subject_list extends ActionBarActivity {
         if (id == R.id.action_settings) {
             Intent intent = new Intent(this, developer.class);
             startActivity(intent);
+            return true;
+        } else if (id == R.id.share_button) {
+            Intent s = new Intent(android.content.Intent.ACTION_SEND);
+            s.setType("text/plain");
+            s.putExtra(Intent.EXTRA_SUBJECT, "Download the IPU B-Tech Syllabus For You App ");
+            s.putExtra(Intent.EXTRA_TEXT, "https://www.google.com");
+            startActivity(Intent.createChooser(s, "Share via"));
+            return true;
+        } else if (id == R.id.rate_us) {
+            Uri uri = Uri.parse("market://details?id=com.karmanishthdevelopers.colossusv4");
+            Uri uri2 = Uri.parse("http://play.google.com/store/apps/details?id=com.karmanishthdevelopers.colossusv4");
+            Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
+            try {
+                startActivity(goToMarket);
+            } catch (ActivityNotFoundException e) {
+                startActivity(new Intent(Intent.ACTION_VIEW, uri2));
+            }
             return true;
         }
 

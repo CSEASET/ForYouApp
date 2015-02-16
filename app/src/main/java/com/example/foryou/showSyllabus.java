@@ -36,7 +36,7 @@ public class showSyllabus extends Activity {
         Intent intent = getIntent();
         int paperID = intent.getIntExtra("paperID", 0);
         readSyllabusFile(paperID);
-        Toast.makeText(this, "Loading... " + paper.get("paperTitle").toString(), Toast.LENGTH_SHORT).show();
+        ;//Toast.makeText(this, "Loading... " + paper.get("paperTitle").toString(), Toast.LENGTH_SHORT).show(); // removed TOAST
         String paperCode = paper.get("paperCode").toString();
         String paperTitle = paper.get("paperTitle").toString();
         int paperCredits = Integer.parseInt(paper.get("paperCredits").toString());

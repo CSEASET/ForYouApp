@@ -19,10 +19,12 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:showDividers="middle"
+            android:divider="?android:dividerHorizontal"
             android:orientation="vertical">
 
             <TextView
-                android:text="PAPERS"
+                android:text="Choose Subject"
                 android:layout_width="match_parent"
                 android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -33,70 +35,70 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="@dimen/sunject_list_button_height"
+                android:background="?android:attr/selectableItemBackground"
                 android:tag="0"
                 android:text="APPLIED MATHEMATICS-II"
                 android:id="@+id/button"
-                android:layout_marginTop="@dimen/subject_list_margin_top"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="@dimen/sunject_list_button_height"
+                android:background="?android:attr/selectableItemBackground"
                 android:tag="1"
                 android:text="APPLIED PHYSICS-II"
                 android:id="@+id/button5"
-                android:layout_marginTop="@dimen/subject_list_margin_top"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="@dimen/sunject_list_button_height"
+                android:background="?android:attr/selectableItemBackground"
                 android:tag="2"
                 android:text="ELECTRONIC DEVICES"
                 android:id="@+id/button6"
-                android:layout_marginTop="@dimen/subject_list_margin_top"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="@dimen/sunject_list_button_height"
+                android:background="?android:attr/selectableItemBackground"
                 android:tag="3"
                 android:text="INTRODUCTION TO PROGRAMMING"
                 android:id="@+id/button7"
-                android:layout_marginTop="@dimen/subject_list_margin_top"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="@dimen/sunject_list_button_height"
+                android:background="?android:attr/selectableItemBackground"
                 android:tag="4"
                 android:text="ENGINEERING MECHANICS"
                 android:id="@+id/button8"
-                android:layout_marginTop="@dimen/subject_list_margin_top"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="@dimen/sunject_list_button_height"
+                android:background="?android:attr/selectableItemBackground"
                 android:tag="5"
                 android:text="COMMUNICATION SKILLS"
                 android:id="@+id/button9"
-                android:layout_marginTop="@dimen/subject_list_margin_top"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="@dimen/sunject_list_button_height"
+                android:background="?android:attr/selectableItemBackground"
                 android:tag="6"
                 android:text="ENVIRONMENTAL STUDIES"
                 android:id="@+id/button10"
-                android:layout_marginTop="@dimen/subject_list_margin_top"
                 android:layout_gravity="center_horizontal" />
         </LinearLayout>
     </ScrollView>

@@ -3,6 +3,17 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.foryou.yearlist">
     <item
+        android:id="@+id/share_button"
+        android:icon="@drawable/ic_action_share"
+        android:title="@string/share_title"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/rate_us"
+        android:title="@string/rate_us"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
+    <item
         android:id="@+id/action_settings"
         android:title="@string/action_settings"
         android:orderInCategory="100"
