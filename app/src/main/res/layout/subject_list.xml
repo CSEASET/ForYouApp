@@ -60,7 +60,6 @@
                 android:text="ELECTRONIC DEVICES"
                 android:id="@+id/button6"
                 android:layout_gravity="center_horizontal" />
-
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
@@ -70,7 +69,6 @@
                 android:text="INTRODUCTION TO PROGRAMMING"
                 android:id="@+id/button7"
                 android:layout_gravity="center_horizontal" />
-
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
@@ -100,6 +98,13 @@
                 android:text="ENVIRONMENTAL STUDIES"
                 android:id="@+id/button10"
                 android:layout_gravity="center_horizontal" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_gravity="center_horizontal" />
         </LinearLayout>
     </ScrollView>
+
+
 </LinearLayout>

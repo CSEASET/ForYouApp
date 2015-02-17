@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content" />
 
             <TextView
-                android:text="Vijayant Saini (CSE - I Year [ASET])\n#8802553203 \nvijayant.saini123@gmail.com\n Chirag Bansal (CSE - I Year[ASET])\n#9540002177 \nchirag2120787@gmail.com\n\n"
+                android:text="Vijayant Saini (CSE - I Year)\n#8802553203 \nvijayant.saini123@gmail.com\n Chirag Bansal (CSE - I Year)\n#9540002177 \nchirag2120787@gmail.com\n\n"
                 android:layout_width="wrap_content"
                 android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceMedium"
@@ -93,7 +93,7 @@
                 android:layout_gravity="center_horizontal" />
 
             <TextView
-                android:text="Madhur Mittal (CSE - I Year)\n"
+                android:text="Madhur Mittal (CSE - I Year)\n#9971437388\nmadhurmittal1807@gmail.com\n"
                 android:layout_width="wrap_content"
                 android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceMedium"

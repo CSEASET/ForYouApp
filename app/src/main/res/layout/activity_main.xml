@@ -19,18 +19,30 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:src="@drawable/logo_big" />
-    -->
+
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:background="?android:attr/selectableItemBackground"
+        android:background="@android:color/transparent"
         android:text="T a p  T o  P r o c e e d"
         android:id="@+id/textView"
         android:textColor="#ff000000"
         android:textStyle="bold"
-        android:paddingBottom="@dimen/tap_bottom"
-        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/tap_bottom"
         android:onClick="clickHandler"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />    -->
+
+    <ProgressBar
+        android:id="@+id/progressBar1"
+        style="?android:attr/progressBarStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minHeight="35dp"
+        android:minWidth="35dp"
+        android:layout_marginBottom="@dimen/tap_bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        />
 </RelativeLayout>
