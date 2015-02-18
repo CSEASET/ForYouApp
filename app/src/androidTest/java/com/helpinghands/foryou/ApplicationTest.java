@@ -1,4 +1,4 @@
-package com.example.foryou;
+package com.helpinghands.foryou;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

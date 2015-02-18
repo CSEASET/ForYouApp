@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.foryou.subject_list">
+    tools:context="com.helpinghands.foryou.subject_list">
     <item
         android:id="@+id/share_button"
         android:icon="@drawable/ic_action_share"

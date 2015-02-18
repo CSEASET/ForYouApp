@@ -1,9 +1,10 @@
-package com.example.foryou;
+package com.helpinghands.foryou;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Toast;
 
 
 public class developer extends ActionBarActivity {
@@ -12,6 +13,7 @@ public class developer extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.developer);
+        Toast.makeText(this,"Please report bugs to the Developers", Toast.LENGTH_LONG).show();
     }
 
 

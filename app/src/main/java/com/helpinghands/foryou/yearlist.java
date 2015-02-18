@@ -1,4 +1,4 @@
-package com.example.foryou;
+package com.helpinghands.foryou;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
@@ -66,5 +66,23 @@ public class yearlist extends ActionBarActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    private static final int TIME_INTERVAL = 2000; // # milliseconds, desired time passed between two back presses.
+    private long mBackPressed;
+
+    @Override
+    public void onBackPressed()
+    {
+        if (mBackPressed + TIME_INTERVAL > System.currentTimeMillis())
+        {
+            super.onBackPressed(); // not calling the default onBackPressed
+            //android.os.Process.killProcess(android.os.Process.myPid());
+            //System.exit(1);
+            return;
+        }
+        else { Toast.makeText(getBaseContext(), "Press back again to leave", Toast.LENGTH_SHORT).show(); }
+
+        mBackPressed = System.currentTimeMillis();
     }
 }

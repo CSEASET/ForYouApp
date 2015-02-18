@@ -1,17 +1,15 @@
-package com.example.foryou;
+package com.helpinghands.foryou;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.graphics.Paint;
 import android.graphics.Typeface;
 import android.os.Handler;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import org.json.simple.*;
 import org.json.simple.parser.*;

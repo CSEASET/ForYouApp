@@ -1,56 +1,33 @@
-package com.example.foryou;
+package com.helpinghands.foryou;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.net.Uri;
-import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.ProgressBar;
 
 
-public class MainActivity extends ActionBarActivity {
+public class subject_list extends ActionBarActivity {
 
-    Handler handler = new Handler();
-    int delay = 2000;
-    Runnable runner = new Runnable() {
-        public void run() {
-            showYearList();
-        }
-};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        ProgressBar spinner;
-        spinner = (ProgressBar)findViewById(R.id.progressBar1);
-        spinner.setIndeterminate(true);
-        //spinner.getIndeterminateDrawable().setColorFilter(0xFFFF0000, android.graphics.PorterDuff.Mode.MULTIPLY); not working
-        handler.postDelayed(runner,delay);
+        setContentView(R.layout.subject_list);
     }
 
     public void clickHandler(View view) {
-        showYearList();
-    }
-
-    protected void showYearList() {
-        Intent intent = new Intent(this, yearlist.class);
+        Intent intent = new Intent(this, showSyllabus.class);
+        intent.putExtra("paperID", Integer.parseInt(view.getTag().toString()));
         startActivity(intent);
-    }
-
-    @Override
-    protected void onResume(){
-        super.onResume();
-        handler.postDelayed(runner,delay);
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
+        getMenuInflater().inflate(R.menu.menu_subject_list, menu);
         return true;
     }
 
