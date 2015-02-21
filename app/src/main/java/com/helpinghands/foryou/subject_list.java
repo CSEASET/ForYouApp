@@ -46,13 +46,13 @@ public class subject_list extends ActionBarActivity {
         } else if (id == R.id.share_button) {
             Intent s = new Intent(android.content.Intent.ACTION_SEND);
             s.setType("text/plain");
-            s.putExtra(Intent.EXTRA_SUBJECT, "Download the IPU B-Tech Syllabus For You App ");
-            s.putExtra(Intent.EXTRA_TEXT, "https://www.google.com");
+            s.putExtra(Intent.EXTRA_SUBJECT, "Download the GGSIPU B-Tech Syllabus For You App ");
+            s.putExtra(Intent.EXTRA_TEXT, "https://play.google.com/store/apps/details?id=com.helpinghands.foryou");
             startActivity(Intent.createChooser(s, "Share via"));
             return true;
         } else if (id == R.id.rate_us) {
-            Uri uri = Uri.parse("market://details?id=com.karmanishthdevelopers.colossusv4");
-            Uri uri2 = Uri.parse("http://play.google.com/store/apps/details?id=com.karmanishthdevelopers.colossusv4");
+            Uri uri = Uri.parse("market://details?id=com.helpinghands.foryou");
+            Uri uri2 = Uri.parse("https://play.google.com/store/apps/details?id=com.helpinghands.foryou");
             Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
             try {
                 startActivity(goToMarket);

@@ -1,20 +1,45 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        config {
+            keyAlias 'none'
+            keyPassword 'cseaset'
+            storeFile file('F:/Works/Android/keystore/keys.jks')
+            storePassword 'cseaset'
+        }
+    }
     compileSdkVersion 21
     buildToolsVersion "21.1.2"
-
     defaultConfig {
         applicationId "com.helpinghands.foryou"
-        minSdkVersion 14
+        minSdkVersion 11
         targetSdkVersion 21
-        versionCode 1
+        versionCode 10
         versionName "1.0"
     }
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+        higher {
+            applicationId "com.helpinghands.foryou"
+            minSdkVersion 11
+            versionCode 10
+            versionName "1.0"
+            signingConfig signingConfigs.config
+        }
+        lower {
+            applicationId "com.helpinghands.foryou"
+            minSdkVersion 7
+            maxSdkVersion 10
+            versionCode 1
+            versionName "1.0"
+            signingConfig signingConfigs.config
         }
     }
 }
