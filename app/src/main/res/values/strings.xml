@@ -6,8 +6,11 @@
     <string name="action_settings">Developers</string>
     <string name="title_activity_yearlist">For You</string>
     <string name="title_activity_subject_list">For You</string>
+    <string name="title_activity_branch_list">For You</string>
     <string name="title_activity_developer">Developers</string>
     <string name="share_title">Share this App!</string>
     <string name="rate_us">RATE US</string>
+    <string name="favorite">Mark As Favorite</string>
+    <string name="title_activity_sem_list">For You</string>
 
 </resources>
