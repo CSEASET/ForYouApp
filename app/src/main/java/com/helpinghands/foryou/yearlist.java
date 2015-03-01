@@ -20,8 +20,9 @@ public class yearlist extends ActionBarActivity {
     }
 
     public void clickHandler(View view) {
-        if (Integer.parseInt(view.getTag().toString()) == 1) {
-            Intent intent = new Intent(this, subject_list.class);
+        if (Integer.parseInt(view.getTag().toString()) < 3) {
+            Intent intent = new Intent(this, sem_list.class);
+            intent.putExtra("state", view.getTag().toString());
             startActivity(intent);
         } else
             Toast.makeText(this, "Coming Soon!", Toast.LENGTH_SHORT).show();
@@ -72,16 +73,15 @@ public class yearlist extends ActionBarActivity {
     private long mBackPressed;
 
     @Override
-    public void onBackPressed()
-    {
-        if (mBackPressed + TIME_INTERVAL > System.currentTimeMillis())
-        {
+    public void onBackPressed() {
+        if (mBackPressed + TIME_INTERVAL > System.currentTimeMillis()) {
             super.onBackPressed(); // not calling the default onBackPressed
             //android.os.Process.killProcess(android.os.Process.myPid());
             //System.exit(1);
             return;
+        } else {
+            Toast.makeText(getBaseContext(), "Press back again to leave", Toast.LENGTH_SHORT).show();
         }
-        else { Toast.makeText(getBaseContext(), "Press back again to leave", Toast.LENGTH_SHORT).show(); }
 
         mBackPressed = System.currentTimeMillis();
     }

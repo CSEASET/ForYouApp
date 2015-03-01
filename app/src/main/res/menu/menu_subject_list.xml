@@ -3,6 +3,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.helpinghands.foryou.subject_list">
     <item
+        android:id="@+id/favorite_branch"
+        android:icon="@drawable/ic_action_favorite"
+        android:title="@string/favorite"
+        android:orderInCategory="99"
+        app:showAsAction="ifRoom" />
+    <item
         android:id="@+id/share_button"
         android:icon="@drawable/ic_action_share"
         android:title="@string/share_title"

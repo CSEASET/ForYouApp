@@ -6,6 +6,7 @@ import android.graphics.Paint;
 import android.graphics.Typeface;
 import android.os.Handler;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.widget.LinearLayout;
@@ -32,7 +33,9 @@ public class showSyllabus extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.wireframe);
         Intent intent = getIntent();
-        int paperID = intent.getIntExtra("paperID", 0);
+        Log.d("state", intent.getStringExtra("state"));
+        if (true) return;
+        int paperID = 1;//intent.getIntExtra("paperID", 0);
         readSyllabusFile(paperID);
         ;//Toast.makeText(this, "Loading... " + paper.get("paperTitle").toString(), Toast.LENGTH_SHORT).show(); // removed TOAST
         String paperCode = paper.get("paperCode").toString();

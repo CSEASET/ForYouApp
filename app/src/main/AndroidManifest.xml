@@ -30,8 +30,7 @@
         </activity>
         <activity
             android:name="com.helpinghands.foryou.yearlist"
-            android:label="@string/title_activity_yearlist">
-        </activity>
+            android:label="@string/title_activity_yearlist"></activity>
         <activity
             android:name="com.helpinghands.foryou.subject_list"
             android:label="@string/title_activity_subject_list"
@@ -47,6 +46,22 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.helpinghands.foryou.MainActivity" />
+        </activity>
+        <activity
+            android:name="com.helpinghands.foryou.sem_list"
+            android:label="@string/title_activity_sem_list"
+            android:parentActivityName="com.helpinghands.foryou.yearlist">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.helpinghands.foryou.yearlist" />
+        </activity>
+        <activity
+            android:name="com.helpinghands.foryou.branch_list"
+            android:label="@string/title_activity_branch_list"
+            android:parentActivityName="com.helpinghands.foryou.yearlist">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.helpinghands.foryou.yearlist" />
         </activity>
     </application>
 
