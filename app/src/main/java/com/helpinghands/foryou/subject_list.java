@@ -93,12 +93,16 @@ public class subject_list extends ActionBarActivity {
         int count = subList.size();
         JSONObject subjectName;
         TextView t;
+        String subCode;
         float scale = getResources().getDisplayMetrics().density;
         for (int i = 0; i < count; i++) {
             subjectName = (JSONObject) subList.get(i);
             Log.d("ass", subjectName.get("n").toString());
             t = (TextView) ll.getChildAt(i + 1);
-            t.setTag(i);
+            if (i < 10)
+                t.setTag("0" + i);
+            else
+                t.setTag(i);
             LinearLayout.LayoutParams p = (LinearLayout.LayoutParams) t.getLayoutParams();
             p.height = (int) (70 * scale + 0.5f);
             t.setLayoutParams(p);
@@ -109,8 +113,8 @@ public class subject_list extends ActionBarActivity {
     public void clickHandler(View view) {
         Log.d("ass", view.getTag().toString());
         Intent intent = new Intent(this, showSyllabus.class);
-        intent.putExtra("paperID", Integer.parseInt(view.getTag().toString()));
-        //startActivity(intent);
+        intent.putExtra("state", year + sem + view.getTag().toString() + branch);
+        startActivity(intent);
     }
 
     @Override

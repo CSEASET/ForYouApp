@@ -27,13 +27,15 @@ public class showSyllabus extends Activity {
     int delay = 500;
     int delayGap = 100;
     String[] romans = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"};
-
+    String state, year, sem, branch, subCode;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.wireframe);
         Intent intent = getIntent();
+        state = intent.getStringExtra("state");
         Log.d("state", intent.getStringExtra("state"));
+        parseState(state);
         if (true) return;
         int paperID = 1;//intent.getIntExtra("paperID", 0);
         readSyllabusFile(paperID);
@@ -51,6 +53,13 @@ public class showSyllabus extends Activity {
             ;//Log.d("sadf", ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitDetails").toString());
             viewHandler1(i, ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitTitle").toString(), ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitDetails").toString());
         }
+    }
+
+    void parseState(String state) {
+        year = state.charAt(0) + "";
+        sem = state.charAt(1) + "";
+        subCode = state.substring(2, 4);
+        branch = state.substring(4);
     }
 
     protected void viewHandler(final String type, final String data) {
