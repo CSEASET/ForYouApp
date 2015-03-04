@@ -3,7 +3,6 @@ package com.helpinghands.foryou;
 import android.content.Intent;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -41,6 +40,8 @@ public class branch_list extends ActionBarActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+            Intent intent = new Intent(this, developer.class);
+            startActivity(intent);
             return true;
         }
 

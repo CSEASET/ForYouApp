@@ -6,7 +6,6 @@ import android.graphics.Paint;
 import android.graphics.Typeface;
 import android.os.Handler;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.widget.LinearLayout;
@@ -24,27 +23,27 @@ public class showSyllabus extends Activity {
 
     protected JSONObject paper = null;
     Handler handler = new Handler();
-    int delay = 500;
+    int delay = 0; // app is already heavy, no need for initial delay!
     int delayGap = 100;
     String[] romans = {"I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"};
-    String state, year, sem, branch, subCode;
+    JSONArray papers = null;
+    String state;
+    int paperCount;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.wireframe);
         Intent intent = getIntent();
         state = intent.getStringExtra("state");
-        Log.d("state", intent.getStringExtra("state"));
-        parseState(state);
-        if (true) return;
-        int paperID = 1;//intent.getIntExtra("paperID", 0);
-        readSyllabusFile(paperID);
-        ;//Toast.makeText(this, "Loading... " + paper.get("paperTitle").toString(), Toast.LENGTH_SHORT).show(); // removed TOAST
-        String paperCode = paper.get("paperCode").toString();
+        //Log.d("state", intent.getStringExtra("state"));
+        readSubjectFile();
+        String paperCode = state;
+        paper = (JSONObject) ((JSONArray) findSubject(state).get(state)).get(0);
         String paperTitle = paper.get("paperTitle").toString();
         int paperCredits = Integer.parseInt(paper.get("paperCredits").toString());
         JSONArray paperUnits = (JSONArray) paper.get("paperUnits");
-        ;//Log.d("fuck", paperUnits.toString());
+        //Log.d("fuck", paperUnits.toString());
         viewHandler("paperCode", paperCode);
         viewHandler("paperTitle", paperTitle);
         viewHandler("paperCredits", paperCredits + "");
@@ -55,11 +54,14 @@ public class showSyllabus extends Activity {
         }
     }
 
-    void parseState(String state) {
-        year = state.charAt(0) + "";
-        sem = state.charAt(1) + "";
-        subCode = state.substring(2, 4);
-        branch = state.substring(4);
+    JSONObject findSubject(String subCode) {
+        //Log.d("sac", "finding " + subCode);
+        JSONObject sub = null;
+        for (int i = 0; i < paperCount; i++) {
+            sub = (JSONObject) papers.get(i);
+            if (sub.containsKey(subCode)) return sub;
+        }
+        return sub;
     }
 
     protected void viewHandler(final String type, final String data) {
@@ -80,17 +82,17 @@ public class showSyllabus extends Activity {
         delay += delayGap;
     }
 
-    protected void readSyllabusFile(int paperID) {
+    protected void readSubjectFile() {
         BufferedReader reader = null;
         String fileText = null;
         try {
-            reader = new BufferedReader(new InputStreamReader(getResources().openRawResource(getResources().getIdentifier("raw/datamin", "raw", getPackageName()))));
+            reader = new BufferedReader(new InputStreamReader(getResources().openRawResource(getResources().getIdentifier("raw/papers_min", "raw", getPackageName()))));
             StringBuilder builder = new StringBuilder();
             String aux = "";
             while ((aux = reader.readLine()) != null) {
                 builder.append(aux);
             }
-            fileText = builder.toString();
+            fileText = builder.substring(1).toString();
         } catch (IOException e) {
             //log the exception
         } finally {
@@ -102,23 +104,14 @@ public class showSyllabus extends Activity {
                 }
             }
         }
-        ;//Log.d("sad", "sad ass");
-        ;//Log.d("sad", fileText);
-        fileText = fileText.substring(1);
-        ;//Log.d("sad", fileText);
+        //Log.d("sad", fileText);
         JSONParser parser = new JSONParser();
-        Object obj = null;
         try {
-            obj = parser.parse(fileText);
+            papers = (JSONArray) parser.parse(fileText);
         } catch (ParseException e) {
             e.printStackTrace();
         }
-
-        ;//Log.d("sad", "fap");
-        ;//Log.d("sad", "fap" + paperID);
-        paper = (JSONObject) ((JSONObject) ((JSONArray) ((JSONObject) obj).get("syllabus")).get(paperID)).get("paper");
-        ;//Log.d("sad", "fap");
-        ;//Log.d("sad", paper.get("paperTitle").toString());
+        paperCount = papers.size();
     }
 
     protected void addView(String type, String data) {

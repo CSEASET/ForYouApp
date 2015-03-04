@@ -2,6 +2,7 @@ package com.helpinghands.foryou;
 
 import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
@@ -10,6 +11,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ProgressBar;
+import android.widget.Toast;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -19,17 +21,46 @@ public class MainActivity extends ActionBarActivity {
     Runnable runner = new Runnable() {
         public void run() {
             showYearList();
+            finish();
         }
-};
+    };
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ProgressBar spinner;
-        spinner = (ProgressBar)findViewById(R.id.progressBar1);
+        spinner = (ProgressBar) findViewById(R.id.progressBar1);
         spinner.setIndeterminate(true);
         //spinner.getIndeterminateDrawable().setColorFilter(0xFFFF0000, android.graphics.PorterDuff.Mode.MULTIPLY); not working
-        handler.postDelayed(runner,delay);
+        checkFav();
+        handler.postDelayed(runner, delay);
+    }
+
+    Intent intent;
+    public static final String PREFS_NAME = "appPref";
+
+    void checkFav() {
+        SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
+        int toggleSet = settings.getInt("toggled", 0);
+        if (toggleSet == 1) {
+            String state = settings.getString("favBra", null);
+            Toast.makeText(this, "Loading favourite...", Toast.LENGTH_SHORT).show();
+            intent = new Intent(this, subject_list.class);
+            intent.putExtra("state", state);
+            intent.putExtra("favBra", true);
+            runner = new Runnable() {
+                public void run() {
+                    startIntent();
+                    finish();
+                }
+            };
+
+        }
+    }
+
+    void startIntent() {
+        startActivity(intent);
     }
 
     public void clickHandler(View view) {
@@ -41,14 +72,15 @@ public class MainActivity extends ActionBarActivity {
         startActivity(intent);
         finish();
     }
-/* NOT NEEDED AS WE ARE NOT RETURNING TO THE SPLASH SCREEN AGAIN
-    @Override
-    protected void onResume(){
-        super.onResume();
-        Log.d("sdaa","sdaa");
-        //handler.postDelayed(runner,delay);
-    }
-*/
+
+    /* NOT NEEDED AS WE ARE NOT RETURNING TO THE SPLASH SCREEN AGAIN
+        @Override
+        protected void onResume(){
+            super.onResume();
+            Log.d("sdaa","sdaa");
+            //handler.postDelayed(runner,delay);
+        }
+    */
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -91,8 +123,7 @@ public class MainActivity extends ActionBarActivity {
     }
 
     @Override
-    public void onBackPressed()
-    {
+    public void onBackPressed() {
         return;
     }
 }

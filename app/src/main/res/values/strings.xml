@@ -12,5 +12,6 @@
     <string name="rate_us">RATE US</string>
     <string name="favorite">Mark As Favorite</string>
     <string name="title_activity_sem_list">For You</string>
+    <string name="title_activity_checkbox">checkbox</string>
 
 </resources>

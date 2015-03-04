@@ -2,20 +2,13 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.helpinghands.foryou.subject_list">
-    <item
-        android:id="@+id/share_button"
-        android:icon="@drawable/ic_action_share"
-        android:title="@string/share_title"
-        android:orderInCategory="100"
+    <item android:id="@+id/favorite_branch" android:icon="@drawable/ic_action_favorite"
+        android:title="@string/favorite" android:orderInCategory="99" app:showAsAction="always" />
+    <item android:id="@+id/share_button" android:icon="@drawable/ic_action_share"
+        android:title="@string/share_title" android:orderInCategory="100"
         app:showAsAction="always" />
-    <item
-        android:id="@+id/rate_us"
-        android:title="@string/rate_us"
-        android:orderInCategory="100"
+    <item android:id="@+id/rate_us" android:title="@string/rate_us" android:orderInCategory="100"
         app:showAsAction="always" />
-    <item
-        android:id="@+id/action_settings"
-        android:title="@string/action_settings"
-        android:orderInCategory="100"
-        app:showAsAction="always" />
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="always" />
 </menu>
