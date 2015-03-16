@@ -20,12 +20,9 @@ public class yearlist extends ActionBarActivity {
     }
 
     public void clickHandler(View view) {
-        if (Integer.parseInt(view.getTag().toString()) < 3) {
-            Intent intent = new Intent(this, sem_list.class);
-            intent.putExtra("state", view.getTag().toString());
-            startActivity(intent);
-        } else
-            Toast.makeText(this, "Coming Soon!", Toast.LENGTH_SHORT).show();
+        Intent intent = new Intent(this, sem_list.class);
+        intent.putExtra("state", view.getTag().toString());
+        startActivity(intent);
     }
 
     @Override

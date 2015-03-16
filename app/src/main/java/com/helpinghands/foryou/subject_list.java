@@ -7,13 +7,13 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
-import android.graphics.Typeface;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Handler;
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.internal.view.menu.ActionMenuItemView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -193,7 +193,7 @@ public class subject_list extends ActionBarActivity {
     }
 
     JSONObject findSubject(String subCode) {
-        //Log.d("sac", "finding " + subCode);
+        Log.d("sac", "finding " + subCode);
         JSONObject sub = null;
         for (int i = 0; i < paperCount; i++) {
             sub = (JSONObject) papers.get(i);
@@ -249,6 +249,10 @@ public class subject_list extends ActionBarActivity {
                 return true;
             case R.id.favorite_branch:
                 toggleFavoriteBranch2();
+                return true;
+            case android.R.id.home:
+                onBackPressed();
+                //Log.d("sa","ss");
                 return true;
         }
         return super.onOptionsItemSelected(item);

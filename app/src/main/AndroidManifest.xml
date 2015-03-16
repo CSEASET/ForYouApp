@@ -34,10 +34,10 @@
         <activity
             android:name=".subject_list"
             android:label="@string/title_activity_subject_list"
-            android:parentActivityName=".sem_list">
+            android:parentActivityName=".yearlist">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.helpinghands.foryou.sem_list" />
+                android:value="com.helpinghands.foryou.yearlist" />
         </activity>
         <activity
             android:name=".developer"
