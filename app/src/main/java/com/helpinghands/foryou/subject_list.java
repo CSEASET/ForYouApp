@@ -193,7 +193,7 @@ public class subject_list extends ActionBarActivity {
     }
 
     JSONObject findSubject(String subCode) {
-        Log.d("sac", "finding " + subCode);
+        //Log.d("sac", "finding " + subCode);
         JSONObject sub = null;
         for (int i = 0; i < paperCount; i++) {
             sub = (JSONObject) papers.get(i);

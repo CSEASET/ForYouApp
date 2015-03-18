@@ -29,16 +29,16 @@ android {
         higher {
             applicationId "com.helpinghands.foryou"
             minSdkVersion 11
-            versionCode 103
-            versionName "1.1"
+            versionCode 104
+            versionName "1.2"
             signingConfig signingConfigs.config
         }
         lower {
             applicationId "com.helpinghands.foryou"
             minSdkVersion 7
             maxSdkVersion 10
-            versionCode 3
-            versionName "1.1"
+            versionCode 4
+            versionName "1.2"
             signingConfig signingConfigs.config
         }
     }
