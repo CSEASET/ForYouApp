@@ -1,0 +1,40 @@
+{
+    "ETPH104": [
+        {
+            "paperTitle": "APPLIED PHYSICS-II",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                        "unit": {
+                            "unitTitle": "Electromagnetic Theory",
+                            "unitDetails": "Gradient, Divergence, Curl, Gauss’ law, Ampere’s Law, Continuity equation,Maxwell’s equations (differential and integral forms), Significance of Maxwell’s equations, Poynting Theorem,Electromagnetic wave propagation in dielectrics and conductors."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Statistical Physics",
+                            "unitDetails": "Black body radiation, Planck's radiation formula, Wien's and Rayleigh-Jeans Laws,Distribution laws: Qualitative features of Maxwell-Boltzmann, Bose-Einstein and Fermi-Dirac statistics & their comparison (without derivation)."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Quantum Mechanics",
+                            "unitDetails": "Postulates of Quantum mechanics, de-Broglie hypothesis, Davisson Germer experiment,Wave function and its physical significance, Wave Packet, Phase and group velocities, Uncertainty principle,Schrodinger equation for free particle, Time dependent Schrodinger equation, Particle in a box (1-D)."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Crystal Structure",
+                            "unitDetails": "Types of solids, Unit cell, Types of crystals, Translation vectors, Lattice planes, Miller indices, Simple crystal structures, Interplaner spacing, Crystal structure analysis: Bragg’s law, Laue method,Point defects: Schottcky and Frankel defects."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Band Theory of Solids",
+                            "unitDetails": "Introduction, Kronig-Penney model: E-k diagram, Effective mass of an electron,Intrinsic semiconductors: Electron concentration in conduction band, Hole concentration in valence band,Extrinsic semiconductor: p-type and n-type semiconductors, Fermi level, Hall Effect: Hall voltage and Hall coefficient."
+                        }
+                    }
+            ]
+        }
+    ]
+}

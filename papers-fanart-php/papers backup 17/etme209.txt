@@ -1,0 +1,34 @@
+{
+    "ETME209": [
+        {
+            "paperTitle": "Electrical Machines",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "DC Machines",
+                        "unitDetails": "Constructional features, Principles of operation, EMF equation Voltage build up phenomenon in a D.C. shunt generator, characteristics of different types of generators. Principle of operation of DC motor, back emf, speed and torque equation, various characteristics of different motors, starters and speed control of DC motors, applications of DC generators and motors. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "AC Machines",
+                        "unitDetails": "Constructional features, concept of revolving magnetic field, and principle of operation of Three phase induction motors, torque slip characteristics and power flow in induction motors, induction motor as a transformer, equivalent circuit, performance calculations, starting and speed control. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Three Phase synchronous Machine",
+                        "unitDetails": "Constructional features EMF equation. Armature reaction of synchronous generator, voltage regulation of generators, phasor diagrams and equivalent circuits of synchronous machine, computation of synchronous machine performance. Starting methods and principle of operation of synchronous motors, synchronous condenser. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Single phase induction motors",
+                        "unitDetails": ": double revolving field theory, different types of single phase induction motors, characteristics and typical applications. Stepper motors, hysteresis motor, Servo motors, AC series motor and Universal motor and their applications to mechanical systems. "
+                    }
+                }
+            ]
+        }
+    ]
+}

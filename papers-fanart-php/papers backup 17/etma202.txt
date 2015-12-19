@@ -1,0 +1,34 @@
+{
+    "ETMA202": [
+        {
+            "paperTitle": "Applied Mathematics-IV",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Partial Differential",
+                        "unitDetails": "Partial Differential Equation: linear partial differential equations with constant coefficient, homogeneous and non homogeneous linear equations. Method of separation of variables. Laplace equation, wave equation and heat flow equation in Cartesian coordinates only with initial and boundary value."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Probability Theory",
+                        "unitDetails": "Probability Theory: Definition, addition law of probability, multiplication law of probability, conditional probability, Baye’s theorem, Random variable: discrete probability distribution, continuous probability distribution, expectation, moments, moment generating function, skewness, kurtosis, binomial distribution, Poisson distribution, normal distribution. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Curve Fitting",
+                        "unitDetails": "Curve Fitting: Principle of least square Method of least square and curve fitting for linear and parabolic curve, Correlation Coefficient, Rank correlation, line of regressions and properties of regression coefficients. Sampling distribution: Testing of hypothesis, level of significance, sampling distribution of mean and variance, Chi-square distribution, Student’s T- distribution, F- distribution, Fisher’s Z- distribution. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Linear Programming",
+                        "unitDetails": "Linear Programming: Introduction, formulation of problem, Graphical method, Canonical and Standard form of LPP, Simplex method, Duality concept, Dual simplex method, Transportation and Assignment problem. "
+                    }
+                }
+            ]
+        }
+    ]
+}

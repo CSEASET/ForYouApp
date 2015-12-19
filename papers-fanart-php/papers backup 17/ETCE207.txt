@@ -1,0 +1,34 @@
+{
+    "ETCE207": [
+        {
+            "paperTitle": "BUILDING MATERIALS AND CONSTRUCTION",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Building Materials:",
+                        "unitDetails": " Properties and uses of common types of stones, bricks, tiles and hollow building blocks, Pozzolonic Material, Cement, lime and mortar, Properties, types and applications of other building materials like timber, protective coverings [Paints and varnishes], rubber, bitumen, tar and asphalt, glass, plastics and polymers, refractory materials etc. Plastering, Pointing, Painting, distempering, white washing, damp proofing, ventilation and air conditioning, Concept of thermal insulation, sound insulation, fire protection"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Concrete:",
+                        "unitDetails": " Cement, Sand, aggregates and water, Batching of concrete by weight and volume, Batching plant and equipment, workability, mix proportions and grades of concrete, types of mixers, transportation, pumping, placing and compacting of concrete. Admixtures, Formwork for RCC structures, Ready mix concrete, Pre-cast concrete. Types of concrete: Special concrete, light weight concrete, high density concrete, vacuum concrete, shotcrete – steel fiber reinforced concrete, polymer concrete, Ferro cement, high performance concrete, self compacting concrete"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Building construction",
+                        "unitDetails": " Components of building, shallow and deep foundations, Stone and brick masonry, type of bonds, load bearing walls, cavity wall, partition walls, finishing/coating materials for Roofs/floors/walls, construction and expansion joints, Introduction to Green building and LEED Classifications"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Stairs, lintels, trusses, arches, domes, doors and windows",
+                        "unitDetails": " Introduction, classification, types, material of construction. Special Materials and Systems: Smart materials and structures, geosynthetics, nano-materials and biomaterials, Fire resistant materials, Sound Insulation. "
+                    }
+                }
+            ]
+        }
+    ]
+}

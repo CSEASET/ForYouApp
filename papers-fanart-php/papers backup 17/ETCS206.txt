@@ -1,0 +1,34 @@
+{
+    "ETCS206": [
+        {
+            "paperTitle": "Theory of Computation",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Overview",
+                        "unitDetails": "Overview: Alphabets, Strings & Languages, Chomsky Classification of Languages, Finite Automata,Deterministic finite Automata (DFA) & Nondeterministic finite Automata (NDFA), Equivalence of NDFA and DFA, Minimization of Finite Automata, Moore and Mealy machine and their equivalence, Regular expression andKleen’s Theorem(with proof), Closure properties of Regular Languages, Pumping Lemma for regular Languages(with proof)."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Context",
+                        "unitDetails": "Context free grammar, Derivation trees, Ambiguity in grammar and its removal, Simplification of Context Free grammar, Normal forms for CFGs: Chomsky Normal Form & Greibach Normal Form, Pumping Lemma for Context Free languages, Closure properties of CFL(proof required), Push Down Automata (PDA), Deterministic PDA, Non Deterministic PDA ,Equivalence of PDA and CFG, Overview of LEX and YACC."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Turing Machines",
+                        "unitDetails": "Turing machines, Turing Church’s Thesis, Variants and equivalence of Turing Machine, Recursive and recursively enumerable languages, Halting problem, Undecidability, Examples of Undecidable problem."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Complexity",
+                        "unitDetails": "Introduction to Complexity classes, Computability and Intractability, time complexity, P, NP, Co-NP, Proof of Cook’s Theorem, Space Complexity, SPACE, PSPACE, Proof of Savitch’s Theorem, L ,NL ,Co-NL complexity classes."
+                    }
+                }
+            ]
+        }
+    ]
+}

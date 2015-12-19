@@ -1,0 +1,34 @@
+{
+    "ETTE211": [
+        {
+            "paperTitle": "MECHANICS OF SOLIDS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Simple Stresses & strains",
+                        "unitDetails": "Concept of stress at a point, Tensile, Compressive, shear and volumetric stresses and Strains, Young’s modulus, modulus of rigidity, complementary shear stress, lateral strain and Poisson’s ratio.Strain relationships.Compound bars and Temperature stresses: Stresses in compound bars carrying axial loads and subjected to temperature stresses."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Simple bending",
+                        "unitDetails": "Shear force and bending moment diagrams of cantilevers, simply supported beams under concentrated, uniformly loaded and varying loads with and without overhangs. Stresses in beams and cantilevers under bending, beam of uniform strength, bending due to eccentric loads. Shear stress in beams, strain energy,Castigliano’s theorem Slope and defection of cantilevers and beams under concentrated and uniformly distributed loads. Moment Area method, MaCaulay’s method; principle of superposition"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Columns",
+                        "unitDetails": "Columns: Combined direct and bending stresses in columns, Euler’s and Rankine Gordon equations.Torsion: Stresses and strains in pure torsion of solid circular shafts and hollow circular shafts. Power transmitted by shafts; combined bending and torsion. Strain energy in torsion Complex stresses and strains: Principle stress and strain due to combination of stresses, Mohr’s circle,strain energy, theories of Failures"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Springs",
+                        "unitDetails": "Springs: Close-coiled springs, leaf springs.Cylinders: Thin and thick cylinders, Lame’s Theorem, compound cylinders, spherical vessels."
+                    }
+                }
+            ]
+        }
+    ]
+}

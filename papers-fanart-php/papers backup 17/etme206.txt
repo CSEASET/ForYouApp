@@ -1,0 +1,34 @@
+{
+    "ETME206": [
+        {
+            "paperTitle": "Manufacturing Machines",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Classification of machine tools based on application and production rate: General purpose and Special purpose machines, Classification based on-types of machine tools and the processes, Generating and forming. Elements of metal cutting processes: Elements of tool geometry, cutting tool materials and applications. Lathe: Various types of lathe: Centre lathe, facing lathe, gap-bed lathe, capstan and turret lathe, NC, CNC and DNC lathe, major difference between CNC lathe and conventional lathe. Major sub-assemblies of a lathe: Bed, headstock, tail stock, carriage consisting of saddle, cross-slide, compound slide, tool post and apron. Work holding devices: self centering three jaw chuck, independent four jaw chuck, collets, face plates, dog carriers, centers and mandrels, Rest(Steady and Moving). "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Lathe Contd.",
+                        "unitDetails": "Lathe Contd..: Driving mechanisms, apron mechanism, thread cutting mechanism and calculations, features of half-nut engagement – disengagement, indexing dial mechanism. Operations on lathe: taper turning, related calculations, thread cutting, facing, under-cutting, drilling, boring, parting-off, knurling, chamfering. Reciprocating Type Machine Tools: Shaper, Planer and Slotter: Constructional features, basic machines and kinematics and related calculations. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Drilling & Miling MAchines",
+                        "unitDetails": "Drilling Machines: Constructional features of bench drilling machine, radial drilling machine, multi-spindle drilling machine, feed mechanism, work holding devices, Tool – holding devices. Different drilling operations: Drilling, reaming, counter boring and countersinking etc. estimation of drilling time. Milling Machines: Types of general purpose milling machines: horizontal, vertical, universal and their principal parts. Types of milling cutters and their applications, different milling operations, work-holding devices: vice, clamps, chucks, dividing head and its use, simple, compound and differential indexing. Indexing calculations and machining time calculations. Introduction to machining centers. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Grinding MAachines",
+                        "unitDetails": "Grinding Machines: Different types of grinding machines: cylindrical, surface and centre-less grinding machines, basic constructional features and mechanisms, specifications, different grinding operations, honing,  lapping and super-finishing processes. Gear Manufacturing Machines: Gear forming, gear generation, gear shaping and gear hobbing"
+                    }
+                }
+            ]
+        }
+    ]
+}

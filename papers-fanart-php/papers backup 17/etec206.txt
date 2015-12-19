@@ -1,0 +1,34 @@
+{
+    "ETEC206": [
+        {
+            "paperTitle": "NETWORK ANALYSIS AND SYNTHESIS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Review of Signals",
+                        "unitDetails": "Review of signals & systems and their classification, periodic waveforms and signal synthesis, properties and applications of Laplace transform of complex waveform. Concept of generalized frequency, circuit representation & their response in terms of generalized frequency. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "System Modelling",
+                        "unitDetails": "System modeling in terms of differential equations and transient response of R, L, C, series and parallel circuits for impulse, step, ramp, sinusoidal and exponential signals by classical method and using Laplace transform. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Two Port Networks",
+                        "unitDetails": "Introduction of two port parameters and their interconversion, interconnection of two 2- port networks, open circuit and short circuit impedances and ABCD constants relation between image impedances and short circuit and open circuit impedances. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "General Network Functions",
+                        "unitDetails": ": Concepts of Network functions (driving point and transfer function), concept of minimum phase analysis of Lattice T and Bridged T networks. Concept of poles & zeros. Hurwitz polynomial, positive real function and synthesis of LC, RC, RL Networks in Foster’s I and II, Cauer’s I & II forms, Introduction of passive filter and their classification, frequency response, characteristic impedance of low pass and high pass prototype section. "
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "ETMA101": [
+        {
+            "paperTitle": "APPLIED MATHEMATICS-I",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Successive differentiation",
+                        "unitDetails": "Leibnitz theorem for nth derivative (without proof). Infinite series: Convergence and divergence of infinite series, positive terms infinite series, necessary condition, comparison test (Limit test),D’Alembert ratio test, Integral Test, Cauchy’s root test, Raabe’s test and Logarithmic test(without proof).Alternating series, Leibnitz test, conditional and absolutely convergence. Taylor’s and Maclaurin’s expansion(without proof) of function ( ex, log(1+x), cos x , sin x) with remainder terms ,Taylor’s and Maclaurin’s series, Error and approximation"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Asymptotes to Cartesian curves",
+                        "unitDetails": "Asymptotes to Cartesian curves. Radius of curvature and curve tracing for Cartesian, parametric and polar curves. Integration: integration using reduction formula for, . Application of integration : Area under the curve, length of the curve, volumes and surface area of solids of revolution about axis only .Gamma and Beta functions"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Matrices",
+                        "unitDetails": "Orthogonal matrix, Hermitian matrix, Skew-Hermitian matrix and Unitary matrix. Inverse of matrix by Gauss-Jordan Method (without proof). Rank of matrix by echelon and Normal (canonical) form. Linear dependence and linear independence of vectors. Consistency and inconsistency of linear system of homogeneous and non homogeneous equations . Eigen values and Eigen vectors. Properties of Eigen values(without proof). Cayley-Hamilton theorem (without proof). Diagonlization of matrix. Quadratic form, reduction of quadratic form to canonical form."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Ordinary differential equations",
+                        "unitDetails": "First order linear differential equations, Leibnitz and Bernaulli’s equation. Exact differential equations , Equations reducible to exact differential equations. Linear differential equation of higher order with constant coefficients, Homogeneous and non homogeneous differential equations reducible to linear differential equations with constant coefficients. Method of variation of parameters. Bessel’s and Legendre’s equations (without series solutions), Bessel’s and Legendre’s functions and their properties"
+                    }
+                }
+            ]
+        }
+    ]
+}

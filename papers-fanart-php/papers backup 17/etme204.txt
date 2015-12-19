@@ -1,0 +1,34 @@
+{
+    "ETME204": [
+        {
+            "paperTitle": "STRENGTH OF MATERIALS-II",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "3D Stresses",
+                        "unitDetails": "Three dimensional stress and strain, Stress tensor, stress invariants, Strain Tensor, Equilibrium Equations, St. Vernants principle, generalized hooks law, Theories of elastic failure. Strain Energy: Strain Energy Due to Axial Force, Shear Stress, Bending; Maxwell’s reciprocal theorem, Castigliano’s theorem for statistically determinate structures"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Shear Stress",
+                        "unitDetails": "Shear stress at a section,shear stress distribution for different sections: square, rectangular, Triangular, Circular section, I-section, T-section. Thick Cylinders:Stresses in thick cylinders, sphere subjected to internal pressure, Lame’s equations, compound cylinders, spherical vessels, hub shrunk on solid shafts"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Columns",
+                        "unitDetails": "Combined direct and bending stresses in columns, Euler’s and Rankine Gordon equations, applications of Johnson's empirical formula for axially loaded columns. Curved Beams: Bending of beams with large initial curvature, position of neutral axis for rectangular, trapezoidal and circular cross sections, stress in crane hooks. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Rotating Disc",
+                        "unitDetails": "Rotational stresses in discs and rims of uniform thickness; discs of uniform Strength, long cylinder. Unsymmetrical Bending and Shear Centre: Properties of beam cross-section, Principal Axes, Determination of Principal Axes, stress and deflection in unsymmetrical bending, shear centre. "
+                    }
+                }
+            ]
+        }
+    ]
+}

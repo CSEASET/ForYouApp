@@ -1,0 +1,34 @@
+{
+    "ETEN208": [
+        {
+            "paperTitle": "Introduction to Environmental Legislation",
+            "paperCredits": 2,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Evolution and Planning",
+                        "unitDetails": "Evolution of Engineering and Law, Evolution of environmental policy and major policy parameters, Importance of Environmental planning and Management, Agencies for Environmental planning, Power and responsibilities, National and International conventions. Legal Framework for Environmental Planning: Environmental Legislation, Public policy strategies in pollution control.International Policy Framework and Conventions."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Control of Pollution Acts",
+                        "unitDetails": "Water (prevention and control of pollution) Act 1974, Cess Act 1977, Air(prevention and control of pollution) Act 1981, Power and responsibilities of central and state pollution control boards, Noise Pollution(Regulation and control)Act 2000."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Acts and Rules",
+                        "unitDetails": "The Environment Protection Act, 1986 with rules and amendments, Motor Vehicle Act, 1988 and The Central Motor Vehicles Rules, 1989 with amendments. Municipal Waste (Management and Handling Rules, 2000),Biomedical Waste (Management and Handling) rules"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Management Acts",
+                        "unitDetails": "Hazardous Waste (Management and Handling Rules, 1989 and amendments), Federal Hazardous Waste Regulations under RCRA, Superfund, CERCLA and SARA.Indian Forest Act 1927, Forest Conservation Act 1980, Coastal Zone Management Act 1972, Wild Life (Protection) Act 1972, Clean water Act, Wetland Preservation Act, EIA Notification 1994, EIA Notification 2006."
+                    }
+                }
+            ]
+        }
+    ]
+}
