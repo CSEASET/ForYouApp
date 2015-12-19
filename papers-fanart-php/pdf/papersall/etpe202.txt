@@ -1,0 +1,34 @@
+{
+    "ETPE202": [
+        {
+            "paperTitle": "Power Generation Engineering",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Introduction: Conventional & Non-Conventional Sources of Energy and their availability in India, Different Types of Power Plants, Choice of Type of Power Generation, Power Plants in India. Hydro Power Generation: Hydrology – Hydrographs, Flow Duration Curve, Mass Curve; Principle of working, Classification, Site selection; Different components & their functions; Types of Dams; Types, Characteristics & Selection of Hydro-Turbines; Specific Speed of Hydro-Turbines; Power Output Equation; Turbine Governing; Draft Tube; Bearings; Water Hammer & Surge Tank, Cavitation, General arrangement and Operation of Hydroelectric Power Plant, Mini & Micro Hydro Power Plants, Pumped Storage Power Plants; Advantages of Hydroelectric Power Plants; Hydro Power in India & future trends"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Nuclear Power Generation",
+                        "unitDetails": "Nuclear Power Generation: Principle of Nuclear Energy, Nuclear Power Plant Components & their Functions; Nuclear Fuels, Radioactivity, Nuclear Reaction & Classification; Nuclear Reactors – Types & Classification, Main Parts; Problems in Reactor Operation; Radiation Hazards; Safety Measures; Nuclear Waste & its Disposal; Nuclear Power in India"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Gas Power Generation",
+                        "unitDetails": "Gas Power Generation: Operating Principle; Classification – Open Cycle, Closed Cycle, Combined Cycle; Fuels for Gas Turbine Power Plants; Different Components and their functions; Gas Turbine Characteristics, Cycle Efficiency, Operational Aspects, Advantages and Limitations. Diesel Power Generation: Working principle, Types of Diesel Engines, Different parts / systems and their functions, Performance of Diesel Engine, Plant Operation and Efficiency, Heat Balance, Advantages and Disadvantages, Applications"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Thermal Power Generation",
+                        "unitDetails": "Thermal Power Generation: Operating Principle, Site selection, Coal to Electricity, General Layout of Thermal Power Plant, Brief description of different parts/systems and their functions, Advantages and Limitations. Co-Generation: Concept; Schemes; Brief Description; Benefits & Limitations; Applications. Non-Conventional Energy Sources: Types, Brief Description, Advantages & Limitations"
+                    }
+                }
+            ]
+        }
+    ]
+}

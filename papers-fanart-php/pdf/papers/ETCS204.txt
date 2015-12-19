@@ -1,0 +1,34 @@
+{
+    "ETCS204": [
+        {
+            "paperTitle": "Computer Organization & Architecture",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Computer Arithmetic and Register transfer language",
+                        "unitDetails": "Unsigned notation, signed notation, binary coded decimal, floating point numbers, IEEE 754 floating pointstandard, Micro-operation, Bus and Memory Transfers, Bus Architecture, Bus Arbitration, Arithmetic Logic, Shift Micro operation, Arithmetic Logic Shift Unit."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Instruction set architecture & computer organization",
+                        "unitDetails": "Levels of programming languages, assembly language instructions, 8085 instruction set architecture, Instruction Codes, Computer Registers, Computer Instructions, Timing & Control, Instruction Cycle, Memory Reference Instructions, Input-Output and Interrupts"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Control Design",
+                        "unitDetails": "Instruction sequencing & interpretation, Hardwired & Micro Programmed (Control Unit), Micrprogrammed computers, Microcoded CPU: Pentium processor. Specifying a CPU, Design & implementation of simple CPU,General Register Organization, Stack Organization, Instruction Formats, Addressing Modes, Internal architecture of 8085 microprocessor."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Memory & Input/Output organization",
+                        "unitDetails": "Memory Technology, Main Memory (RAM and ROM Chips), Virtual memory, High-speed memories Asynchronous Data Transfers, Programmed I/O, interrupts, Direct memory Access, Serial communication,UARTs, RS-232-C & RS-422 standard"
+                    }
+                }
+            ]
+        }
+    ]
+}

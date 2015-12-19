@@ -1,0 +1,34 @@
+{
+    "ETCE205": [
+        {
+            "paperTitle": "FLUID MECHANICS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": " Fluid properties, Ideal and real fluids, Concept of viscosity, surface tension and compressibility; thermodynamic (isothermal, isobaric and adiabatic) properties. Fluid Statics: Fluid pressure and its measurement, types of manometers, Total pressure and centre of pressure, Evaluation of pressure force on dams, lock gates, curved surfaces, pressure distribution in liquid subjected to constant horizontal/vertical acceleration, principles of equilibrium, buoyancy, centre of buoyancy, meta centre, stability conditions of floating and submerged bodies, Experimental and analytical method of determination of meta-centric height. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Fluid Kinematic",
+                        "unitDetails": " Variation of flow parameters in space and time, Lagrangian and Eularian concepts in fluid motion, Types of fluid flow: steady and unsteady, uniform and non uniform, rotational and irrotational, Laminar and turbulent, one, two and three dimensional flow, streamline, pathline and streakline, Continuity equation in Cartesian and polar co-ordinates and its applications, Velocity potential and stream function, Cauchy-Riemann equation, flownet. Types of motion: Linear translation, linear deformation, Angular deformation, Rotation, Vorticity, Free and forced vortex flow. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Fluid Dynamics",
+                        "unitDetails": "Reynolds’s, Navier-Stokes and Euler’s equations of motion, Derivation of Bernoulli’s equation from Euler’s equation and its limitations, Applications of Bernoulli’s equations-Orifice, Venturimeter, Mouth piece, Weir and notch, Pitot’s tube, Siphon, etc; hydraulic gradient and total energy lines and their Engineering significance. Momentum equation, Moment of momentum equation- Assumptions and limitations, applications, impact of jets and forces in bend"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Dimensional and Model Analysis",
+                        "unitDetails": " Dimensional homogeneity, methods of dimensional analysis, Buckingham’s p theorem, selection of Repeating variables, Forces acting on moving fluid, Dimensionless numbers and their Engineering significance, Model analysis, Geometric, Kinematic and Dynamic similarity, Model testing of partially submerged bodies, scale ratios for distorted models."
+                    }
+                }
+            ]
+        }
+    ]
+}

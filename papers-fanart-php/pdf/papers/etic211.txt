@@ -1,0 +1,34 @@
+{
+    "ETIC211": [
+        {
+            "paperTitle": "BASICS OF MEASUREMENTS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Significance of measurement, Different methods of measurement, Classification of measuring instruments, Application of measurement systems, typical measurement schemes. Units and Standards: MKS, SI units of engineering parameters, Details of different standards-mass, length, time, frequency, temperature, EMF, ampere, sub standards and lab standards . Performance Characteristics: Definition of range, span, accuracy, precision, drift, sensitivity, reproducibility, repeatability, dead zone, resolution, hysteresis, threshold, zero error, noise, linearity, loading effect, static characteristics . "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Testing & Calibration of measurement setup",
+                        "unitDetails": "Dynamic Characteristics: Dynamic response; Transient response; speed of response, fidelity, measuring lag etc, Linear approximation, Introduction to compensation techniques.  Significance of testing and calibration, Calibration curve, Standards for calibration, Different calibration procedures-primary, secondary, direct, indirect, routine calibration, Calibration setup:-pressure gauge, level etc. Calibration of Ammeter, Voltmeter and Wattmeter, Energy meter"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Analysis of Errors",
+                        "unitDetails": "Definition; Types of errors; Calculation methods of different errors; Gaussian curve; Precision Index; Variance; Standard deviation; Uncertainty in measurement,Chi-Square Test,Curve fitting methods. Galvanometers: D’Arsonaval Galvanometer— construction, Torque equation, Dynamic characteristic, Balastic Galvanometer— construction, working principle. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Displays and Recorders",
+                        "unitDetails": "Indicating Instruments- Construction, Operating principle of spring control, gravity control and damping. Recorders- Working Principle of chart recorder, strip chart, circular chart, magnetic tape recorder, thermal recorders, printer. Electronic Display- LCD, LED, alphanumeric, storage Oscilloscope. "
+                    }
+                }
+            ]
+        }
+    ]
+}

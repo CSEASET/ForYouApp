@@ -1,0 +1,34 @@
+{
+    "ETME105": [
+        {
+            "paperTitle": "MANUFACTURING PROCESSES",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Introduction of Manufacturing processes and their classification, Basic Metals & Alloys :Properties and Applications. Properties of Materials: Strength, elasticity, stiffness, malleability, ductility,brittleness, toughness and hardness. Ferrous Materials: Carbon steels, its classification based on % carbon as low, mild, medium & high carbon steel, its properties & applications. Wrought iron. Cast iron. Alloy steels:stainless steel, tool steel. Elementary introduction to Heat- treatment of carbon steels: annealing, normalizing,quenching & tempering and case- hardening.Non-Ferrous metals & alloys: Properties and uses of various non-ferrous metals & alloys and its composition such as Cu-alloys: Brass, Bronze, Al-alloys such as Duralumin.Casting Processes:Principles of metal casting, Pattern materials, types and allowance, composition and properties of moulding sand, foundry tools, concept of cores and core print, elements of gating system, description and operation of cupola, special casting processes e.g. die-casting; permanent mould casting; centrifugal casting; investment casting; casting defects"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Smithy and Forging",
+                        "unitDetails": "Hot working and cold working, Forging tools and equipments, Forging operations, Forging types: Smith forging, Drop forging, Press forging, Machine forging; Forging defects; Extrusion, wire drawing, swaging.Bench Work and Fitting:Fitting shop tools, operation: Fitting; sawing; chipping; thread cutting (with taps and dies);Marking and marking tools"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Metal joining",
+                        "unitDetails": "Welding principles, classification of welding techniques, Oxyacetylene Gas welding, equipment and field of application, Arc-welding, metal arc, Carbon arc welding, submerged arc welding and atomic hydrogen welding, TIG and MIG welding, Electric resistance welding: spot; seam; flash; butt and percussion welding, Flux: composition; properties and function, Electrodes, Types of joints and edge preparation, Brazing and soldering, welding defects"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Sheet Metal Work",
+                        "unitDetails": "Tools and equipments used in sheet metal work, metals used for sheets, standard specification for sheets, Types of sheet metal operations: shearing, drawing, bending. Other operations like spinning, stretch forming,embossing and coining.Powder Metallurgy: Introduction of powder metallurgy process: powder production, blending, compaction,sintering."
+                    }
+                }
+            ]
+        }
+    ]
+}

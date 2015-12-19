@@ -1,0 +1,34 @@
+{
+    "ETEE208": [
+        {
+            "paperTitle": "Electrical and Electronic Measuring Instruments",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Power and Energy Measurement",
+                        "unitDetails": "Instrument transformers:, CT and PT, Ratio and phase angle errors.Measurement of Power: Single phase and three phase dynamometer wattmeter, LPF and UPF, expression for deflecting and control torques, Extension of range of wattmeter using instrument transformers.Type of P.F. Meters, dynamometer and moving iron type, Single phase and three phase meters. Frequency meters, Resonance type and Weston type, synchoroscopes.Measurement of Energy: single phase and three phase induction type energy meter , driving and braking torques,errors and compensations , testing by phantom loading, trivector meter, maximum demand meters."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Potentiometers and Bridges",
+                        "unitDetails": "Principle of operation and types of D. C. / A.C potentiometers, application of DC/AC potentiometers.Bridges for measuring low, medium and high resistance, Carey Foster’s bridge, Kelvin’s double bridge, Megohm bridge,Megger.A.C. Bridges: Measurement of inductance and capacitance, Maxwell’s bridge, Hay’s bridge, Anaderson’s bridge, Owen’s bridge, Heaviside Bridge and its modifications, Desauty bridge. Wien’s bridge, Schering Bridge."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Display Devices and Recorders",
+                        "unitDetails": "Introduction of various display devices, LCD, LED and plasma display, resolution, sensitivity and accuracy specifications, CRO & its applications, triggered CRO, sampling oscilloscope. Recorders: requirement of recording data, selection of recorder for a particular application, analog, graphic, strip chart, galvanometeric,circular chart, XY, digital recorders, single point and multipoint recorders.Printers: Types of Printers, Drum type printer, dot matrix type printer ,Ink-jet and Laser jet printers"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "[Electronic Measuring Instruments",
+                        "unitDetails": "Electronic Voltmeter: Solid state voltmeter, RMS and average reading voltmeters, rectifier type voltmeter,vector voltmeter, A.C. voltage measurements. Current measurement using electronic instruments, multi range ammeter, Measurement of Power at Audio and Radio Frequencies, Diode Sensor based instruments, Analog and Digital Multimeters. Digital Measurement of time, frequency, phase, pH, capacitance, Counters.Function Generator: Sine, Square and Triangular wave generator."
+                    }
+                }
+            ]
+        }
+    ]
+}

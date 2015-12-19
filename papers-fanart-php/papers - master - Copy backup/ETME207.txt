@@ -1,0 +1,34 @@
+{
+    "ETME207": [
+        {
+            "paperTitle": "MATERIAL SCIENCE & METALLURGY",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Structure of metal",
+                        "unitDetails": "Crystal structure (BCC, FCC and HCP, Packing factor and density calculation), X-ray diffraction, miller indices, lattices, imperfections, elementary treatment of point and line defects and their relation to mechanical properties. Diffusion: Diffusion mechanisms, steady state and non steady state diffusion, factors affecting diffusion Deformation: Slip, twinning, effect of cold and hot working on mechanical properties, principles of recovery, recrystallization and gain growth."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Fracture",
+                        "unitDetails": "Types of fracture ductile and brittle, fatigue Creep: Basic consideration in the selection of material for high and low temperature service, creep curve, effect of material variables on creep properties, brittle failure at low temperature. Solidification: Phases in metal system, lever rule, solidification of metal and alloys, solid solution, eutectic, eutectoid and inter-metallic compounds, Iron carbon equilibrium diagram, TTT-diagram. Effect of alloying elements on TTT diagram, S-N curve."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Heat Treatment",
+                        "unitDetails": "Principles and purpose of heat treatment of plain carbon steels, annealing, normalizing, hardening, tempering, isothermal treatment, case hardening – carburizing, nitriding etc, precipitating hardening of aluminum alloys. Hardenability: determination of hardenability Jominy end quench test. Materials: Plain Carbon steels, effect of alloying elements, properties, uses, springs, and wear resisting steels, IS standards codes for steels"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Corrosion",
+                        "unitDetails": "Types of corrosion, Galvanic cell, rusting of Iron, Methods of protection from corrosion. Fiber Reinforced Composites: General characteristics, Applications, Introduction to Fibers – glass, carbon, Kevlar 49 fibers. Matrix – Polymeric, Metallic, Ceramic Matrix, Coupling agents and fillers."
+                    }
+                }
+            ]
+        }
+    ]
+}

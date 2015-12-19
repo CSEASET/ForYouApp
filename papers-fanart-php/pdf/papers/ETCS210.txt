@@ -1,0 +1,34 @@
+{
+    "ETCS210": [
+        {
+            "paperTitle": "Object Oriented Programming",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Objects and Operators",
+                        "unitDetails": "Objects, relating to other paradigms (functional, data decomposition), basic terms and ideas (abstraction,encapsulation, inheritance, polymorphism). Review of C, difference between C and C++, cin, cout, new, delete operators."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Encapsulation",
+                        "unitDetails": "Encapsulation, information hiding, abstract data types, object & classes, attributes, methods. C++ class declaration, state identity and behavior of an object, constructors and destructors, instantiation of objects, default parameter value, object types, C++ garbage collection, dynamic memory allocation, metaclass/abstract classes."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Inheritence",
+                        "unitDetails": "Inheritance, Class hierarchy, derivation – public, private & protected; aggregation, composition vs classification hierarchies, polymorphism, categorization of polymorphic techniques, method polymorphism, polymorphism by parameter, operator overloading, parametric polymorphism, generic function – template function, function name overloading, overriding inheritance methods, run time polymorphism."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Standard C++",
+                        "unitDetails": "Standard C++ classes, using multiple inheritance, persistant objects, streams and files, namespaces, exception handling, generic classes, standard template library: Library organization and containers, standard containers, algorithm and Function objects, iterators and allocators, strings, streams, manipulators, user defined manipulators,vectors, valarray, slice, generalized numeric algorithm."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "ETHS301": [
+        {
+            "paperTitle": "COMMUNICATION SKILLS FOR PROFESSIONALS",
+            "paperCredits": 1,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Organizational Communication",
+                        "unitDetails": "Meaning, importance and function of communication, Process of communication, Communication Cycle - message, sender, encoding, channel, receiver, decoding, feedback, Characteristics, Media and Types of communication, Formal and informal channels of communication, 7 C’s of communication, Barriers to communication, Ethics of communication (plagiarism, language sensitivity) Soft Skills: Personality Development, Self Analysis through SWOT, Johari Window, Interpersonal skills -Time management, Team building, Leadership skills. Emotional Intelligence.Self Development and Assessment- Self assessment, Awareness, Perception and Attitudes, Values and belief, Personal goal setting, Career planning, Self esteem."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Introduction to Phonetics",
+                        "unitDetails": "IPA system (as in Oxford Advanced Learner’s Dictionary), Speech Mechanism, The Description of Speech Sounds, Phoneme, Diphthong, Syllable, Stress, Intonation, Prosodic Features; Pronunciation; Phonetic Transcription - Conversion of words to phonetic symbols and from phonetic symbols to words. British and American English (basic difference in vocabulary, spelling, pronunciation, structure) Non-Verbal Language: Importance, characteristics, types – Paralanguage (voice, tone, volume, speed, pitch, effective pause), Body Language (posture, gesture, eye contact, facial expressions), Proxemics, Chronemics, Appearance, Symbols. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Letters at the Workplace",
+                        "unitDetails": " letter writing (hard copy and soft copy): request, sales, enquiry, order, complaint. Job Application -- resume and cover letter Meeting Documentation-- notice, memo, circular, agenda and minutes of meeting. Report Writing - Significance, purpose, characteristics, types of reports, planning, organizing and writing a report, structure of formal report. Writing an abstract, summary, Basics of formatting and style sheet (IEEE Editorial Style Manual), development of thesis argument, data collection, inside citations, bibliography; Preparing a written report for presentation and submission. Writing a paper for conference presentation/journal submission. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Listening and Speaking Skills",
+                        "unitDetails": " Importance, purpose and types of listening, process of listening, difference between hearing and listening, Barriers to effective listening, Traits of a good listener, Tips for effective listening. Analytical thinking; Speech, Rhetoric, Polemics; Audience analysis. Telephone Skills - making and receiving calls, leaving a message, asking and giving information, etiquettes. Presentations: Mode, mean and purpose of presentation, organizing the contents, nuances of delivery, voice and body language in effective presentation, time dimension. Group Discussion: Purpose, types of GDs, strategies for GDs, body language and guidelines for group discussion. Interview Skills: Purpose, types of interviews, preparing for the interview, attending the interview, interview process, employers expectations, general etiquettes."
+                    }
+                }
+            ]
+        }
+    ]
+}

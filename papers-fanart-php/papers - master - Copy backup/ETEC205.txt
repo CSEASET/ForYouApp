@@ -1,0 +1,34 @@
+{
+    "ETEC205": [
+        {
+            "paperTitle": "Switching Theory and Logic Design",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Number System and Codes",
+                        "unitDetails": "Number Systems and Codes:- Decimal, Binary, Octal and Hexadecimal Number systems, Codes- BCD, Gray Code, Excess-3 Code, ASCII, EBCDIC, Conversion between various Codes.Switching Theory: - Boolean Algebra- Postulates and Theorems, De’ Morgan’s Theorem, Switching Functions-Canonical Forms- Simplification of Switching Functions- Karnaugh Map and Quine Mc-Clusky Methods.Combinational Logic Circuits:- Review of basic gates- Universal gates, Adder, Subtractor ,Serial Adder,Parallel Adder- Carry Propagate Adder, Carry Look-ahead Adder, Carry Save Adder, Comparators, Parity Generators, Decoder and Encoder, Multiplexer and De-multiplexer, ALU, PLA and PAL"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Integrated Circuits",
+                        "unitDetails": "Integrated circuits: - TTL and CMOS logic families and their characteristics. Brief introduction to RAM and ROM.Sequential Logic Circuits: - Latches and Flip Flops- SR, , D, T and MS-JK Flip Flops, Asynchronous Inputs.Counters and Shift Registers:- Design of Synchronous and Asynchronous Counters:- Binary, BCD, Decade and Up/Down Counters , Shift Registers, Types of Shift Registers, Counters using Shift Registers- Ring Counter and Johnson Counter."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Synchronous Sequential Circuits",
+                        "unitDetails": "Synchronous Sequential Circuits:- State Tables State Equations and State Diagrams, State Reduction and State Assignment, Design of Clocked Sequential Circuits using State Equations.Finite state machine-capabilities and limitations, Mealy and Moore models-minimization of completely specified and incompletely specified sequential machines, Partition techniques and merger chart methods-concept of minimal cover table."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Algorithmic State Machine",
+                        "unitDetails": "Algorithmic State Machine: Representation of sequential circuits using ASM charts synthesis of output and next state functions, Data path control path partition-based design.Fault Detection and Location: Fault models for combinational and sequential circuits, Fault detection in combinational circuits; Homing experiments, distinguishing experiments, machine identification and fault detection experiments in sequential circuits."
+                    }
+                }
+            ]
+        }
+    ]
+}

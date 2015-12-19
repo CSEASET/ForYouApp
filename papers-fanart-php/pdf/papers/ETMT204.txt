@@ -1,0 +1,35 @@
+{
+    "ETMT204": [
+        {
+            "paperTitle": "KINEMATICS AND DYNAMICS OF MACHINERY",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "General concepts, Velocity and Acceleration Analysis",
+                        "unitDetails": "Introduction of Simple mechanism, Different types of Kinematics pair, Grublers rule for degree of freedom, Grashof’s Criterion for mobility determination Inversions of 3R-P, 2R-2P chains, Kinematic analysis of planar mechanism"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Cams",
+                        "unitDetails": "Cams: Classification, Cams with uniform acceleration and retardation, SHM, Cylcloidal motion, oscillating followers.Gyroscopes: Gyroscopic law, effect of gyroscopic couple on automobiles, ships, aircrafts.Dynamic Analysis: Slider-crank mechanism, Klein’s construction, turning moment computations."
+
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Gears",
+                        "unitDetails": "Gears: Geometry of tooth profiles, Law of gearing, involute profile, cycloidal profile, interference, helical, spiral and worm gears, simple, compound gear trains. Epicyclic gear trains – Analysis by tabular and relative velocity method, fixing torque.Governors & Flywheel : Hartnel, Porter governors – construction and working, Flywheel."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Balancing",
+                        "unitDetails": "Balancing: Static and Dynamic balancing- balancing of revolving masses, single and multi-cylinder engines. Reciprocating masses –single cylinder engine.Vibrations: Vibration analysis of single degree of freedom, natural, damped forced vibrations, based-excited vibrations, and transmissibility ratio."
+                    }
+                }
+            ]
+        }
+    ]
+}

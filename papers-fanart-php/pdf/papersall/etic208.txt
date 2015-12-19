@@ -1,0 +1,34 @@
+{
+    "ETIC208": [
+        {
+            "paperTitle": "THEORY AND APPLICATION OF INTEGRATED CIRCUITS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": " Fundamentals of IC",
+                        "unitDetails": "IC classification, fundamental of monolithic IC technology, epitaxial growth, masking and etching, diffusion of impurities. Realization of monolithic ICs and packaging. Differential Amplifier, Differential Amplifier Configurations, Bipolar differential Amplifier, AC and DC characteristics. Current mirror and BJT Current Source. Current source as Active load. Voltage Sources, voltage reference. Operational Amplifiers IC 741, DC and AC performance characteristics, Open and closed loop configurations. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": " Applications of Operational Amplifiers ",
+                        "unitDetails": "Inverting and non inverting Amplifier, Scale Changer, Phase Shift Circuits, Voltage Follower, V-to-I and I-to-V converters, adder, subtractor, Instrumentation amplifier, Integrator, Differentiator, Logarithmic amplifier, Antilogarithmic amplifier, Comparators, Schmitt trigger, Precision rectifier, peak detector, clipper and clamper, Low-pass, high-pass and band-pass Butterworth filters."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": " Analog Multiplier, PLL, A/D and D/A Convertor ",
+                        "unitDetails": " Analog Multiplier using Emitter Coupled Transistor Pair – Gilbert Multiplier cell – Variable transconductance technique, analog multiplier ICs and their applications, Operation of the basic PLL, Closed loop analysis, Voltage controlled oscillator, Analog and Digital Data Conversions, D/A converter – specifications – weighted resistor type, R-2R Ladder type, A/D Converters – specifications – Flash type – Successive Approximation type – Single Slope type – Dual Slope type – A/D Converter using Voltage-to-Time Conversion."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": " Waveform Generators and Special Function ICs ",
+                        "unitDetails": "Sine-wave generators, Multivibrators and Triangular wave generator, Saw-tooth wave generator, ICL8038 function generator, Timer IC 555, IC Voltage regulators – Three terminal fixed and adjustable voltage regulators – IC 723 general purpose regulator – Monolithic switching regulator, Switched capacitor filter IC MF10, Frequency to Voltage and Voltage to Frequency converters, Audio Power amplifier, Video Amplifier, Opto-couplers. "
+                    }
+                }
+            ]
+        }
+    ]
+}

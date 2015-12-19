@@ -1,0 +1,34 @@
+{
+    "ETME110": [
+        {
+            "paperTitle": "ENGINEERING MECHANICS",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                        "unit": {
+                            "unitTitle": "Force system",
+                            "unitDetails": "Free body diagram, Parallel force system, concurrent force system, Equilibrium equations and applications in different force systems.Friction:Static and Kinetic friction, laws of dry friction, co-efficient of friction, angle of friction, angle of repose, cone of friction, Belt drive- derivation of equation and its application, M.A, V.R and Efficiency of Screw Jack, Application of friction in pivot and collar bearing"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Structure",
+                            "unitDetails": "Plane truss, perfect and imperfect truss, assumption in the truss analysis, analysis of perfect plane trusses by the method of joints, method of section, graphical method.Distributed Force:Determination of center of gravity, center of mass and centroid by direct integration and by the method of composite bodies, mass moment of inertia and area moment of inertia by direct integration and composite bodies method, radius of gyration, parallel axis theorem, Pappus theorems, polar moment of inertia."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Kinematics of Particles",
+                            "unitDetails": "Rectilinear motion, plane curvilinear motion-rectangular coordinates, normal and tangential component.Kinetics of Particles:Equation of motion, rectilinear motion and curvilinear motion, work energy equation,conservation of energy, impulse and momentum, conservation of momentum, impact of bodies, co-efficient of restitution, loss of energy during impact."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Kinematics of Rigid Bodies",
+                            "unitDetails": "Concept of rigid body, type of rigid body motion, absolute motion, introduction to relative velocity, instantaneous center of velocity, Velocity polygons for four bar mechanism and single slider mechanism.Kinetics of Rigid Bodies:Equation of motion, translatory motion and fixed axis rotation, application of work energy principles to rigid bodies conservation of energy.Shear force and bending Moment Diagram"
+                        }
+                    }
+            ]
+        }
+    ]
+}

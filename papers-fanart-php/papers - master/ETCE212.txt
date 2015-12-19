@@ -1,0 +1,34 @@
+{
+    "ETCE212": [
+        {
+            "paperTitle": "DESIGN OF CONCRETE STRUCTURE",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Concrete making materials",
+                        "unitDetails": " Cement, mineral additives, aggregates, water, admixtures. Types of structural steel and their properties. Batching plant and equipment, types of mixers, transportation, pumping and placing of concrete, nominal mixes and design mixes, Design codes and handbooks. Properties of hardened concrete: Effects of water cement ratio, compaction, age, curing on strength of concrete. Compressive strength, grades of concrete, bond strength, shrinkage and creep, durability, chemical attack, sulphate attack, resistance to abrasion, resistance to fire, marine atmosphere. Structural Masonry: Behavior of Load bearing Masonry Wall, Introduction of Reinforced Masonry and analysis of lintel beams"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Reinforced concrete design philosophies",
+                        "unitDetails": " Working stress design, Concept of limit states. Limit states design, partial safety factors. Codal recommendations. Characteristic and design values, Factored loads, design stress strain curves. Limit state of Collapse: Flexure, Shear, bond and torsion, Compression, Limit state of Serviceability"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Analysis and design ",
+                        "unitDetails": "Analysis and design of singly and doubly reinforced simply supported cantilever and continuous beams and flanged beam section, lintels, Design principles of retaining walls. Design of simply supported, cantilever slabs, one way and two way slab"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Design of short and slender columns",
+                        "unitDetails": "Design of short and slender columns under axial load, under uniaxial and biaxial bending and shear force. Design of isolated footing for vertical load and Moment, Design of combined footings."
+                    }
+                }
+            ]
+        }
+    ]
+}

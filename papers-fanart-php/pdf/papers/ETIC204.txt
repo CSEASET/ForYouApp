@@ -1,0 +1,34 @@
+{
+    "ETIC204": [
+        {
+            "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Potentiometer and Bridges",
+                        "unitDetails": "A. C. Potentiometer: Theory and operation of coordinate and polar types A. C. Potentiometer, Errors and Applications. A. C. Bridges: Configurations, Errors and accuracies, different types of bridges and their application, De Sauty Bridge, Schering Bridge, Anderson Bridge, Maxwell Bridge, Wein Bridge, Use of Shielding in Bridges, Wagner Earth Connection, Grounding and Guarding."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Instrument Transformers",
+                        "unitDetails": "Construction, operation, ratio and phase errors in current transformers, compensation techniques for errors in current transformers, testing of current transformers, absolute and comparison methods, Construction, operation, ratio and phase errors in potential transformers, compensation techniques for errors in potential transformers, testing of potential transformers. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "AC instruments and Meters",
+                        "unitDetails": "Induction type instruments; Theory, operation, adjustments and calibration of single phase energy meter, Polyphase energy meter, Ampere Hour Meters, Measurement of Volt-ampere and reactive volt amperes, Power Factor Meters, Frequency Meters, Synchroscopes, Phase sequence Indicators, maximum demand meters. Regulated Power Supplies, Function Generator: Sine, Cosine, Square and triangular wave, Instrumentation amplifier and their applications. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Electronic Measuring Instruments",
+                        "unitDetails": "General purpose Cathode Ray Oscilloscope: Construction & working, principles, various controls, applications in measurement, Digital storage Oscilloscope (DSO). Digital Instruments:- Voltmeter, Multimeter, Multi-parameter indicator, Signal Conditioning, Introduction to active filters and their applications. "
+                    }
+                }
+            ]
+        }
+    ]
+}

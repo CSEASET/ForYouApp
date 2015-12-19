@@ -1,0 +1,34 @@
+{
+    "ETEN206": [
+        {
+            "paperTitle": "Environmental Hydraulics",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Laminar and Tubulent flow",
+                        "unitDetails": "Navier’s-Stokes equation of motion for laminar Flow; Laminar flow between two parallel plates, laminar flow through pipes, Dimensional Analysis and Modal Studies, Velocity distribution in turbulent flow; shear stress due to turbulence, turbulent flow in circular pipes, resistance of smooth and artificially roughened pipes,General resistance diagram."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Pipe Flow Problems",
+                        "unitDetails": "Losses in pipe flow, pipes in series, pipes in parallel, branching pipes, siphons, multireservoir problems, pipe net work analysis using Hardy Cross Method, unsteady flow in pipes, water hammer analysis."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Open Channel flow",
+                        "unitDetails": "Derivation of the general one-dimensional equations of continuity, momentum and energy used in open channel flow analysis, Steady non-uniform flows, channel transitions and controls,hydraulic jumps surges, Unsteady flow in open channels, Method of characteristics, surge formation,Kinematics of waves, flood routing and overhead flow Turbines."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Atmospheric Boundary Layer and Diffusion",
+                        "unitDetails": "Solar Radiation, Air stability, Logarithmic profile, Turbulence,Statistical Measures, Boundary Layer Scaling, Turbulent Gradient Transport, Statistical Theories of Turbulent Diffusion, Eddy diffusion model, Gaussian dispersion model, Evaluation of standard deviation, Estimation of maximum ground level concentration, Models based on K – Theory, Removal Mechanisms, Box Models.Elements of Meteorology, Wind velocity profiles, Maximum mixing depth, Wind rose, General characteristics of stack plumes, Heat island effect."
+                    }
+                }
+            ]
+        }
+    ]
+}

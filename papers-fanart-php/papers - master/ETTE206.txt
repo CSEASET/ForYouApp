@@ -1,0 +1,34 @@
+{
+    "ETTE206": [
+        {
+            "paperTitle": "MACHINE TOOLS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Classification of machine tools based on application and production rate: General purpose and Special purpose machines, Classification based on-type of surface generated.Cutting Motion in Machine tools, Elements of Machine Tools, Direction of operation of controls for Machine Tools, Characteristics and Maintenance of Machine Tools Applications"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Lathe Machines",
+                        "unitDetails": "Working Principle, Classification of lathes, Description of various parts of Lathe,Specifications-method of holding work and supporting devices, accessories, attachments-operations and types of tools for each operation, Turning Problems, their causes and remedy, Capstan and Turret lathe.Milling Machines: Types of general purpose milling machines: horizontal, vertical and universal, Principal parts, Types of milling cutters and their applications, different milling operations, work holding devices: vice,clamps, chucks, dividing head and its use, simple, compound and differential indexing. Indexing calculations and machining time calculations. Introduction to machining centers"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Reciprocating Type Machine",
+                        "unitDetails": "Shaper, Planer and Slotter: Constructional features, operations, basic machines and kinematics and related calculations Drilling Machines: Types of drilling machines and their Construction, Specifications, feed mechanism, work holding devices, Tool – holding devices. Different drilling operations: Drilling, Micro-drilling, reaming, counterboring and countersinking etc., estimation of drilling time."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Grinding Machines",
+                        "unitDetails": "Different types of grinding machines: cylindrical, surface and centre-less grinding machines, basic constructional features and mechanisms, specifications, Selection of grinding wheels, Wheel Truing and Dressing, different grinding operations, honing, lapping, Buffing and Polishing and super-finishing processes.Special Purpose Machines: Introduction and applications."
+                    }
+                }
+            ]
+        }
+    ]
+}

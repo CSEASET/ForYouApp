@@ -1,0 +1,34 @@
+{
+    "ETME205": [
+        {
+            "paperTitle": "Production Technology",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Moulding",
+                        "unitDetails": "Introduction to sand moulding, Pattern design, Pattern layout and construction, testing of moulding sand. moulding and core making machines, CO2 - Process, fluid sand process, shell moulding, cold curing process, hot-box method, flask less moulding, Design of metal moulds, Die Design for die Casting. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Casting",
+                        "unitDetails": "Directional principles, Solidification, types of gating systems, Pouring time and temperature. Design criteria of pouring basin, sprue, runner, gate and riser, gating ratio- related numerical problems, Use of chaplet, chills and padding, Selection of melting furnaces, Crucible furnaces, Electric furnaces, Induction furnace, Control of melt and Cupola charge calculations. Foundry mechanization and layout. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Welding",
+                        "unitDetails": " Principle, advantages, limitations and applications, Tungsten Inert Gas welding, Metal Inert Gas welding, Electro - slag welding, Electro - Gas Welding, Explosive Welding, Ultrasonic Welding, Electron Bean Welding, Laser Beam Welding, Friction Welding, Cold Welding, Thermit Welding. Welding Defects-causes and remedies. Numerical problems on electric arc welding and resistance welding. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Metal Forming",
+                        "unitDetails": " Introduction to Metal Forming, Elastic & plastic deformation, Hot working and cold working. Work required for forging, Hand, Power, Drop forging. Analysis of wire drawing and maximum reduction. Tube drawing, Extrusion, types and its application. Rolling process, rolling mills & rolled-sections. Defects in metal forming processes. Sheet metal processes, shearing, calculation of punch force, shearing dies, stretch forming, Deep drawing and its analysis. "
+                    }
+                }
+            ]
+        }
+    ]
+}

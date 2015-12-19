@@ -1,0 +1,34 @@
+{
+    "ETEE202": [
+        {
+            "paperTitle": "Electrical Machines-II",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Poly phase Induction Machines",
+                        "unitDetails": "Constructional features, production of rotating magnetic field, working of 3-phase Induction motor, phasor diagram, equivalent circuit, power and torque relations, torque and slip relations, no load and blocked rotor tests and efficiency. speed control by rotor resistance, injected e.m.f, frequency variation and pole changing, DOL, Y-? and autotransformer starters, deep bar and double cage rotor motors, cogging and crawling, operation of Induction machine as generator and phasor diagram"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Synchronous Alternators",
+                        "unitDetails": "Constructional features, armature windings, E.M.F. equation, winding coefficients, harmonics in the induced E.M.F., armature reaction, O.C. and S.C. tests, voltage regulation-Synchronous impedance method, MMF Method, Potier’s triangle method parallel operation, operation on infinite bus, cooling. Two reaction theory,power expressions for cylindrical and salient pole machines, performance characteristics."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Synchronus Motor",
+                        "unitDetails": "Synchronous Motor – Principle of operation, starting methods, phasor diagram torque-angle characteristics,V-curves hunting and damping, synchronous condenser, introduction to single phase synchronous motorS:Reluctance and Hysteresis motors."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Fractional Horse Power",
+                        "unitDetails": "Single Phase Induction Motor: Double revolving field theory, equivalent circuit, no load and blocked rotor tests,starting methods, split phase Induction motor- capacitor start, two value capacitor motor.Introduction and applications of single phase AC series motor, universal motor, AC servo motor, stepper motor,permanent magnet AC motors"
+                    }
+                }
+            ]
+        }
+    ]
+}

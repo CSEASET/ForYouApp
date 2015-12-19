@@ -1,0 +1,34 @@
+{
+    "ETEN204": [
+        {
+            "paperTitle": "Structural Engineering",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Columns and Struts",
+                        "unitDetails": "Columns and struts: Columns and struts of uniform section, crippling/buckling load, Euler theory and concept of equivalent length, Rankine’s formula and other empirical formulae, Secant formula. Combined direct and bending stresses: Middle third rule, core of a section, stresses due to wind, water and earth pressure in structures like retaining walls, dams, chimneys, walls etc.Thin cylinders: Thin cylinders subjected to internal fluid pressure, wire wound thin cylinders. Thin cylindrical shells, circumferential and hoop stresses, longitudinal stresses, Maximum shear stress."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Moving Loads and Indeterminate Structures",
+                        "unitDetails": "Moving loads and Influence lines : Introduction to moving loads, concept of equivalent UDL, absolute maximum bending moment and shear force, concept of influence lines, influence lines for reaction, shear force, bending and deflection of determinate beams, Application of Muller Breslau Principle for determinate structures.Indeterminate structures: Indeterminacy, choice of unknowns, Castigliano’s second theorem and its applications."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Consistant deformation Methods",
+                        "unitDetails": "Method of consistent deformation: Analysis of indeterminate beams and frames upto two degree of indeterminacy, settlement effects, analysis of pin jointed trusses, externally and internally redundant trusses,effects of settlement and prestrains.Slope deflection method: analysis of continuous beams, analysis of rigid frames, frames with sloping legs,gabled frames, frames without sway and with sway, settlement effects.Moment distribution method: Analysis of beams and frames."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Arches and Curved Beams",
+                        "unitDetails": "Arches : Theory of arches, Eddy’s theorem, Circular , parabolic and geometric arches, concept of radial shear force and axial thrust, analysis of three hinged and two hinged arches, Effect of yielding of supports, rib shortening and temperature changes, tied arches, ILD for 3 hinged arches.Curved Beams: plan and elevation, beams on elastic foundations"
+                    }
+                }
+            ]
+        }
+    ]
+}

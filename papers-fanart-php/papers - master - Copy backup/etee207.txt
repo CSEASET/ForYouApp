@@ -1,0 +1,34 @@
+{
+    "ETEE207": [
+        {
+            "paperTitle": "Circuits & Systems",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Introduction to signals, their classification and properties, different types of systems, LTI systems and their properties, periodic waveforms and signal synthesis, properties and applications of Laplace transform of complex waveform. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Circuits",
+                        "unitDetails": "System modeling in terms of differential equations and transient response of R, L, C, series and parallel circuits for impulse, step, ramp, sinusoidal and exponential signals by classical method and using Laplace transform. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Graph Theory",
+                        "unitDetails": "Graph theory: concept of tree, tie set matrix, cut set matrix and application to solve electric networks. Two port networks – Introduction of two port parameters and their interconversion, interconnection of two 2- port networks, open circuit and short circuit impedances and ABCD constants, relation between image impedances and short circuit and open circuit impedances. Network functions, their properties and concept of transform impedance, Hurwitz polynomial. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Function and Networks",
+                        "unitDetails": "Positive real function and synthesis of LC, RC, RL Networks in Foster’s I and II, Cauer’s I& II forms, Introduction of passive filter and their classification, frequency response, characteristic impedance of low pass, high pass, Band Pass and Band reject prototype section. "
+                    }
+                }
+            ]
+        }
+    ]
+}

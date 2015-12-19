@@ -1,0 +1,34 @@
+{
+    "ETPH103": [
+        {
+            "paperTitle": "APPLIED PHYSICS – I",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Interference",
+                        "unitDetails": "Introduction, Interference due to division of wave front: Fresnel’s Biprism, Interference due to division of amplitude: wedge shaped film, Newton’s rings.Diffraction: Introduction, Difference between Fresnel and Fraunhofer diffraction, Single slit diffraction,Transmission diffraction grating, Absent spectra."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Polarization",
+                        "unitDetails": "Introduction, Uniaxial crystals, Double refraction, Nicol prism, Quarter and half wave plates, Theory of production of plane, circularly and elliptically polarized lights, Specific rotation, Laurents half shade polarimeter. Laser: Spontaneous and stimulated emissions, Einstein’s coefficients, Laser and its principle, He-Ne laser.Fibre optics: Introduction, Single mode fibre, Step index and graded index multimode fibres,Acceptance angle and numerical aperture"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Theory of Relativity",
+                        "unitDetails": "Introduction, Frame of reference, Galilean transformation, Michelson-Morley experiment, Postulates of special theory of relativity, Lorentz transformations, Length contraction, Time dilation, Mass energy relation Ultrasonics: Introduction, Production of ultrasonics by magnetostriction and Piezoelectric methods,Applications."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Nuclear Physics",
+                        "unitDetails": "Introduction, Radioactivity, Alpha decay, Beta decay, Gamma decay, Q value, Threshold energy, Nuclear reactions, Nuclear fission: Liquid drop model, Nuclear fusion, Particle accelerators: Linear accelerator, Cyclotron, Radiation detectors: Ionization chamber, Geiger Mueller Counter"
+                    }
+                }
+            ]
+        }
+    ]
+}

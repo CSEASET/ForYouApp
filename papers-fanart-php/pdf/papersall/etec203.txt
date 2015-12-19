@@ -1,0 +1,34 @@
+{
+    "ETEC203": [
+        {
+            "paperTitle": "Analog Electronics-I",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Bias Stabilization",
+                        "unitDetails": " Need for stabilization, fixed Bias, emitter bias, self-bias, bias stability with respect to variations in Ico, VBE & ß, Stabilization factors, thermal stability. Bias compensation techniques. CB, CE, CC configurations, hybrid model for transistor at low frequencies, RC coupled amplifiers, mid band model, gain & impedance, comparisons of different configurations, Emitter follower, Darlington pair(derive voltage gain, current gain, input and output impedance). Hybrid-model at high frequencies (p model).  "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Multiusage Ampilifiers ",
+                        "unitDetails": " Cascade and cascode amplifiers, Calculations of gain, impedance and bandwidth. Design of multistage amplifiers. Feedback Amplifiers: Feedback concept, Classification of Feedback amplifiers, Properties of negative Feedback amplifiers, Impedance considerations in different configurations. Analysis of feedback Amplifiers"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Field Effect Transistor",
+                        "unitDetails": " Introduction, Classification, FET characteristics, Operating point, Biasing, FET small signal Model, enhancement & Depletion type MOSFETS, MESFET, FET Amplifier configurations (CD,CG and CS). Introduction to UJT, SCR, Triac and Diac (working, construction, characteristics and application),UJT relaxation oscillator. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Power Ampilifiers",
+                        "unitDetails": " Power dissipations in transistors, Amplifiers Classification, (Class-A, Class-B, Class-C, Class-AB) Efficiency analysis, Push-pull and complementary Push-pull amplifiers,cross over distortion and harmonic distortion in push pull amplifier. Tuned amplifiers(single,double & stagger tuned amplifier)."
+                    }
+                }
+            ]
+        }
+    ]
+}

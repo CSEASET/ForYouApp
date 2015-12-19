@@ -1,0 +1,34 @@
+{
+    "ETCE208": [
+        {
+            "paperTitle": "ADVANCED SURVEYING",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Trigonometric leveling",
+                        "unitDetails": "Observations for heights and distances Heights and distances, accessible and inaccessible base of the object, Geodetical observations. Terrestrial refraction, correction for refraction and curvature, eye and object correction, determination of difference of elevation by single and reciprocal observations. Survey Adjustments and Theory of Errors : Types of errors, law of errors, law of weights, distribution of error and field measurements, Probability cures, method of lest squares, determination of most probable value by normal adjustment and method of correlates, most probable error. Triangulation adjustments: Adjustment of geodetic quadrilateral with and without central station"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Setting out work",
+                        "unitDetails": " Setting out of buildings, culverts, roads, pipelines, sewers, underground tunnels and centre line of dams, bridge survey, mine survey. Route surveying: Reconnaissance, preliminary and location surveys for road, railway, canal and pipe alignments longitudinal and cross sections, computation of earthwork and mass haul curve. Introduction to Hydrographic surveying: Shore line survey, soundings, tide and its characteristics, tide gauges, mean sea level as datum"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Photogrammetric Survey",
+                        "unitDetails": "Basic principles, elevation of a point, determination of focal length of lens, aerial camera, scale of a vertical photograph, relief displacement of a vertical photograph, height of object from relief displacement, scale of a tilted photograph, tilt distortion, relief displacement of a tilted photograph, combined effects of tilt and relief, flight planning for aerial photography, selection of altitude, interval between exposures, crab and drift, location of principal points, transfer image from photograph to map, stereoscope parallax, parallax in aerial stereoscopic views, parallax equations."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Field Astronomy",
+                        "unitDetails": "Co-ordinate systems, latitude and longitude, spherical trigonometry, relation between degrees and hours of time, conversion of local time to standard time, conversion of mean time interval to sidereal time interval, to find local sidereal time (LST) at local mean midnitght for given Greenwich sidereal time (GST) at greenwich Mean midnight (GMN), determination of LST from LMT at any instant, determination of LMT of transit of a known star across the meridian for given GST of GMN, Local sidereal time of elongation of star, interpolation of values, instrumental and astronomical correction to observed altitude to the azimuth, observation for time by meridian transit of star and by meridian transit of Sun. Azimuth by observation on Polaris and ex-meridian observation on stars, determination of latitude, calculation of true altitude, declination, latitude, polar distance, determination of longitude"
+                    }
+                }
+            ]
+        }
+    ]
+}

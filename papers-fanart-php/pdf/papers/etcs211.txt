@@ -1,0 +1,34 @@
+{
+    "ETCS211": [
+        {
+            "paperTitle": "Computer Graphics & Multimedia",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Introduction, Applications areas, Components of Interactive Computer Graphics System. Overview of Input devices, Output devices, raster scan CRT displays, random scan CRT displays. DDA and Bresenham’s Line Drawing Algorithms, Bresenham’s and Mid Point Circle Drawing Algorithms. Homogeneous Coordinate System for 2D and 3D, Various 2D, 3D Transformations (Translation, Scaling, Rotation, Shear). "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Algorithms & Projection",
+                        "unitDetails": "Clipping Algorithms, Sutherland-Cohen line Clipping Algorithm Bezier Curves, B-Spline Curves. Parallel Projection, Perspective Projection, Illumination Model for diffused Reflection, Ambient light, Specular Reflection Model, Reflection Vector. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Models & Devices",
+                        "unitDetails": "Shading Models, Flat shading, Gourard Shading, Phong Model. Visible surface detection, Back Face Detection, Depth Buffer (Z-Buffer, A-Buffer) Method. Overview of multimedia: Classification, basic concepts of sound/audio MIDI: devices, messages, software. , Authoring tools, Video and Animation: controlling animation, display and transmission of animation "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Data & Media",
+                        "unitDetails": "Data Compression: storage space, coding requirements, Basic compression techniques: run length code, Huffman code, Lempel-Ziv JPEG: Image preparation, Lossy sequential DCT, expanded lossy DCT, Lossless mode, Hierarchical mode. MPEG, Media synchronization, Media Integration, Production Standards. "
+                    }
+                }
+            ]
+        }
+    ]
+}

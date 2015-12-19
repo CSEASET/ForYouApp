@@ -1,0 +1,34 @@
+{
+    "ETPE205": [
+        {
+            "paperTitle": "Thermodynamics for Power Engineers",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Fundamentals and Definitions System",
+                        "unitDetails": "Fundamentals and Definitions System, Control Volume, properties, state change, and diagram, Dimensions and units. Work Mechanics and Thermodynamics, definitions, Displacement work at part of a system boundary, Engine Indicator, Displacement work in various quasi-static processes, shaft work, electrical work. Heat Temperature, thermal equilibrium, zeroth law of thermodynamics, sign convention for heat transfer"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "First Law of Thermodynamics",
+                        "unitDetails": "First Law of Thermodynamics. Statement, Application to non-cyclic process, Energy, modes of energy, Pure substance, Specific heats, First Law for Control Volumes., Second Law of Thermodynamics ,Direct and reversed heat engines, Kelvin-Planck and Clausius Statements and their equality, reversible and irreversible processes, Carnot cycle, thermodynamic temperature scale."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Entropy",
+                        "unitDetails": "Definition, calculation through Tds relations, T-S diagrams, entropy as a measure of irreversibility Properties of pure substances-Use of steam Tables and Mollier Diagram. Ideal gas Properties of ideal gas and ideal gas mixtures with and without a condensable vapour-psychrometry"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Second Law Analysis of Engineering Processes",
+                        "unitDetails": "Availability and irreversibility and their application in Thermal Engineering, Analysis of vapour power cycles, Carnot cycle; Simple Rankine Cycle, Cycle with superheating, reheating and regeneration. Analysis of cycles Analysis of Air standard, Carnot, Otto, diesel, dual and Joule cycles; Gas turbine cycles with heat exchange and regeneration; Stirling and Ericson cycles Natural Gas, CNG, LPG, their properties"
+                    }
+                }
+            ]
+        }
+    ]
+}

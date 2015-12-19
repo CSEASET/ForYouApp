@@ -1,0 +1,34 @@
+{
+    "ETEE211": [
+        {
+            "paperTitle": "Electrical Machines-I",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "EMEC",
+                        "unitDetails": "Principles of EMEC: Energy in Electro-Magnetic Systems, Flow of Energy in Electro-Mechanical Devices,Energy and co-energy in Magnetic field, Singly and doubly excited systems, Electromagnetic and Reluctance Torque.DC Generators: Constructional features, Armature winding details, lap & wave connections, EMF equation,separately excited, shunt, series and compound connected D.C. generators process of voltage build up in shunt generators, Characteristics and applications of separately/self-excited generators."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "DC generators and Motors",
+                        "unitDetails": "DC Generators (Contd.): Armature Reaction, Demagnetizing and Cross-magnetizing armature MMF,Interpoles and compensating windings, commutation process and its improvement.D.C. Motors: Speed and Torque Equation of D.C. motors, Characteristics of D.C. series, shunt and compound motors and their applications, Starting and speed control of D.C. motors, Braking of D.C. motors, Efficiency and testing of D.C. Machines, Introduction of D.C. servo motor and permanent magnet / brushless D.C. motors"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Single Phase Transformers",
+                        "unitDetails": "Transformer construction and practical considerations. Equivalent circuit(Exact and approximate), per unit values, Phasor diagram, Transformer testing : open circuit test, Short Circuit test,Sumpner’s test, Efficiency and voltage regulation, All day efficiency."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "3 Phase and Special Purpose Transformes",
+                        "unitDetails": "3 phase Transformers: Three-phase Bank of Single-phase Transformers, Parallel operations of 1-phase and 3-phase transformers, load division between transformers in parallel. Three winding transformers, Zigzag connections, vector grouping with clock convention, tertiary winding, tap changing, phase conversions-3phase to 2 phase and 3phase to 6 phase.Special Purpose Transformers: Auto-transformers. Welding, Traction, Instruments and pulse Transformers."
+                    }
+                }
+            ]
+        }
+    ]
+}

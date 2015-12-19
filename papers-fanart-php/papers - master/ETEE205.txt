@@ -1,0 +1,34 @@
+{
+    "ETEE205": [
+        {
+            "paperTitle": "Materials in Electrical Systems",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Conducting Materials",
+                        "unitDetails": "Energy band diagram of conductors, semiconductors and insulators. Conductivity and Resistivity, factors affecting the resistivity, classification of conducting materials, electrical, mechanical and thermal properties and applications of low resistance materials like copper, aluminium, steel, silver, gold, platinum, brass and bronze. Electrical, mechanical and thermal properties and applications of high resistance materials like manganin,constantan, nichrome, mercury, tungsten and carbon. Introduction of super conductors."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Insulating Materials",
+                        "unitDetails": "Classification of insulating materials, electrical, physical, thermal, chemical, mechanical properties of insulating materials. Thermoplastic and natural insulating materials, Gaseous and liquid insulating materials, properties and applications of ceramics and synthetic insulating materials."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Magnetic Materials",
+                        "unitDetails": "Introduction and classification of magnetic materials, permeability, B-H curve, magnetic saturation, hysteresis loop, coercive force and residual magnetism, concept of eddy current and hysteresis loss, curie temperature,magnetostriction effect. Soft and hard magnetic materials, ferro and ferri magnetic materials, special purpose magnetic materials"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Special Materials and components",
+                        "unitDetails": "Properties and applications of different materials used in electrical systems like – thermocouples, bimetallic,fusing, and soldering. Introduction to different types of materials used in electromagnetic and electromechanical systems, resistors, capacitors, inductors, special semiconductors used in electrical engineering"
+                    }
+                }
+            ]
+        }
+    ]
+}

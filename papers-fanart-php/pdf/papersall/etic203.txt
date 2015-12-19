@@ -1,0 +1,34 @@
+{
+    "ETIC203": [
+        {
+            "paperTitle": "SENSORS AND TRANSDUCERS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Definition and differences of sensors and transducers, Classification, static and dynamic characteristics, electrical characterization, mechanical and thermal characterization including bath-tub curve. Different Sensors: Mechanical & Electromechanical: Potentiometer, Strain gauges, Inductive sensors—Ferromagnetic type, Transformer type, Electromagnetic, Capacitive sensors— parallel plate, variable permittivity, electrostatic, piezoelectric, Introduction to PZT family. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Sensors",
+                        "unitDetails": "Thermal sensors: Gas thermometric sensors, Dielectric constant, refractive index thermo-sensors, nuclear thermometers, resistance change type thermometric sensors, Thermoemf sensors. Magnetic sensors: Basic working principles, Magnetostrictive, Hall effect, Eddy current type, SQUID sensors. Radiation sensors: Photo-detectors, Photo-emissive, photomultiplier, scintillation detectors"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Electroanalytical sensors",
+                        "unitDetails": "Thermal sensors: Gas thermometric sensors, Dielectric constant, refractive index thermo-sensors, nuclear thermometers, resistance change type thermometric sensors, Thermoemf sensors. Magnetic sensors: Basic working principles, Magnetostrictive, Hall effect, Eddy current type, SQUID sensors. Radiation sensors: Photo-detectors, Photo-emissive, photomultiplier, scintillation detectors"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Different Transducers",
+                        "unitDetails": " LVDT, RTD, Thermistor, Wire anemometer, piezoresistors, Variable diaphragm capacitance transducers, Angular movement transducers, seismic mass transducer, interferometer transducer. Feedback transducer system: Inverse transducer, Self-balancing transducer, Servo-operated manometer, Feedback pneumatic load cell, integrating servo. "
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "ETEN212": [
+        {
+            "paperTitle": "Air and Noise Pollution",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Unpolluted Air ",
+                        "unitDetails": "Concept of unpolluted air, Gaseous and vapour pollutants in atmosphere, Scales of air pollution, Primary and secondary pollutants, Ambient Air Quality, Monitoring for pollutants (SO2, NO2, O3, PAN, Particulates, Hydrocarbons, PAH’s) and their health effects. Stack monitoring for SOx, NOx, CO, CO2, Hydrocarbons,Fluorides, Ammonia, VOCs, Effects of air pollution on vegetation, materials and structures. Stack monitoring for thermal power plant, Oil refinery industry, Fertilizer industry, Non ferrous metal industry. Recent techniques of online stack monitoring, Emission inventory. Trends of AAQ in Urban, Rural and Industrial areas"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Criterions and Strategies",
+                        "unitDetails": "Air quality criteria, National and International air emission standards and AAQ guidelines, Indoor air quality,Averaging time, Air pollution system, Alternative control strategies. GLC estimates for multiple sources using standard software (e.g., EPA’s ISC model).Determination of effective stack height."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Emission",
+                        "unitDetails": "Distribution and sources of Particulate matter, Hood duct design, Particulate collection mechanisms, Control systems and their design. Flue-gas desulfurization processes, Flue gas control methods for NOx. Emission standards for automobiles, Origin of exhaust emissions from gasoline, Diesel, CNG and LPG engines.Crankcase and evaporative emissions, Emission reduction by fuel changes, Emission reduction by engine design changes, Catalytic converters, Diesel engine emissions"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Noises and Equipments",
+                        "unitDetails": "Noise: Characteristics, Sources, Types of noise, Impact of noise Physics of sound- Speed of sound, Sound pressure, Frequency, Wavelength, RMS Sound Pressure, Sound Pressure Level, Loudness, Sound Power Level and Sound Energy Density, Sound propagation, Wind and temperature gradient. Enclosures and Barriers: Lead as a noise barrier, Plenum barriers, Barrier around pipe, wires and rectangular duct work, High transmission loss ceilings, Acoustical foams, Nylon in noise reduction, damping compounds. Noise measuring equipments: Sound Level Meter, Octave Band Analyzer, Statistical Analyzer and Noise Average Meter"
+                    }
+                }
+            ]
+        }
+    ]
+}

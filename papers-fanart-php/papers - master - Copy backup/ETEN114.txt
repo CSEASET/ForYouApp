@@ -1,0 +1,34 @@
+{
+    "ETEN114": [
+        {
+            "paperTitle": "ENVIRONMENTAL STUDIES",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                        "unit": {
+                            "unitTitle": "Environmental Studies: Ecosystems, Bio-diversity and its Conservation",
+                            "unitDetails": "(i) The Multidisciplinary Nature of Environmental Studies-Definition, scope and importance of Environmental Studies. Biotic and a biotic component of environment,need for environmental awareness.\n(ii) Ecosystems-Concept of an ecosystem, structure and function of an ecosystem, producers, consumers and decomposers,energy flow in the ecosystem, ecological succession, food chains, food webs and ecological pyramids\nIntroduction, types, characteristic features, structures and function of the following ecosystem\n(a) Forest ecosystem\n(b) Grassland ecosystem\n(c) Desert ecosystem\n(d) Aquatic ecosystem (ponds, streams, lakes, rivers, oceans, estuaries).\n(iii) Bio-diversity and its Conservation-Introduction to biodiversity - definition: genetic, species and ecosystem diversity, Bio-geographical classification of India, Value of biodiversity: Consumptive use, productive use, social, ethical, aesthetic and option values, Biodiversity at global, national and local levels, India as a mega-diversity nation, Hot-spots of biodiversity, Threats to biodiversity : Habitat loss, Poaching of wildlife, man-wildlife conflicts, rare endangered and threatened species(RET) endemic species of India, method of biodiversity conservation: In-situ and ex-situ conservation. "
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Natural Resources: problems and prospects",
+                            "unitDetails": "(i) Renewable and Non-renewable Natural Resources\nConcept and definition of Natural Resources and need for their management\n> Forest resources: Use and over-exploitation, deforestation, case studies, timber extraction, mining,dams and their effects on forests and tribal people.\n> Water resources: Use and over-utilization of surface and ground water, floods, drought, conflicts over water, dams-benefits and problems, Water conservation, rain water harvesting, watershed management.\n> Mineral resources: Uses are exploitation, environmental effects of extracting and using mineral resources, case studies > Food resources: World food problems, changes causes by agriculture and over-grazing, effects of modern agriculture, fertilizer-pesticide problems, water logging, salinity, case studies.\n> Energy resources: Growing energy needs, renewable and non-renewable energy sources, use of alternate energy sources, Urban problems related to energy, case studies.\n> Land resources: Land as a resource, land degradation, man induced landslides, soil erosion and desertification."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Environmental Chemistry and Pollution Control",
+                            "unitDetails": "(i) Chemistry of Environment\n(a) Green Technology Principles of Green technology, Zero Waste Technology, Green Chemistry & Its basic principles,Atom Economy, Green Methodologies. clean development mechanisms (CDM), concept of environmental impact assessment.\n(b) Eco-Friendly polymers Environmental degradation of polymers, Biodegradable, Photo-biodegradable polymers, Hydrolysis & Hydrobiodegradable, Biopolymers & Bioplastics: polylactic acid, polyhydroxybutyrate,polycaprolactone,. Concept of bioremediation\n(ii)Environmental Pollution Definition, types, causes, effects and control measures of\n (a) Air pollution,\n (b) Water pollution,\n (c) Soil pollution,\n (d) Marine pollution,\n (e) Noise pollution,\n (f) Thermal pollution, \n(g) Nuclear hazard.\nPollution case studies. Solid waste and its management: causes, effects and control measures of urban and industrial waste. Chemical toxicology-Terms related to toxicity, impact of chemicals (Hg, As, Cd, Cr, Pb) on environment."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Disaster Management, Social Issues, Human Population and the Environment",
+                            "unitDetails": "(i) Disaster management: floods, earthquake, cyclone and land-slides, nuclear accidents and holocaust, case studies.\n(ii) Social Issues, Human Population and the Environment Sustainable development, Climate change, global warming, acid rain, ozone layer depletion, Environmental ethics: Issues and possible solutions, Consumerism and waste products, , Wasteland reclamation. Population growth, problems of urbanisation. Environment Protection Act, 1986; Air (Prevention and Control of Pollution) Act, 1981; Water (Prevention and Control of Pollution) Act, 1974; Wildlife Protection Act, 1972; Forest Conservation Act, 1980; Environmental management system standards-ISO 14000 series."
+                        }
+                    }
+            ]
+        }
+    ]
+}

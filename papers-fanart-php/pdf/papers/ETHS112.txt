@@ -1,0 +1,34 @@
+{
+    "ETHS112": [
+        {
+            "paperTitle": "COMMUNICATION SKILLS",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                        "unit": {
+                            "unitTitle": "Basic Remedial Grammar",
+                            "unitDetails": "(Errors in Parts of Speech, Tenses, Verbs and Modal; Reported Speech; Active and Passive Voice; Conditional clauses; Question Tags and Short Responses)"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Vocabulary and usage",
+                            "unitDetails": "(Synonyms and Antonyms; Suffixes and Prefixes; Homophones and Homonyms;One-word substitution; Prepositions; Phrasal verbs and Idioms, Indianism)"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Writing",
+                            "unitDetails": "(A) I. Types of writing (Expository, Descriptive, Narrative, Analytical and Argumentative)\nII. Definition, description and explanation of scientific objects, instruments and processes etc\nIII. Interpretation and use of charts, graphs and tables in technical writing.\n(B)\nI. Paragraph writing\nII. Precis writing\nIII. Comprehension"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Reading",
+                            "unitDetails": "I. Reading different types of texts (speed and purpose)[T1]\nII. Reading five essays [T2]\nIII. E.M. FORSTER, What I Believe (Pg-123)\nIV. JAMES BRYCE, Some Hints on Public Speaking (Pg-135)\nV. L.A. HILL, Principles of Good Writing (Pg-150)\nVI. A.P.J. ABDUL KALAM, Work Brings Solace (Pg-207)\nVII. SALIM ALI, Man and Nature in India: The Ecological Balance (Pg-213)"
+                        }
+                    }
+            ]
+        }
+    ]
+}

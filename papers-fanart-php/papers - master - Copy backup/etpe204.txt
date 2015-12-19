@@ -1,0 +1,34 @@
+{
+    "ETPE204": [
+        {
+            "paperTitle": "ENERGY CONVERSION",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Principle of Thermal Energy",
+                        "unitDetails": "Principle of Thermal Energy Release, Structure of Hydro carbons, Analysis of Fuel, Combustion Theory, Mass Balance, Energy Release, Flue Gas Analysis"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Principle of Thermal Energy to Work",
+                        "unitDetails": "Principle of Thermal Energy to Work, Phase change cycles, carnot, Renkine, Reheat, Regenerative and Binay Vapour Cycles, Non Phase Change Cycles-Stirling, Otto, Diesel, Dual, Atkinson, Joule or Brayton and Ericson Cycloe, Optimization of Reheat Pressure and Degree of Regeneration. Steam Generators, Low & High Pressure boilers, Boilers, Accessories and Mountings, Feed water Treatment"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Steam Nozzles",
+                        "unitDetails": "Steam Nozzles – Study flow energy equation, Nozzle efficiency Mass of discharge through Nozzles. Steam Turbine, Classification (Impulse Reaction), Compounding, Optimum velocity ratio, velocity diagram, introduction to hydel turbine. Steam Condenser detail – types of condensers, vacuum efficiency, Condenser efficiency, air ejectors, cooling towers, numerical problems on design of equipments."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Introduction to SI & CI engin",
+                        "unitDetails": "Introduction to SI & CI engine, Introduction to Non-conventional source of Energy – solar, Tidal wind, Geothermal, Nuclear."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "ETCE210": [
+        {
+            "paperTitle": "Soil Mechanics",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Soil formation, properties",
+                        "unitDetails": " Origin of soils, soil formation, geographical distribution of major soils in India, composition of soil, particle size and shapes, interparticle forces, soil minerals / structure and their effect on basic soil properties. Three phase diagram and relationships among void ratio, specific gravity, dry density, porosity, water content, unit weights and degree of saturation. Laboratory and field identification of soil: Determination of water content, specific gravity and grain size distribution for coarse grained and fine grained soils, Atterberg limits and indices, visual identification by simple field test, field density by core cutter and sand, replacement methods. Classification of soils: Necessity, principles, Indian and unified classification, plasticity charts. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Permeability and seepage",
+                        "unitDetails": "Concept of pore water pressure, Total, effective and neutral stresses. Darcy’s law, laboratory and field permeability tests, factors affecting permeability, surface tension and capillary phenomenon in soil, shrinkage and swelling of soil, seepage forces, Laplace equation and its significance, Flow potential, Flow nets and their properties, seepage through earth dams, exit gradient and uplift pressure, mechanics of piping, methods of dewatering, design of filters. Stress distribution in soil: Stress at a point, Mohr’s circle, stresses due to force of gravity, Point, line and uniformly distributed loads, Influence charts, contact pressure distribution, Boussineque’s and Westerguard’s equation for vertical pressure due to point loads and uniformly distributed loads"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Compaction of soils",
+                        "unitDetails": " Definition, consolidation and compaction, objectives, compactive effort, Laboratory compaction, Standard Proctor test, Modified Proctor test, IS compaction tests [light / heavy], Field compaction and equipment, Concept of optimum moisture content and zero air voids line, Factors influencing compaction, Effect of compaction on soil properties, Compaction specifications and field control. Consolidation and settlement: Consolidation test and compressibility characteristics, Terzaghi’s theory of one dimensional consolidation, types of clay deposits, Normal/over/consolidated clays, determination of preconsolidation pressure and its significance, time factor and coefficient of consolidation, fitting methods, settlement analysis, secondary compression, consolidation settlement and its rates, acceleration of consolidation by sand drains."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Shear strength of soil",
+                        "unitDetails": "Stress strain curve, Mohr-coulomb failure criteria, Peak and residual shear strengths, Laboratory and field measurement of shear strength of soil, Direct, Triaxial and Unconfined compression tests, vane shear tests. Determination of shear strength parameters for different drainage and stress conditions, measurement of pore pressure, choice of test conditions, Shear strength of soils, Pore pressure coefficients, Sensitivity of cohesive soils, use of various types of shear parameters in design"
+                    }
+                }
+            ]
+        }
+    ]
+}

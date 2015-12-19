@@ -1,0 +1,34 @@
+{
+    "ETPE206": [
+        {
+            "paperTitle": "HEAT & MASS TRANSFER",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction: Definition of Heat",
+                        "unitDetails": "Introduction: Definition of Heat: Modes of Heat Transfer; Basic Laws of heat transfer; Electrical Analogy of heat conduction; Conduction through composite walls; Overall heat transfer coefficient. Conduction: The general conduction equation in Cartesian, coordinates; steady one dimensional heat conduction without internal heat generation; the plane slab; the cylindrical shell; the spherical shell; critical thickness of insulation. Fins of uniform cross-section; Governing equation; Temperature distribution and heat dissipation rate; Efficiency and effectiveness of fins"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Convection",
+                        "unitDetails": "Convection: Free and forced convection; Newton’s law of cooling; convective heat transfer Coefficient; Nusselt number; Dimensional analysis of free and forced convection; the concept of boundary layer; hydrodynamic and thermal boundary layer; Analysis of free convection; governing equations for velocity and temperature fields. Relation between fluid friction and heat transfer, Reynolds analogy, Dimensionless numbers; Reynolds, Prandtl, Nusselt, Grashoff and Stanton Numbers and their significance, Heat transfer with change of phase; Nusselt theory of laminar film condensation."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Heat Exchangers",
+                        "unitDetails": "Heat Exchangers: Introduction; classification of heat exchangers; Logarithmic mean temperature Difference; Area calculation for parallel and counter flow heat exchangers; Effectiveness of heat exchangers; NTU method of heat exchanger design, Applications of heat exchangers."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Radiation",
+                        "unitDetails": "Radiation: Theories of thermal radiation; Absorption, reflection and transmission; Monochromatic and total emissive power; Black body concept; Planck’s distribution law; Stefan Boltzman law; Wien’s displacement law; Lambert’s cosine law; Kirchoff’s law; Diffusion in Fluids: Molecular and eddy diffusion, Diffusivity, Diffusion through liquids and gases"
+                    }
+                }
+            ]
+        }
+    ]
+}

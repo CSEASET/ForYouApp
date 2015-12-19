@@ -1,0 +1,34 @@
+{
+    "ETME203": [
+        {
+            "paperTitle": "THERMAL SCIENCE",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Basic Concepts",
+                        "unitDetails": "Introduction to the Basic definitions of Engineering Thermodynamics. Thermodynamic systems : Closed, Open and Isolated systems. Microscopic and Macroscopic view. Intensive and Extensive properties. Zeroth law of Thermodynamics. Phase, State, Process, Cycle. Point functions and Path functions. Gas Laws and Equation of State. Work and Heat. First Law of Thermodynamics: Introduction to First Law of Thermodynamics, Internal energy. Non flow processes, p-v diagrams. Concept of Flow work, Enthalpy. Analysis of steady flow and unsteady flow processes and their applications. Throttling process. Second Law of Thermodynamics: Limitations of First law and necessity of Second Law of Thermodynamics, Kelvin Planck statement and Claussius statement, Reversible and Irreversible processes. Carnot cycle, Reversed Carnot cycle. Carnot’s Theorem, Clausius inequality. Entropy, Change in Entropy during various processes and representations on t-s diagrams, Entropy principle, Entropy Generation"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": " Availability and Irreversibility",
+                        "unitDetails": " High grade and low grade energy. Available and unavailable energy. Dead state. Loss of available energy due to Heat transfer through a Finite temperature difference. Availability. Reversible work and Irreversibility. Availability in non flow systems and steady flow systems. Second law efficiency. Thermodynamic Property Relations:. Maxwell Relations. Clapeyron Equation. Properties of a Pure Substance: Phase equilibrium of a pure substance on t-v diagram. Normal boiling point of a Pure substance. Saturation states. Compressed liquid. p-v & p-t diagram of a pure substance. Saturated steam, Dry and saturated steam, Superheated steam. Use of Steam tables and Mollier diagram. Different processes of vapour on p-v and t-s diagrams. Measurement of Dryness fraction"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Vapour Power Cycles",
+                        "unitDetails": ": Carnot cycle. Simple Rankine cycle. Effect of various parameters on the efficiency of Rankine cycle. Reheat and Regenerative cycles. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Gas Power Cycles",
+                        "unitDetails": " Carnot cycle, Otto cycle, Diesel cycle, Dual cycle, Stirling cycle, and Ericsson cycle. Gas Turbines: Brayton cycle, Thermal refinements. Performance of Gas turbines, Combined cycle. Principles of Jet Propulsion. Turbojet and Turbo-prop engines, Rocket engines. "
+                    }
+                }
+            ]
+        }
+    ]
+}

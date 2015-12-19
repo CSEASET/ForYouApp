@@ -1,0 +1,34 @@
+{
+    "ETEC208": [
+        {
+            "paperTitle": "COMMUNICATION SYSTEMS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction",
+                        "unitDetails": "Overview of Communication system, Communication channels, Mathematical Models for Communication Channels Introduction of random Variables: Definition of random variables, PDF, CDF and its properties, joint PDF, CDF, Marginalized PDF, CDF, WSS wide stationery, strict sense stationery, non stationery signals, UDF, GDF, RDF, Binomial distribution, White process, Poisson process, Wiener process. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Amplitude Modulation",
+                        "unitDetails": "Need for modulation, Representation of Band Pass signals and systems: Hilbert Transform, In-phase, Quad-phase representations, Power relation, modulation index, Bandwidth efficiency, AM: modulation and demodulation, DSB-SC: Modulation and demodulation, SSB: modulation and demodulation, VSB: modulation and demodulation. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Angle Modulation Systems",
+                        "unitDetails": "Frequency Modulation, Types of Frequency Modulation, Generation of NBFM, WBFM, Transmission BW of FM Signal, Phase Modulation, Relationship between PM& FM. Radio Receivers: Functions & Classification of Radio Receivers, Tuned Radio Frequency (TRF) Receiver, Superheterodyne Receiver, Basic Elements, Receiver Characteristics, Frequency Mixers, AGC Characteristics. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Noise Theory",
+                        "unitDetails": "Noise, Types of noise, Addition of Noise due to several sources in series and parallel, Generalized Nyquist Theorem for Thermal Noise, Calculation of Thermal Noise for a Single Noise Source, RC Circuits & Multiple Noise sources. Equivalent Noise Bandwidth, Signal to Noise Ratio, Noise-Figure, Noise Temperature, Calculation of Noise Figure Performance of Communication Systems: Receiver Model, Noise in DSB-SC Receivers, Noise in SSB-SC Receivers, Noise in AM receiver (Using Envelope Detection), Noise in FM Receivers, FM Threshold Effect, Threshold Improvement through Pre-Emphasis and De-Emphasis, Noise in PM system – Comparison of Noise performance in PM and FM, Link budget analysis for radio channels."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "ETEC207": [
+        {
+            "paperTitle": "Electronic Instruments & Measurements",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction To Metering",
+                        "unitDetails": "Performance Characteristics of Instruments: Static Characteristics, Dynamic Characteristics. Errors in Measurement: Types of Static Errors, Gross Errors, Systematic Errors, Random Errors, Sources of Errors. Basic Meter Movement: Moving Coil and Moving Iron type of instruments. Display Devices: Digital display system and indicators, Classification of displays, Light Emitting Diodes (LED), Liquid Crystal Display (LCD). Printers: Classification of Printers, Drum Printer, Dot-Matrix, ink-jet & Laser-jet Printers. Electrical Standards & Calibration. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Basic Intruments",
+                        "unitDetails": "DC Ammeter, Multi range ammeters, Extending of ammeter ranges, RF Ammeter, Effect of frequency on calibration. DC Voltmeter, Multi range voltmeter, extending Voltmeter ranges, Transistor Voltmeter, Chopper type DC amplifier Voltmeter (Micro-voltmeter), Solid-State Voltmeter, AC Voltmeter using rectifiers, True RMS Voltmeter. Digital Metering: Dual slope integrating type DVM (Voltage to Time conversion), Integrating type DVM (Voltage to Frequency Conversion), Resolution and sensitivity of digital meters, General specifications of a DVM, Digital Multimeters, Digital frequency meter, Digital measurement of time, Universal counter, Electronic counter, Digital tachometer, Digital pH meter, Digital phase meter, Digital capacitance meter. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Cathode Ray Oscilloscope",
+                        "unitDetails": "Basic Principle, CRT features, Block diagram of oscilloscope, single/dual beam CRO, dual trace oscilloscope, (VHF) sampling oscilloscope, storage oscilloscope (For VLF Signal). Measurement of phase and frequency by Lissajous figures method. Oscilloscope as a Bridge Null detector, standard specifications of a single beam CRO, probes for CRO, Digital Storage Oscilloscope (DSO), Fiber Optic CRT recording oscilloscope. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Electronic Instruments",
+                        "unitDetails": "Fixed / Variable Frequency AF Oscillator, Signal Generator, Function Generator, (sine, square and triangular (generator), Frequency selective and Heterodyne Wave Analyzer. Digital Data Recording, Potentiometric Recorder (Multipoint), Digital Memory Waveform Recorder (DWR), Introduction to transducers, Data Acquisition System: Introduction, Objective of a DAS, Single Channel Data Acquisition System, Multi-Channel DAS. "
+                    }
+                }
+            ]
+        }
+    ]
+}

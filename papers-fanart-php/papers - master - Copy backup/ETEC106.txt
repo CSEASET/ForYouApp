@@ -1,0 +1,34 @@
+{
+    "ETEC106": [
+        {
+            "paperTitle": "ELECTRONIC DEVICES",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                        "unit": {
+                            "unitTitle": "Evaluation Of Electronics",
+                            "unitDetails": "Introduction & Application Of Electronics, Energy Band Theory Of Crystals,Energy Band Structures In Metals, Semiconductors And Insulators, Theory Of Semiconductors: Classification Of Semiconductors, Conductivity Of Semiconductors, Carrier Concentration In Intrinsic & Extrinsic Semiconductors, Properties Of Intrinsic And Extrinsic Semiconductors, Variation In Semiconductors Parameters With Temperature, Fermi--Dirac Function, Fermi Level In A Semiconductor Having Impurities,Band Structure Of Open-Circuited P-N Junction, Drift And Diffusion Currents, Carrier Life Time, Continuity Equation (Elementary Treatment Only)"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Theory of p-n junction Diode",
+                            "unitDetails": ": Diode Current Equation, Diode Resistance, Transition Capacitance, Diffusion Capacitance, (Elementary treatment only), Effect of Temperature on p-n Junction Diode, Switching Characteristics, Piecewise Linear Model,                                                          Special Diodes: Zener Diode, Varactor Diode, Tunnel Diode,Photodiode, Light Emitting Diodes, Schottky Barrier Diode, Applications of Diodes: Half-Wave Diode Rectifier, Full-Wave Rectifier, Clippers and Clampers (Elementary treatment only)."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Bipolar junction transistor",
+                            "unitDetails": "Introduction of transistor, construction, transistor operations, BJT characteristics,load line, operating point, leakage currents, saturation and cut off mode of operations, Eber-moll’s model"
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Application of BJT",
+                            "unitDetails": "CB, CE, CC configurations, hybrid model for transistor at low frequencies, Introduction to FETs and MOSFETs.                                                        Fundamentals of digital electronics:                          Digital and analog signals, number systems, Boolean algebra, logic gates with simple applications, logic gates, karnaugh maps"
+                        }
+                    }
+            ]
+        }
+    ]
+}

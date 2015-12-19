@@ -1,0 +1,34 @@
+{
+    "ETEC204": [
+        {
+            "paperTitle": "Analog Electronics-II",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction to op-amp",
+                        "unitDetails": " Differential amplifier using BJT, Block diagram of op-amp, pin diagram of 741 IC, characteristics of ideal Op-Amp, equivalent circuit of Op-Amp, ideal voltage transfer curve, Op-Amp ac and dc parameters. Building blocks of Analog ICs: Differential amplifier using single and two op-amp, virtual ground, circuit for improving CMRR, Wilson & Widlar Current mirrors, Active loads, Level shifters and output stages, instrumentation amplifier using Op-Aamp. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Linear & Non Linear Wave shaping",
+                        "unitDetails": " Inverting and non-inverting amplifiers, voltage follower, difference amp, adders, Voltage to current with floating & grounded load, current to voltage converter, practical integrator & differentiator, Clipping & Clamping circuits, Comparators, log/antilog circuits using Op-Amps, precision rectifiers(half & full wave),peak detector, Inverting & non inverting Schmitt trigger circuit. waveform generations: Sine wave generator (Phase shift, Wein bridge, Hartley & Colpitts), Barkhausen criteria of oscillations, conditions for oscillation, cystal oscillator. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Waveform Genrators",
+                        "unitDetails": " Square and triangular waveform generators (determine period and frequency), saw tooth wave generator, Astable multi-vibrator, Monostable and Bistable Multivibrator. Active RC Filters: Idealistic & Realistic response of filters (LPF, BPF, HPF, BRF), Butter worth & Chebyshev approximation filter functions All pass, Notch Filter. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Introduction to 555 Timer IC",
+                        "unitDetails": "Functional and block diagram of 555 timer, Application of 555 timer as astable and monostable multivibrator. Operational transconductance amplifier (OTA)-C filters.OTA integrator & differentiator, Introduction to current conveyer. Applications of IC Analog Multiplier: IC phase locked loops, IC voltage regulators, IC VCO. "
+                    }
+                }
+            ]
+        }
+    ]
+}

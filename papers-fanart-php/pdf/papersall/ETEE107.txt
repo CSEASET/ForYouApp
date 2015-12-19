@@ -1,0 +1,34 @@
+{
+    "ETEE107": [
+        {
+            "paperTitle": "ELECTRICAL TECHNOLOGY",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "DC Circuits",
+                        "unitDetails": "Introduction of Circuit parameters and energy sources (Dependent and Independent), Mesh and Nodal Analysis,Superposition, Thevenin’s, Norton’s, Reciprocity, Maximum Power Transfer and Millman’s Theorems, Star-Delta Transformation and their Applications to the Analysis of DC circuits."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "A.C.Circuits",
+                        "unitDetails": "A.C. Fundamentals, Phasor representation, Steady State Response of Series and Parallel R-L, R-C and R-L-C circuits using j-notation, Series and Parallel resonance of RLC Circuits, Quality factor, Bandwidth, Complex Power, Introduction to balanced 3-phase circuits with Star- Delta Connections"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Measuring Instruments",
+                        "unitDetails": "Basics of measuring instruments and their types ,Working principles and applications of moving coil, moving iron (ammeter & voltmeter) and Extension of their ranges, dynamometer- type Wattmeter , induction-type Energy Meter , Two-wattmeter method for the measurement of power in three phase circuits, Introduction to digital voltmeter, digital Multimeter and Electronic Energy Meter."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Transformer and Rotating Machines",
+                        "unitDetails": "Fundamentals of Magnetic Circuits, Hysteresis and Eddy current losses, working principle, equivalent circuit,efficiency and voltage regulation of single phase transformer and its applications. Introduction to DC and Induction motors (both three phase and single phase), Stepper Motor and Permanent Magnet Brushless DC Motor."
+                    }
+                }
+            ]
+        }
+    ]
+}

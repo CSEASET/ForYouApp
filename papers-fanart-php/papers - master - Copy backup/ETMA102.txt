@@ -1,0 +1,34 @@
+{
+    "ETMA102": [
+        {
+            "paperTitle": "APPLIED MATHEMATICS-II",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                        "unit": {
+                            "unitTitle": "Partial differentiation and its Applications",
+                            "unitDetails": "Partial derivatives of first and second order. Euler’s theorem for homogeneous functions (without proof). Derivatives of Implicit Functions, total derivatives. Change of variables. Jacobian. Taylor’s theorem for function of two variables(without proof). Error and approximation. Extreme values of function of several variables(maxima ,minima, saddle points). Lagrange method of undetermined multipliers. Partial differential equations: Formulation, solution of first order equations, Lagranges equations, Charpit’s method."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Laplace Transformation",
+                            "unitDetails": " Definition, Laplace transformation of basic functions , existence condition for Laplace transformation, Properties of Laplace transformation(Linearity, scaling and shifting). Unit step function,Impulse Function, Periodic Functions. Laplace transformation of derivatives, Laplace transformation of integrals, differentiation of transforms, Integration of transforms, Convolution theorem ,inverse Laplace transformation. Solution of ordinary Differential equations."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Complex Function",
+                            "unitDetails": "Definition, Derivatives, Analytic function, Cauchy’s Riemann equation (without proof).Conformal and bilinear mappings, Complex Integration: Complex Line integration, Cauchy’s integral theorem and integral formula(without proof). Zeros and Singularities, Taylor’s and Laurent’s series (without proof).Residues, Residue theorem (without proof). Evaluation of real definite integrals: Integration around the unit circle, Integration around a small semi circle and integration around rectangular contours."
+                        }
+                    },
+                    {
+                        "unit": {
+                            "unitTitle": "Multiple integrals",
+                            "unitDetails": "Double integrals, Change of order of integration, Triple integrals. Vector Calculus: Scalar and vector functions, Gradient, Divergence and curl. Directional derivatives, Line Integrals. Surface integrals,volume integrals. Green’s theorem, Stoke’s theorem and Gauss divergence theorem (without proof)."
+                        }
+                    }
+            ]
+        }
+    ]
+}

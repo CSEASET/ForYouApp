@@ -1,0 +1,34 @@
+{
+    "ETME201": [
+        {
+            "paperTitle": "FLUID MECHANICS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Fundamentals of Fluids",
+                        "unitDetails": " Fundamental definitions, Fluid properties, classification of fluids, Flow characteristics, Foundations of flow analysis, Incompressible and compressible fluids, one, two and three dimensional flows, Pressure and its measurements: Pascal’s law, pressure variation in a fluid at rest, Classification of different manometers. Fluid Statics: Fluid pressure, Forces on solid surfaces, Buoyant forces, Metacentre and Metacentric height. Stability of floating bodies, "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Kinematics of Fluid Flow",
+                        "unitDetails": "Types of fluid flow, streamline, path line and streak line; continuity equation, Equations for acceleration, Irrotational and rotational flow, velocity potential and stream function, Vortex flow, Continuity equation. Dynamics of Fluid Flow: Control volume analysis, Eulers equation of motion, Bernoulli’s equation, Bernoulli’s theorems from steady flow energy equation, Venturi meter; Pitot tube, Momentum equation. Laminar Flow: Reynold’s experiment, Critical velocity, Steady laminar flow through a circular tube, Measurement of viscosity. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Turbuleng Flow",
+                        "unitDetails": " Shear stress in turbulent flow. Hydro dynamically smooth & rough boundaries. Velocity distribution for turbulent flow in smooth and rough pipes. Boundary Layer Flow: Boundary Layer Theory and Applications: Boundary Layer thickness, displacement, momentum and energy thickness, Flow separation, Drag and lift on immersed bodies. Pipe Flow Systems: Darcy-Weisbach equation, Moody diagram, Energy losses in pipelines, concept of equivalent length, Flow between two reservoirs multiple pipe systems. Siphon. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Dimensional Analysis",
+                        "unitDetails": " Buckingham’s Theorem and its applications, Geometric, Kinematics and Dynamic similarity; Dimensionless numbers-Reynolds, Froude, Euler, Mach, Weber Number and their significance. Flow Measurements: Measurement of flow using, orifice meter, nozzle, Measurement of flow in open channels – rectangular, triangular, trapezoidal weir, Cipoeletti weir. Hot-wire anemometer. "
+                    }
+                }
+            ]
+        }
+    ]
+}

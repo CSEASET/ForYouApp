@@ -1,0 +1,34 @@
+{
+    "ETMA201": [
+        {
+            "paperTitle": "Applied Mathematics-III",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Fourier series",
+                        "unitDetails": "Definition, Euler’s formula, conditions for Fourier expansion, functions having points of discontinuity, change of intervals, even and odd functions ,half range series, Harmonic analysis. Fourier Transforms: Definition, Fourier integral, Fourier transform, inverse Fourier transform, Fourier sine and cosine transforms, properties of Fourier transforms (linearity, scaling, shifting, modulation), Application to partial differential equations."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Difference equation",
+                        "unitDetails": "Definition, formation, solution of linear difference equation with constant coefficients ,simultaneous difference equations with constant coefficients, applications of difference equations .Z- transform: Definition, Z- transform of basic functions, properties of Z-transform (linearity, damping, shifting, multiplication),initial value theorem, final value theorem, convolution theorem, convergence of Z- transform, inverse of Z- transform, Application to difference equations."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Numerical Methods",
+                        "unitDetails": "Solution of algebraic and transcendental equations using bisection method, Regula-Falsi method and Newton – Raphson method. Solution of linear simultaneous equations using Gauss-Jacobi’s iteration method and Gauss-Seidal’s iteration methods.Finite differences: Forward differences, backward differences and Central differences. Interpolation: Newton’s interpolation for equi-spaced values. Stirling’s central difference interpolation formula, Divided differences and interpolation formula in terms of divided differences , Lagrange’s interpolation formula for unequi-spaced values."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Numerical Differentiation, maxima and minima of a tabulated function. Numerical Integration",
+                        "unitDetails": "Newton-Cote’s quadrature formula, Trapezoidal rule, Simpson’s one-third rule and Simpson’s three-eighth rule .Numerical solution of ordinary differential equations: Picard’s method, Taylor’s method,Euler’s method, modified Euler’s method, Runge-Kutta method of fourth order."
+                    }
+                }
+            ]
+        }
+    ]
+}

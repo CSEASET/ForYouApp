@@ -1,0 +1,34 @@
+{
+    "ETCH113": [
+        {
+            "paperTitle": "Applied Chemistry",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "FUELS",
+                        "unitDetails": "Definition, Classification & Calorific value of fuels (gross and net), Dulong’s formula (Numericals),Determination of calorific value of fuels using bomb’s calorimeter (Numericals), Determination of calorific value of fuels using Boy’s Gas Calorimeter (Numericals), Cracking – Thermal & catalytic cracking, Octane & Cetane numbers with their significance.High & Low temperature carbonization, Manufacture of coke (Otto –Hoffmann oven) Proximate and ultimate analysis of Coal (Numericals) Combustion of fuels (Numericals)"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "THE PHASE RULE & CATALYSIS",
+                        "unitDetails": " THE PHASE RULE & CATALYSIS Definition of various terms, Gibb’s Phase rule & its derivation, Application of phase rule to One component system- The water system, Application of phase rule to Two component system- The Lead-Silver system (Pattinson’s process).Catalyst and its characteristics, Types of catalysts, Concept of promoters, inhibitors and poisons. Theories of catalysis: Intermediate compound formation theory, adsorption or contact theory. Application of catalysts for industrially important processes Enzyme catalysis: Characteristics, Kinetics & Mechanism of enzyme catalysed reaction ( Michaelis-Menten equation), Acid-Base catalysis: Types, Kinetics & Mechanism, Catalysis by metals salts (Wilkinson’s Catalyst), Auto-catalysis, Heterogeneous catalysis (Langmuir-Hinshelwood mechanism."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "WATER",
+                        "unitDetails": "Introduction and specifications of water , Hardness and its determination by EDTA method (Numericals), Alkalinity and its determination (Numericals), Reverse Osmosis, Electrodialysis, Disinfection by break-point chlorination. Boiler feed water, boiler problems– scale, sludge, priming & foaming: causes & prevention, Boiler problems– caustic embrittlement & corrosion: causes & prevention, Water Softening by Internal Treatment:carbonate & phosphate conditioning, colloidal conditioning & calgon treatment Water Softening by External Treatment: Lime-Soda Process (Numericals) Zeolite & Ion-Exchange Process"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "CORROSION & ITS CONTROL",
+                        "unitDetails": "Causes, effects & consequences; Chemical or Dry corrosion & its mechanism (Pilling-Bedworth Rule) Electrochemial or Wet Corrosion & Its mechanism, Rusting of Iron Passivity, Galvanic series, Galvanic Corrosion, Soil Corrosion Pitting Corrosion, Concentration Cell or Differential Aeration Corrosion, Stress Corrosion. Factors Influencing Corrosion: Nature of metal and nature of corroding environment; Protective measures: Galvanization, Tinning Cathodic Protection, Sacrificial Anodic protection, Electroplating, Electroless plating, Prevention of Corrosion by Material selection & Design."
+                    }
+                }
+            ]
+        }
+    ]
+}

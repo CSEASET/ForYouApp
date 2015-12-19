@@ -1,0 +1,34 @@
+{
+    "ETEE206": [
+        {
+            "paperTitle": "Power System-I",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Power System",
+                        "unitDetails": "Power System Components: Block diagram of electric power system, Single line diagram of power system,brief description of power system elements such as, synchronous machine, transformer, transmission line, bus bar and circuit breaker.Transmission line: Configurations, type of conductors, Mechanical Design of Transmission Line: catenary curve, calculation of sag and tension, effects of wind and ice loadings on sag, sag template, vibration dampers. Overhead Lines Insulators: Types of insulators and their applications, potential distribution over a string of insulators, methods of equalizing the potential."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Overhead Transmission Lines: Corona and Interference",
+                        "unitDetails": "Phenomenon of corona, corona loss, factors affecting corona, methods of reducing corona, bundle conductors and interference.Calculation of resistance (skin & proximity effects), inductance and capacitance of single phase, three phase,single circuit and double circuit transmission lines. Modeling and performance analysis of short, medium and long transmission line. Ferranti effect, Transposition of transmission conductors, surge impedance loading.Introduction and analysis of travelling wave use of Bewley Diagram."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Insulated Cables and Fault Analysis",
+                        "unitDetails": "Insulated Cables: Types of cables, dielectric stress, grading of cables, insulation resistance, capacitance of single phase and three phase cables, dielectric loss, heating of cables. Fault Analysis: Per unit system, symmetrical component, calculation of symmetrical and unsymmetrical fault, use of current limiting reactors."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Power Flow Analysis",
+                        "unitDetails": "Formulation of Y-bus Matrix, Power flow equations, Classification of buses, Data for load flow, Gauss-Seidal Method, acceleration factor of convergence; Newton Raphson Method Fast Decoupled load flow; Comparison of power Flow Methods."
+                    }
+                }
+            ]
+        }
+    ]
+}

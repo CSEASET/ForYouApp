@@ -1,0 +1,34 @@
+{
+    "ETEL203": [
+        {
+            "paperTitle": "ANALOG ELECTRONICS",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Review of diode and BJT, Bias stabilization",
+                        "unitDetails": "Review of diode and BJT, Bias stabilization: Need for stabilization, fixed Bias, emitter bias, self-bias, bias stability with respect to variations in Ico, VBE & ß, Stabilization factors, thermal stability. Bias Compensation techniques. Small signal amplifiers: CB, CE, CC configurations, hybrid model for transistor at low frequencies, RC coupled amplifiers, mid band model, gain & impedance, comparisons of different configurations, Emitter follower, Darlington pair(derive voltage gain, current gain, input and output impedance.)Hybrid -model at high frequencies (p model)"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Multistage Amplifiers",
+                        "unitDetails": "Multistage Amplifiers: Cascaded and cascoded amplifiers, Calculation of gain Impedance and bandwidth, Design of multistage amplifiers. Feedback Amplifiers: Feedback concept, Classification of Feedback amplifiers, Properties of negative Feedback amplifiers, Impedance considerations in different Configurations, Examples of analysis of feedback Amplifiers"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Field Effect Transistor",
+                        "unitDetails": "Field Effect Transistor: Introduction, Classification, FET characteristics, Operating point, Biasing, FET small signal Model, enhancement & Depletion type MOSFETS. Power Amplifiers: Power dissipations in transistors, Amplifiers Classification, (Class-A, Class-B, Class-C, Class-AB) Efficiency analysis, Push-pull and complementary Push-pull amplifiers, crossover distortion and harmonic distortion in push pull amplifier. Tuned amplifiers"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Op-Amp",
+                        "unitDetails": "Op-Amp and its applications: Inverting and Non-inverting amplifiers, adder, sub-tractor, integrators, differentiator, instrumentation amplifiers, oscillators, and multi vibrators"
+                    }
+                }
+            ]
+        }
+    ]
+}

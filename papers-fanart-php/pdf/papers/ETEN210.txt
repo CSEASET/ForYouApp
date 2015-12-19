@@ -1,0 +1,34 @@
+{
+    "ETEN210": [
+        {
+            "paperTitle": "Geotechnical Engineering",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Soil,Laboratory and Permeability",
+                        "unitDetails": "Soil formation, properties and classification : Origin of soils, Composition of soil, particle size and shapes,Three phase diagram and relationships among void ratio, specific gravity, Dry density, porosity, Water content,Unit weights and degree of saturation, Classification of soils.Laboratory and field identification of soil: Determination of water content, Specific gravity and grain size distribution for coarse grained and fine grained soils, Atterberg limits and indices, Visual identification by simple field test.Permeability and seepage: Concept of pore water pressure, Total, Effective and neutral stresses. Darcy’s law, Laboratory and field permeability tests, Seepage forces, Seepage through earth dams, Exit gradient and uplift pressure, Mechanics of piping, Methods of dewatering, design of filters."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Stress Distribution and Consolidation",
+                        "unitDetails": "Stress distribution: Stress at a point, Concept of Mohr’s circle, Calculation of stresses due to force of gravity,Point, Line and uniformly distributed loads, Influence charts, contact pressure distribution, Boussineque’s equation for vertical pressure. Consolidation and settlement : Consolidation test and compressibility characteristics, Terzaghi’s theory of one dimensional consolidation, Types of clay deposits, Normal/over/under consolidated clays, Determination of pre-consolidation pressure and its significance, Time factor and coefficient of consolidation, Fitting methods,Settlement analysis."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Soil improvement Techniques",
+                        "unitDetails": "Soil improvement techniques: Compaction, Drainage and vibration methods, Grouting and injection, Chemical stabilization, Geomembranes and geotextiles Compaction of soils: Objectives, Compactive effort, Laboratory compaction, Standard Proctor test, Concept of optimum moisture content and zero air voids line, Effect of compaction on soil properties, Compaction specifications and field control. Shear strength of soil: Stress strain curve, Mohr-coulomb failure criteria, Laboratory and field measurement of shear strength of soil, Direct, triaxial and unconfined compression tests, Vane shear tests. Determination of shear strength parameters for different drainage and stress conditions, Measurement of pore pressure, Choice of test conditions, Shear strength of cohesive and granular soils."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Bearing Capacity of Soils",
+                        "unitDetails": "Bearing capacity of soils: Methods of determining bearing capacity, Analytical methods, Effect of water table,Safe bearing capacity, Foundation settlements, Plate load tests and Penetration tests. Shallow foundations: Types of shallow foundations, Selection of type of foundation, Design of shallow foundations, Combined footings and Raft foundations. Deep foundations: Classification of Piles, Pile driving equipment, Calculation of bearing capacity of a single pile, Pile groups, well and caisson."
+                    }
+                }
+            ]
+        }
+    ]
+}

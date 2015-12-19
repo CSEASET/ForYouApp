@@ -1,0 +1,34 @@
+{
+    "ETTE204": [
+        {
+            "paperTitle": "METAL FORMIMG",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Fundamentals of Metal Forming",
+                        "unitDetails": "Classification of various Forming Process, Cold, Hot, and warm Forming, Component of Stresses, Principal Stresses, Stress Invariants, Mean stress, Stress Deviator, Mohr’s Stress circles, Shear strain theory, strain measure, Elastic Stress-Strain Laws, Von-Mises Stress-strain rate law, Tresca yield criterion, Von-Mises yield criterion, Spring Back, residual stresses"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Forging and Rolling",
+                        "unitDetails": "Forging: Introduction, forging machines, open-die forging, closed-die forging, Impression Die forging, Forging defects, calculation of forging loads in closed-die forging.Rolling: Introduction, Hot and Cold Rolling, Evaluation of Roll force, Roll torque, mill horsepower, Limiting thickness and limiting reduction, cambering of rolls, In-Process changing of roll camber"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Extrusion:",
+                        "unitDetails": "Introduction, Direct Extrusion, Indirect Extrusion, Impact Extrusion, Hydrostatic Extrusion, Continuous Extrusion, Lubrication in Extrusion, Extrusion through curved Dies, Lubrication, Defects and irregularities in extrusion process, Extrusion force Calculation, Influence of friction"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Sheet Metal Forming",
+                        "unitDetails": "Cutting off, Blanking, Punching, and Piercing Processes, Compound & Progressive Dies, Fine Blanking,Nesting, Forces in Blanking, Bending, Deep drawing, Drawability of sheet metal, factors affecting drawability,Forming limit diagrams(FLD), Forming with Hydrostatics pressure"
+                    }
+                }
+            ]
+        }
+    ]
+}

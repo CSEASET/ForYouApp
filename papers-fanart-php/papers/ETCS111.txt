@@ -1,0 +1,34 @@
+{
+    "ETCS111": [
+        {
+            "paperTitle": "FUNDAMENTALS OF COMPUTING",
+            "paperCredits": 2,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Five Component Model of a Computer",
+                        "unitDetails": "Five Component Model of a Computer, System and Application software ( introduction ) storage devices ,primary (RAM, ROM, PROM, EPROM, cache ) Memory and secondary (magnetic tape, hard disk, Compact disks) memory , peripheral devices , printers"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Operating Systems",
+                        "unitDetails": "DOS Internal, External commands, Windows ( 2000 and NT) , Overview of architecture of Windows, tools and system utilities including registry , partitioning of hard disk , Overview of Linux architecture , File system , file and permissions , concept of user and group , installation of rpm and deb based packages."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Basics of programming through flow chart",
+                        "unitDetails": "Basics of programming through flow chart , Networking Basics - Uses of a network and Common types of networks , Network topologies and protocols , Network media and hardware , Overview of Database Management System"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Libre / Open Office ",
+                        "unitDetails": "Libre / Open Office Writer : Editing and Reviewing, Drawing, Tables, Graphs, Templates Libre / Open Office Calc : Worksheet Management , Formulas, Functions, Charts Libre / Open Office Impress: designing powerful power-point presentation"
+                    }
+                }
+            ]
+        }
+    ]
+}

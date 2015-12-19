@@ -1,0 +1,34 @@
+{
+    "ETEN211": [
+        {
+            "paperTitle": "Environmental Chemistry and Microbiology",
+            "paperCredits": 3,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Fundamentals of chemical Kinetics",
+                        "unitDetails": "Fundamentals of chemical kinetics, Acid-base chemistry of natural waters, Acid deposition, Trace metals in water. Fundamentals of free radical chemistry, Smog and aerosols. Stratospheric ozone depletion, Health aspects of ozone depletion, BOD and COD tests"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Sampling",
+                        "unitDetails": "Grab and Composite Sampling for natural water bodies and industrial Effluents, Monitoring techniques and toxic effects of organic compounds such as Phenols, Pesticides, Surfactants, Tannin, Lignin and Hydrocarbons.Environmental toxicity and analysis: Principles of toxicity and standards, Analysis of Chromium,, Cobalt,Manganese, Nickel, Copper, Mercury, Arsenic and Organo-metallic compounds. Chemical speciation of (Cu,Pb, As, Hg, Cr)."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Microorganisms",
+                        "unitDetails": "Microorganisms in water and wastewater engineering: Characteristics of water and sewage, Microbial examination of water and wastewater, Taste and odours, coliform, bacteria tests, Heterotrophic Plate Count (HPC). Bacterial growth, Kinetics of bacterial growth, Acclimatization of waste and microbial inhibition.Biologically degradable Plastics and surface active substances. Microorganism in air pollution control (Biofilters and bio scrubbers)."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Bioremediation and Biorestoration",
+                        "unitDetails": "Use of microbes for improving soil fertility, Restoration of soils contaminated with heavy metals/pesticides and other toxic organic chemicals.Biochemistry and Microbiology of Landfills and Composting, Recycling and processing of organic residues,Xenobiotics."
+                    }
+                }
+            ]
+        }
+    ]
+}

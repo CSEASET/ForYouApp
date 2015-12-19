@@ -1,0 +1,34 @@
+{
+    "ETCE202": [
+        {
+            "paperTitle": "WATER ENGINEERING",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Demand of water",
+                        "unitDetails": "Domestic, commercial and public requirements, Factors affecting demand fluctuations, Estimate of prospective population, fire demand requirements and other allowances. Sources of water: Estimating the quantity of water from various sources, surface and underground sources, such as, impounded, perennial stream, shallow wells artesian wells, deep wells, infiltration galleries, intake works from different sources. Water quality: Suspended solids, turbidity, colour, taste odour, temperature, Total dissolved solids, pH, acidity, alkalinity, hardness, nitrates, chlorides, fluorides, metals, organics, nutrients, and Pathogens. In-stream standards: Potable water standards, waste water / effluent standards, standards for receiving wastes in natural streams / sewer / sea, Bio-monitoring of streams and lakes Groundwater quality, chemical/ biological remediation of ground water"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Water purification processes in natural system",
+                        "unitDetails": " Water pollutants and their sources, Physical processes: Dilution, sedimentation and re-suspension, filtration, gas transfer, heat transfer, Chemical processes, metabolic processes, role of micro-organisms in natural water systems. Stream water quality changes due to waste disposal, Streeter-Phelps D.O. model, and water quality management of rivers having multiple discharges, lakes and estuaries"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Analysis and Design [as per CPHEEO manual etc] of Engineered systems for water purification",
+                        "unitDetails": " Water treatment process and design, economic construction in water works design, solids separation by aeration, settling operations, coagulation, softening, mixing and flocculation, sedimentation. Analysis and design of other system for water purification: Filtration, disinfection, [Residual chlorine, chlorine demand and brake point chlorination] adsorption, membranes, Water plant waste management, Pump drive units and analysis of pumping systems."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Distribution system",
+                        "unitDetails": " Methods of distributing water, distribution reservoirs, stand pipes and water tanks, design of pumping mains, use of nomograms, appurtenances, distribution systems and their components, capacity and pressure requirements, design of distribution systems, hydraulic analysis of distribution systems"
+                    }
+                }
+            ]
+        }
+    ]
+}

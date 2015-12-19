@@ -1,0 +1,34 @@
+{
+    "ETCE209": [
+        {
+            "paperTitle": "SURVEYING",
+            "paperCredits": 4,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Linear Measurement",
+                        "unitDetails": ": Introduction, Principles of chain survey, use and adjustment of various instruments employed in chain survey, chaining on sloping grounds, Offsets and error in offsets, Obstructions in chaining, chaining angles, Errors and sources of error, Introduction to advance linear measuring instruments, Field book. Compass Survey: Use and adjustment of prismatic and surveyor’s compass, Methods of surveying with a compass, Magnetic declination, local attraction, Errors in prismatic survey, plotting of compass survey, distribution of closing error. Leveling: Definition and working principles of a leveling instrument and its various parts with reference to the bubble tube and the telescope, Use and adjustment of dumpy and tilting levels, Establishment of Bench Marks by leveling, Longitudinal leveling, Cross section leveling, fly leveling and reciprocal leveling, Methods of booking and reduction of levels. Errors in leveling, Curvature and refraction correction, Advanced leveling instruments. "
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Theodolite Survey",
+                        "unitDetails": " Study of theodolite, Temporary and permanent adjustments, Measurement of horizontal angles, methods of repetition and reiteration, Measurement of vertical angles, advanced electronic and laser theodolites. Contouring: Definition of contours, contour interval, characteristics of contours, Direct and indirect methods of contouring, uses of contours, Estimation of volumes of the earthwork by means of contour lines and section, Grade contours, Topographic maps"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Tacheometric Surveying",
+                        "unitDetails": " Stadia system, Fixed and movable hair methods, staff held vertical and normal, Instrument constants, Analytic lens, Tangential system, direct reading tachometer, subtense bar. Plane Table Survey: Instruments employed in plane table survey, Use and adjustment of these instruments including simple alidade. Working operations like fixing, leveling, centering and orientation, Methods of orientation, various methods of plane table survey. Three point and two point problems. Errors in plane table survey, Contouring using clinometer, Advantages and disadvantages of plane tabling."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Triangulation",
+                        "unitDetails": "Principal, selection of base line and stations, order of triangulation, triangulation figures, scaffold and signals, marking of stations, Intervisibility and heights of stations, satellite stations, base line measurement and corrections, Introduction to adjustment of observations. Curves: Types of curves, Elements of a curve, Simple curves, different methods of setting out, Introduction to compound, reverse, transition and vertical curves. Introduction to modern surveying Instruments /Techniques like Total station, GPS etc "
+                    }
+                }
+            ]
+        }
+    ]
+}

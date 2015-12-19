@@ -1,0 +1,34 @@
+{
+    "ETHS109": [
+        {
+            "paperTitle": "HUMAN VALUES & PROFESSIONAL ETHICS",
+            "paperCredits": 1,
+            "paperUnits": [
+                {
+                    "unit": {
+                        "unitTitle": "Introduction to Value Education",
+                        "unitDetails": "  1. Understanding the need, basic guidelines,content and process for value education 2 Basic Human Aspirations: Prosperity and happiness                                 3  Methods to fulfil the human aspirations – understanding and living in harmony at various levels.                           4. Practice Session – 1."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Harmony in the Human Being",
+                        "unitDetails": "1. Co-existence of the sentient “I” and the material body – understanding their needs – Happiness & Conveniences. 2. Understanding the Harmony of “I” with the body – Correct appraisal of physical needs and the meaning of prosperity. 3. Programme to ensure harmony of “I” and Body-Mental and Physical health and happiness. 4. Harmony in family and society: Understanding Human-human relationship in terms of mutual trust and respect. 5. Understanding society and nation as extensions of family and society respectively. 6. Practice Session – 02"
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Basics of Professional Ethics",
+                        "unitDetails": "1. Ethical Human Conduct – based on acceptance of basic human values. 2. Humanistic Constitution and universal human order – skills, sincerity and fidelity. 3. To identify the scope and characteristics of people – friendly and eco-friendly production system,Technologies and management systems. 4. Practice Session – 03."
+                    }
+                },
+                {
+                    "unit": {
+                        "unitTitle": "Professional Ethics in practice",
+                        "unitDetails": "1. Profession and Professionalism – Professional Accountability, Roles of a professional, Ethics and image of profession.2. Engineering Profession and Ethics - Technology and society, Ethical obligations of Engineering professionals, Roles of Engineers in industry, society, nation and the world. 3. Professional Responsibilities – Collegiality, Loyalty, Confidentiality, Conflict of Interest, Whistle Blowing 4. Practice Session – 04"
+                    }
+                }
+            ]
+        }
+    ]
+}

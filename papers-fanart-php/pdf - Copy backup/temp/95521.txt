@@ -1,0 +1,123 @@
+61 
+
+ 
+
+Scheme  and  Syllabi  for  B.  Tech-CSE,  1s t  year  (Common  to  all  branches)  w.e.f  batch  2014-15  and  (2nd,  3rd  &  4th  years) w.e.f  batch  2013-14  
+
+approved in the 22nd BOS of USET on 30th June, 2014 and approved in the 37th AC Sub Committee Meeting held on 10th July, 2014. 
+
+ADVANCED COMPUTER ARCHITECTURE
+
+ 
+
+ 
+
+Paper Code: ETCS-415                L  T/P  C  
+
+Paper: Advanced Computer Architecture           3  0  3         
+
+Objective:  To  understand  different  program  and  netw ork  properties,  concepts  of  pipelining  and  architectures  of 
+
+computers.    
+
+UNIT-I 
+
+Parallel Computer Models:  
+
+The  state  of  computing,  Classification  of  parallel  computers,  Multiprocessors  and  multicomputers,  Mult ivector 
+
+and SIMD computers. 
+
+Program and Network Properties:  
+
+Conditions  of  parallelism,  Data  and  resource  Depend ences,  Hardware  and  software  parallelism,  Program 
+
+partitioning  and  scheduling,  Grain  Size  and  latency ,  Program  flow  mechanisms,  Control  flow  versus  data   flow, 
+
+Data flow Architecture, Demand driven  mechanisms, C omparisons of flow mechanisms 
+
+[T1, R4][No.  of Hrs: 10] 
+
+UNIT-II 
+
+Pipelining:  
+
+Linear  pipeline  processor,  nonlinear  pipeline  proce ssor,  Inst ruction  pipeline  Design,  Mechanisms  for  i nstruction 
+
+pipelining,  Dynamic  instruction  scheduling,  Branch  Handling  techniques,  branch  prediction,  Arithmetic Pipeline 
+
+Design, Computer arithmetic principles, Static Arit hmetic pipeline, Multifunctional arithmetic pipelines 
+
+[T1, R2][No.  of Hrs: 10] 
+
+UNIT-III 
+
+Arithmetic for Computers: 
+
+Signed and unsigned Numbers, Addition and Subtracti on, Multiplication, Division, Floating Point. 
+
+CPU Performance and Its factors, Evaluating perform ance of CPU. 
+
+[T2, R3][No.  of Hrs: 10] 
+
+UNIT-IV 
+
+Memory Hi erarchy:  
+
+Introduction,  The  basics  of  Cache,  Measuring  and  Im proving  of  Cache  Performance,  Virtual  Memory,  Commo n 
+
+framework for memory hierarchies 
+
+Case study of PIV and AMD opteron memory hierarchie s 
+
+[T2, T1][No. of Hrs: 10] 
+
+Text Books:   
+
+[T1]  Kai Hwang, “Advanced computer architecture”; T MH. 2000 
+
+[T2]  D.  A.  Patterson  and  J.  L.  Hennessey,  “Computer   organization  and  design”,  Morgan  Kaufmann,  2nd  Ed. 
+
+2002 
+
+  
+
+Reference Books:  
+
+[R1]  J.P.Hayes, “computer Architecture and organiza tion”; MGH. 1998 
+
+[R2]  Harvey G.Cragon,”Memory System and Pipelined p rocessors”; Narosa Publication. 1998 
+
+[R3]  V.Rajaranam & C.S.R.Murthy, “Parallel computer ”; PHI. 2002 
+
+[R4]  R.K.Ghose,  Rajan  Moona  &  Phalguni  Gupta,  “Foun dation  of  Parallel  Processing”,  Narosa  Publications, 
+
+2003 
+
+[R5]  Kai Hwang and Zu, “Scalable Parallel Computers  Architecture”, MGH. 2001 
+
+[R6]  Stalling W,  “Computer Organisation & Architec ture”, PHI. 2000 
+
+[R7]  D.Sima,  T.Fountain,  P.Kasuk,  “Advanced  Compute r  Architecture-A  Design  space  Approach,”Addison 
+
+Wesley, 1997.  
+
+[R8]  M.J Flynn, “Computer Architecture, Pipelined a nd Parallel Processor Design”; Narosa Publishing. 1998 
+
+[R9]  D.A.Patterson,  J.L.Hennessy,  “Computer  Archite cture  :A  quantitative  approach”;  Morgan  Kauffmann 
+
+feb, 2002. 
+
+[R10]  Hwan and Briggs, “Computer Architecture and P arallel Processing”; MGH. 1999 
+
+INSTRUCTIONS TO PAPER SETTERS:                                 MAXIMUM MARKS : 75 
+
+1. Question No. 1 should be compulsory and cover th e entire syllabus. This question should have objective or 
+
+short answer type questions. It should be of 25 mar ks. 
+
+2.  Apart  from  Question  No.  1,  rest  of  the  paper  sha ll  consist  of  four  units  as  per  the  syllabus.  Every  unit 
+
+should  have  two  questions.  However,  student  may  be  asked  to  attempt  onl y  1  question  from  each  unit. Each 
+
+question should be of 12.5 marks   
