@@ -4,9 +4,7 @@ android {
     signingConfigs {
         config {
             keyAlias 'none'
-            keyPassword 'cseaset'
             storeFile file('~/Downloads/keys.jks')
-            storePassword 'cseaset'
         }
     }
     compileSdkVersion 29
