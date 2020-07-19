@@ -32,6 +32,7 @@ android {
             versionCode 104
             versionName "1.2"
             signingConfig signingConfigs.config
+            dimension 'default'
         }
         lower {
             applicationId "com.helpinghands.foryou"
@@ -40,8 +41,10 @@ android {
             versionCode 4
             versionName "1.2"
             signingConfig signingConfigs.config
+            dimension 'default'
         }
     }
+    flavorDimensions 'default'
 }
 
 dependencies {
