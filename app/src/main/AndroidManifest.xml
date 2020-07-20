@@ -23,7 +23,7 @@
         <activity
             android:name=".showSyllabus"
             android:label="Syllabus"
-            android:screenOrientation="userLandscape"
+            android:screenOrientation="sensorLandscape"
             android:parentActivityName=".subject_list">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"

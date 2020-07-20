@@ -1,2738 +1,2804 @@
 ﻿[
-    {
-        "ETAT202": {
-            "paperTitle": "Theory of Machines",
-            "page": 0
-        }
-    },
-    {
-        "ETAT203": {
-            "paperTitle": "Strenth Of Materials",
-            "page": 0
-        }
-    },
-    {
-        "ETAT204": {
-            "paperTitle": "Fluid Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETAT302": {
-            "paperTitle": "Machine Design",
-            "page": 0
-        }
-    },
-    {
-        "ETAT303": {
-            "paperTitle": "Metal Cutting & Tool Design ",
-            "page": 0
-        }
-    },
-    {
-        "ETAT304": {
-            "paperTitle": "Automobile Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETAT305": {
-            "paperTitle": "Heat Transfer & I. C. Engines",
-            "page": 0
-        }
-    },
-    {
-        "ETAT306": {
-            "paperTitle": "Operations Research",
-            "page": 0
-        }
-    },
-    {
-        "ETAT307": {
-            "paperTitle": "Metrology",
-            "page": 0
-        }
-    },
-    {
-        "ETAT401": {
-            "paperTitle": "Computer Aided Design",
-            "page": 0
-        }
-    },
-    {
-        "ETAT403": {
-            "paperTitle": "Mechatronics",
-            "page": 0
-        }
-    },
-    {
-        "ETAT407": {
-            "paperTitle": "Advanced Manufacturing Methods",
-            "page": 0
-        }
-    },
-    {
-        "ETAT432": {
-            "paperTitle": "Gas Turbines and Compressors",
-            "page": 0
-        }
-    },
-    {
-        "ETAT442": {
-            "paperTitle": "Process Planning and Cost Estimation",
-            "page": 0
-        }
-    },
-    {
-        "ETCE202": {
-            "paperTitle": "WATER ENGINEERING",
-            "page": 0
-        }
-    },
-    {
-        "ETCE203": {
-            "paperTitle": "STRENGTH OF MATERIAL",
-            "page": 0
-        }
-    },
-    {
-        "ETCE204": {
-            "paperTitle": "STRUCTURAL ANALYSIS",
-            "page": 0
-        }
-    },
-    {
-        "ETCE205": {
-            "paperTitle": "FLUID MECHANICS",
-            "page": 0
-        }
-    },
-    {
-        "ETCE206": {
-            "paperTitle": "Hydraulics and Hydraulic Machines",
-            "page": 0
-        }
-    },
-    {
-        "ETCE207": {
-            "paperTitle": "BUILDING MATERIALS AND CONSTRUCTION",
-            "page": 0
-        }
-    },
-    {
-        "ETCE208": {
-            "paperTitle": "ADVANCED SURVEYING",
-            "page": 0
-        }
-    },
-    {
-        "ETCE209": {
-            "paperTitle": "SURVEYING",
-            "page": 0
-        }
-    },
-    {
-        "ETCE210": {
-            "paperTitle": "Soil Mechanics",
-            "page": 0
-        }
-    },
-    {
-        "ETCE211": {
-            "paperTitle": "ENGINEERING GEOLOGY",
-            "page": 0
-        }
-    },
-    {
-        "ETCE212": {
-            "paperTitle": "DESIGN OF CONCRETE STRUCTURE",
-            "page": 0
-        }
-    },
-    {
-        "ETCE302": {
-            "paperTitle": "Operation Research and Management",
-            "page": 0
-        }
-    },
-    {
-        "ETCE303": {
-            "paperTitle": "Advanced Structural Analysis",
-            "page": 0
-        }
-    },
-    {
-        "ETCE304": {
-            "paperTitle": "Applications of Remote Sensing",
-            "page": 0
-        }
-    },
-    {
-        "ETCE305": {
-            "paperTitle": "Design of Steel Structure",
-            "page": 0
-        }
-    },
-    {
-        "ETCE306": {
-            "paperTitle": "Quantity Surveying and Cost Estimation",
-            "page": 0
-        }
-    },
-    {
-        "ETCE307": {
-            "paperTitle": "Engineering Hydrology",
-            "page": 0
-        }
-    },
-    {
-        "ETCE308": {
-            "paperTitle": "Open Channel Flow",
-            "page": 0
-        }
-    },
-    {
-        "ETCE309": {
-            "paperTitle": "Geotechnical and Foundation Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCE310": {
-            "paperTitle": "Advanced Structural Design",
-            "page": 0
-        }
-    },
-    {
-        "ETCE311": {
-            "paperTitle": "Wastewater Engineering and Reuse",
-            "page": 0
-        }
-    },
-    {
-        "ETCE312": {
-            "paperTitle": "Transportation Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCE401": {
-            "paperTitle": "Economics for Engineers",
-            "page": 0
-        }
-    },
-    {
-        "ETCE403": {
-            "paperTitle": "Irrigation Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCE404": {
-            "paperTitle": "Planning and Management",
-            "page": 0
-        }
-    },
-    {
-        "ETCE405": {
-            "paperTitle": "Transportation Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCE406": {
-            "paperTitle": "Analysis and Design of Bridges",
-            "page": 0
-        }
-    },
-    {
-        "ETCE410": {
-            "paperTitle": "Transportation",
-            "page": 0
-        }
-    },
-    {
-        "ETCE411": {
-            "paperTitle": "Water Resource System planning",
-            "page": 0
-        }
-    },
-    {
-        "ETCE412": {
-            "paperTitle": "Ground Water Assessment",
-            "page": 0
-        }
-    },
-    {
-        "ETCE413": {
-            "paperTitle": "Earthquake Technology",
-            "page": 0
-        }
-    },
-    {
-        "ETCE414": {
-            "paperTitle": "Environmental Preventive Health Issues",
-            "page": 0
-        }
-    },
-    {
-        "ETCE415": {
-            "paperTitle": "GEO -SYNTHETICS AND REINFORCED SOIL",
-            "page": 0
-        }
-    },
-    {
-        "ETCE416": {
-            "paperTitle": "Advance Geotechnical Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCE417": {
-            "paperTitle": "Structure Repair and Rehabilitation",
-            "page": 0
-        }
-    },
-    {
-        "ETCE418": {
-            "paperTitle": "FEM in Structural Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCE419": {
-            "paperTitle": "Data Analytics",
-            "page": 0
-        }
-    },
-    {
-        "ETCE422": {
-            "paperTitle": "Environment Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCE424": {
-            "paperTitle": "Offshore Structural Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCH113": {
-            "paperTitle": "Applied Chemistry",
-            "page": 14
-        }
-    },
-    {
-        "ETPH151": {
-            "paperTitle": "APPLIED PHYSICS LAB – I",
-            "page": 15
-        }
-    },
-    {
-        "ETEE153": {
-            "paperTitle": "ELECTRICAL TECHNOLOGY LAB",
-            "page": 16
-        }
-    },
-    {
-        "ETME155": {
-            "paperTitle": "WORKSHOP PRACTICE",
-            "page": 17
-        }
-    },
-    {
-        "ETME157": {
-            "paperTitle": "ENGINEERING GRAPHICS",
-            "page": 18
-        }
-    },
-    {
-        "ETCS157": {
-            "paperTitle": "FUNDAMENTAL OF COMPUTING LAB",
-            "page": 19
-        }
-    },
-    {
-        "ETCH161": {
-            "paperTitle": "APPLIED CHEMISTRY LAB",
-            "page": 20
-        }
-    },
-    {
-        "ETCS108": {
-            "paperTitle": "INTRODUCTION TO PROGRAMMING",
-            "page": 24
-        }
-    },
-    {
-        "ETCS111": {
-            "paperTitle": "FUNDAMENTALS OF COMPUTING",
-            "page": 13
-        }
-    },
-    {
-        "ETCS203": {
-            "paperTitle": "Foundation of Computer Science",
-            "page": 0
-        }
-    },
-    {
-        "ETCS204": {
-            "paperTitle": "Computer Organization & Architecture",
-            "page": 0
-        }
-    },
-    {
-        "ETCS206": {
-            "paperTitle": "Theory of Computation",
-            "page": 0
-        }
-    },
-    {
-        "ETCS208": {
-            "paperTitle": "Database Management Systems ",
-            "page": 0
-        }
-    },
-    {
-        "ETCS209": {
-            "paperTitle": "Data Structures",
-            "page": 0
-        }
-    },
-    {
-        "ETCS210": {
-            "paperTitle": "Object Oriented Programming",
-            "page": 0
-        }
-    },
-    {
-        "ETCS211": {
-            "paperTitle": "Computer Graphics & Multimedia",
-            "page": 0
-        }
-    },
-    {
-        "ETCS301": {
-            "paperTitle": "Algorithms Design and Analysis",
-            "page": 0
-        }
-    },
-    {
-        "ETCS302": {
-            "paperTitle": "Compiler Design",
-            "page": 0
-        }
-    },
-    {
-        "ETCS303": {
-            "paperTitle": "Software Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCS304": {
-            "paperTitle": "Operating Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETCS306": {
-            "paperTitle": "Computer Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETCS307": {
-            "paperTitle": "Java Programming",
-            "page": 0
-        }
-    },
-    {
-        "ETCS308": {
-            "paperTitle": "Web Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCS310": {
-            "paperTitle": "Artificial Intelligence",
-            "page": 0
-        }
-    },
-    {
-        "ETCS401": {
-            "paperTitle": "Information Security",
-            "page": 0
-        }
-    },
-    {
-        "ETCS402": {
-            "paperTitle": "Machine Learning",
-            "page": 0
-        }
-    },
-    {
-        "ETCS403": {
-            "paperTitle": "Software Testing and Quality Assurance",
-            "page": 0
-        }
-    },
-    {
-        "ETCS404": {
-            "paperTitle": "Human Computer Interaction",
-            "page": 0
-        }
-    },
-    {
-        "ETCS407": {
-            "paperTitle": "Complexity Theory",
-            "page": 0
-        }
-    },
-    {
-        "ETCS408": {
-            "paperTitle": "Microelectronics",
-            "page": 0
-        }
-    },
-    {
-        "ETCS409": {
-            "paperTitle": "Intellectual Property Rights",
-            "page": 0
-        }
-    },
-    {
-        "ETCS410": {
-            "paperTitle": "Natural Language Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETCS411": {
-            "paperTitle": "Introduction to Data Science",
-            "page": 0
-        }
-    },
-    {
-        "ETCS412": {
-            "paperTitle": "Object Oriented Software Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETCS413": {
-            "paperTitle": "Data Mining and Business Intelligence",
-            "page": 0
-        }
-    },
-    {
-        "ETCS414": {
-            "paperTitle": "Computer Vision",
-            "page": 0
-        }
-    },
-    {
-        "ETCS415": {
-            "paperTitle": "Advanced Computer Architecture",
-            "page": 0
-        }
-    },
-    {
-        "ETCS416": {
-            "paperTitle": "Software Project Management",
-            "page": 0
-        }
-    },
-    {
-        "ETCS418": {
-            "paperTitle": "Web Intelligence",
-            "page": 0
-        }
-    },
-    {
-        "ETCS420": {
-            "paperTitle": "Service Oriented Architecture",
-            "page": 0
-        }
-    },
-    {
-        "ETCS421": {
-            "paperTitle": "Simulation and Modelling",
-            "page": 0
-        }
-    },
-    {
-        "ETCS422": {
-            "paperTitle": "Multiagent Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETCS423": {
-            "paperTitle": "Advanced DBMS",
-            "page": 0
-        }
-    },
-    {
-        "ETCS424": {
-            "paperTitle": "Principles of Programming Languages",
-            "page": 0
-        }
-    },
-    {
-        "ETCS425": {
-            "paperTitle": "Database Management Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETCS426": {
-            "paperTitle": "Telecommunication Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETCS427": {
-            "paperTitle": "Parallel Computing",
-            "page": 0
-        }
-    },
-    {
-        "ETCS428": {
-            "paperTitle": "Selected Topics of Recent Trends in CSE",
-            "page": 0
-        }
-    },
-    {
-        "ETCS429": {
-            "paperTitle": "Artificial Intelligence",
-            "page": 0
-        }
-    },
-    {
-        "ETCS430": {
-            "paperTitle": "Object Oriented Programming Using C++",
-            "page": 0
-        }
-    },
-    {
-        "ETEC106": {
-            "paperTitle": "ELECTRONIC DEVICES",
-            "page": 23
-        }
-    },
-    {
-        "ETEC202": {
-            "paperTitle": "Switching Theory and Logic Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEC203": {
-            "paperTitle": "Analog Electronics-I",
-            "page": 0
-        }
-    },
-    {
-        "ETEC204": {
-            "paperTitle": "Analog Electronics-II",
-            "page": 0
-        }
-    },
-    {
-        "ETEC205": {
-            "paperTitle": "Switching Theory and Logic Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEC206": {
-            "paperTitle": "NETWORK ANALYSIS AND SYNTHESIS",
-            "page": 0
-        }
-    },
-    {
-        "ETEC207": {
-            "paperTitle": "Electronic Instruments & Measurements",
-            "page": 0
-        }
-    },
-    {
-        "ETEC208": {
-            "paperTitle": "COMMUNICATION SYSTEMS",
-            "page": 0
-        }
-    },
-    {
-        "ETEC211": {
-            "paperTitle": "Signals & Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEC302": {
-            "paperTitle": "Microwave Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETEC303": {
-            "paperTitle": "Digital Communication",
-            "page": 0
-        }
-    },
-    {
-        "ETEC304": {
-            "paperTitle": "Information Theory and Coding",
-            "page": 0
-        }
-    },
-    {
-        "ETEC305": {
-            "paperTitle": "Microprocessors and Microcontrollers",
-            "page": 0
-        }
-    },
-    {
-        "ETEC306": {
-            "paperTitle": "Digital Signal Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETEC308": {
-            "paperTitle": "VLSI Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEC309": {
-            "paperTitle": "Digital System Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEC310": {
-            "paperTitle": "Data Communication",
-            "page": 0
-        }
-    },
-    {
-        "ETEC314": {
-            "paperTitle": "Antenna and Wave Propagation",
-            "page": 0
-        }
-    },
-    {
-        "ETEC401": {
-            "paperTitle": "Embedded Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEC403": {
-            "paperTitle": "Optoelectronics and Optical Communication",
-            "page": 0
-        }
-    },
-    {
-        "ETEC404": {
-            "paperTitle": "Satellite Communication",
-            "page": 0
-        }
-    },
-    {
-        "ETEC405": {
-            "paperTitle": "Wireless Communication",
-            "page": 0
-        }
-    },
-    {
-        "ETEC406": {
-            "paperTitle": "Ad Hoc and Sensor Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETEC407": {
-            "paperTitle": "Advanced DSP",
-            "page": 0
-        }
-    },
-    {
-        "ETEC408": {
-            "paperTitle": "Consumer Electronics",
-            "page": 0
-        }
-    },
-    {
-        "ETEC409": {
-            "paperTitle": "Introduction to MEMS",
-            "page": 0
-        }
-    },
-    {
-        "ETEC411": {
-            "paperTitle": "Advance VLSI Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEC412": {
-            "paperTitle": "ASIC Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEC416": {
-            "paperTitle": "Introduction to Nano Technology",
-            "page": 0
-        }
-    },
-    {
-        "ETEC417": {
-            "paperTitle": "RF Devices and Circuits",
-            "page": 0
-        }
-    },
-    {
-        "ETEC419": {
-            "paperTitle": "Radar and Navigation",
-            "page": 0
-        }
-    },
-    {
-        "ETEC420": {
-            "paperTitle": "Data Communication & Networks ",
-            "page": 0
-        }
-    },
-    {
-        "ETEC421": {
-            "paperTitle": "Data Communications and Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETEC424": {
-            "paperTitle": "Adaptive Signal Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETEC427": {
-            "paperTitle": "Digital System Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEC428": {
-            "paperTitle": "Next Generation Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETEC429": {
-            "paperTitle": "Selected Topics in ECE",
-            "page": 0
-        }
-    },
-    {
-        "ETEC430": {
-            "paperTitle": "Digital Communication",
-            "page": 0
-        }
-    },
-    {
-        "ETEC432": {
-            "paperTitle": "Image Processing and Machine Vision",
-            "page": 0
-        }
-    },
-    {
-        "ETEC434": {
-            "paperTitle": "Microprocessor System Based Process Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEE107": {
-            "paperTitle": "ELECTRICAL TECHNOLOGY",
-            "page": 7
-        }
-    },
-    {
-        "ETEE202": {
-            "paperTitle": "Electrical Machines-II",
-            "page": 0
-        }
-    },
-    {
-        "ETEE205": {
-            "paperTitle": "Materials in Electrical Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEE206": {
-            "paperTitle": "Power System-I",
-            "page": 0
-        }
-    },
-    {
-        "ETEE207": {
-            "paperTitle": "Circuits & Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEE208": {
-            "paperTitle": "Electrical and Electronic Measuring Instruments",
-            "page": 0
-        }
-    },
-    {
-        "ETEE210": {
-            "paperTitle": "ELECTROMAGNETIC FIELD THEORY",
-            "page": 0
-        }
-    },
-    {
-        "ETEE211": {
-            "paperTitle": "Electrical Machines-I",
-            "page": 0
-        }
-    },
-    {
-        "ETEE212": {
-            "paperTitle": "Control Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEE302": {
-            "paperTitle": "Power System-II",
-            "page": 0
-        }
-    },
-    {
-        "ETEE303": {
-            "paperTitle": "Power Electronics",
-            "page": 0
-        }
-    },
-    {
-        "ETEE304": {
-            "paperTitle": "Utilization of Electrical Energy",
-            "page": 0
-        }
-    },
-    {
-        "ETEE305": {
-            "paperTitle": "Sensors and Transducers",
-            "page": 0
-        }
-    },
-    {
-        "ETEE307": {
-            "paperTitle": "Switching Theory and Logic Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEE309": {
-            "paperTitle": "Communication Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEE310": {
-            "paperTitle": "Microprocessors and Microcontrollers",
-            "page": 0
-        }
-    },
-    {
-        "ETEE312": {
-            "paperTitle": "Power Station Practice",
-            "page": 0
-        }
-    },
-    {
-        "ETEE401": {
-            "paperTitle": "Electrical Drives",
-            "page": 0
-        }
-    },
-    {
-        "ETEE403": {
-            "paperTitle": "Advanced Control Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEE404": {
-            "paperTitle": "Neuro & Fuzzy Systems ",
-            "page": 0
-        }
-    },
-    {
-        "ETEE405": {
-            "paperTitle": "EHV AC & HVDC Transmission",
-            "page": 0
-        }
-    },
-    {
-        "ETEE406": {
-            "paperTitle": "POWER SYSTEM OPERATION & CONTROL",
-            "page": 0
-        }
-    },
-    {
-        "ETEE408": {
-            "paperTitle": "Application of Power Electronics to Power Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEE409": {
-            "paperTitle": "Power Distribution System",
-            "page": 0
-        }
-    },
-    {
-        "ETEE411": {
-            "paperTitle": "Telemetry & Data Acquisition System ",
-            "page": 0
-        }
-    },
-    {
-        "ETEE412": {
-            "paperTitle": " Reliability Engineering & Application to Power Systems ",
-            "page": 0
-        }
-    },
-    {
-        "ETEE413": {
-            "paperTitle": "PLC",
-            "page": 0
-        }
-    },
-    {
-        "ETEE414": {
-            "paperTitle": "Electrical Machines-III",
-            "page": 0
-        }
-    },
-    {
-        "ETEE415": {
-            "paperTitle": "Power Electronics",
-            "page": 0
-        }
-    },
-    {
-        "ETEE416": {
-            "paperTitle": "Electrical Energy Conservation",
-            "page": 0
-        }
-    },
-    {
-        "ETEE417": {
-            "paperTitle": "High Voltage Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETEE418": {
-            "paperTitle": "Electrical System Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEE419": {
-            "paperTitle": "Renewable Energy Resources",
-            "page": 0
-        }
-    },
-    {
-        "ETEE421": {
-            "paperTitle": "Selected Topics in EEE",
-            "page": 0
-        }
-    },
-    {
-        "ETEE426": {
-            "paperTitle": "Power Plant Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETEE428": {
-            "paperTitle": "Intelligent and Smart Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETEE429": {
-            "paperTitle": "Control Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEE431": {
-            "paperTitle": "Power Line Carrier Communication",
-            "page": 0
-        }
-    },
-    {
-        "ETEE432": {
-            "paperTitle": "Electrical Power Quality",
-            "page": 0
-        }
-    },
-    {
-        "ETEL203": {
-            "paperTitle": "ANALOG ELECTRONICS",
-            "page": 0
-        }
-    },
-    {
-        "ETEL204": {
-            "paperTitle": "Thermodynamics",
-            "page": 0
-        }
-    },
-    {
-        "ETEL208": {
-            "paperTitle": "Electrical Measuring Instruments & Transducers",
-            "page": 0
-        }
-    },
-    {
-        "ETEL305": {
-            "paperTitle": "Signals and Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEL306": {
-            "paperTitle": "EHV AC & HVDC Transmissions ",
-            "page": 0
-        }
-    },
-    {
-        "ETEL307": {
-            "paperTitle": "Control Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEL308": {
-            "paperTitle": "Electrical Machines-III",
-            "page": 0
-        }
-    },
-    {
-        "ETEL402": {
-            "paperTitle": "Power System Analysis",
-            "page": 0
-        }
-    },
-    {
-        "ETEL404": {
-            "paperTitle": "Digital Signal Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETEL405": {
-            "paperTitle": "Electrical Machines Design",
-            "page": 0
-        }
-    },
-    {
-        "ETEL421": {
-            "paperTitle": "Selected Topics in EE",
-            "page": 0
-        }
-    },
-    {
-        "ETEN114": {
-            "paperTitle": "ENVIRONMENTAL STUDIES",
-            "page": 27
-        }
-    },
-    {
-        "ETPH152": {
-            "paperTitle": "APPLIED PHYSICS LAB – II",
-            "page": 29
-        }
-    },
-    {
-        "ETEC156": {
-            "paperTitle": "Electronic Devices",
-            "page": 30
-        }
-    },
-    {
-        "ETME158": {
-            "paperTitle": "ENGINEERING MECHANICS LAB",
-            "page": 31
-        }
-    },
-    {
-        "ETEN160": {
-            "paperTitle": "ENVIRONMENTAL STUDIES LAB",
-            "page": 33
-        }
-    },
-    {
-        "ETCS154": {
-            "paperTitle": "PROGRAMMING LAB",
-            "page": 32
-        }
-    },
-    {
-        "ETEN202": {
-            "paperTitle": "Physico-Chemical Treatment Processes",
-            "page": 0
-        }
-    },
-    {
-        "ETEN204": {
-            "paperTitle": "Structural Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETEN206": {
-            "paperTitle": "Environmental Hydraulics",
-            "page": 0
-        }
-    },
-    {
-        "ETEN208": {
-            "paperTitle": "Introduction to Environmental Legislation",
-            "page": 0
-        }
-    },
-    {
-        "ETEN209": {
-            "paperTitle": "Surveying",
-            "page": 0
-        }
-    },
-    {
-        "ETEN210": {
-            "paperTitle": "Geotechnical Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETEN211": {
-            "paperTitle": "Environmental Chemistry and Microbiology",
-            "page": 0
-        }
-    },
-    {
-        "ETEN212": {
-            "paperTitle": "Air and Noise Pollution",
-            "page": 0
-        }
-    },
-    {
-        "ETEN302": {
-            "paperTitle": "Environment System Optimization",
-            "page": 0
-        }
-    },
-    {
-        "ETEN303": {
-            "paperTitle": "Biochemical Processes in Wastewater Treatment",
-            "page": 0
-        }
-    },
-    {
-        "ETEN304": {
-            "paperTitle": "Principles of Solid Waste Management",
-            "page": 0
-        }
-    },
-    {
-        "ETEN305": {
-            "paperTitle": "Design of Structures",
-            "page": 0
-        }
-    },
-    {
-        "ETEN306": {
-            "paperTitle": "Industrial Waste Management",
-            "page": 0
-        }
-    },
-    {
-        "ETEN307": {
-            "paperTitle": "Hydrology and Drainage Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETEN308": {
-            "paperTitle": "Economics for Engineers",
-            "page": 0
-        }
-    },
-    {
-        "ETEN309": {
-            "paperTitle": "Environmental Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETEN310": {
-            "paperTitle": "Advance Design of Structures",
-            "page": 0
-        }
-    },
-    {
-        "ETEN311": {
-            "paperTitle": "Water Supply and Sewage System",
-            "page": 0
-        }
-    },
-    {
-        "ETEN312": {
-            "paperTitle": "Transportation Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETEN401": {
-            "paperTitle": "Biomedical, Hazardous and E-Waste Management",
-            "page": 0
-        }
-    },
-    {
-        "ETEN403": {
-            "paperTitle": "EIA and EMS",
-            "page": 0
-        }
-    },
-    {
-        "ETEN404": {
-            "paperTitle": "Planning and Management of Environment Projects",
-            "page": 0
-        }
-    },
-    {
-        "ETEN405": {
-            "paperTitle": "Application of Remote Sensing and GIS",
-            "page": 0
-        }
-    },
-    {
-        "ETEN406": {
-            "paperTitle": "Environmental Modeling",
-            "page": 0
-        }
-    },
-    {
-        "ETEN413": {
-            "paperTitle": "Sustainable Energy Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETEN415": {
-            "paperTitle": "Advance Separation Process",
-            "page": 0
-        }
-    },
-    {
-        "ETEN416": {
-            "paperTitle": "Climate Change Assessment and Mitigation Measures",
-            "page": 0
-        }
-    },
-    {
-        "ETEN418": {
-            "paperTitle": "Ground Water Contamination and Mitigation Measures",
-            "page": 0
-        }
-    },
-    {
-        "ETEN419": {
-            "paperTitle": "Planning and design of Green buildings",
-            "page": 0
-        }
-    },
-    {
-        "ETEN420": {
-            "paperTitle": "Bio and Chemical Technology Applications in Waste Management",
-            "page": 0
-        }
-    },
-    {
-        "ETEN421": {
-            "paperTitle": "Planning and Design of Green Buildings",
-            "page": 0
-        }
-    },
-    {
-        "ETHS109": {
-            "paperTitle": "HUMAN VALUES & PROFESSIONAL ETHICS",
-            "page": 8
-        }
-    },
-    {
-        "ETHS112": {
-            "paperTitle": "COMMUNICATION SKILLS",
-            "page": 26
-        }
-    },
-    {
-        "ETHS301": {
-            "paperTitle": "Communication Skills For Professionals",
-            "page": 0
-        }
-    },
-    {
-        "ETHS402": {
-            "paperTitle": "Human Values and Professional Ethics-II",
-            "page": 0
-        }
-    },
-    {
-        "ETHS419": {
-            "paperTitle": "Sociology and Elements of Indian History for Engg",
-            "page": 0
-        }
-    },
-    {
-        "ETIC203": {
-            "paperTitle": "SENSORS AND TRANSDUCERS",
-            "page": 0
-        }
-    },
-    {
-        "ETIC204": {
-            "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
-            "page": 0
-        }
-    },
-    {
-        "ETIC206": {
-            "paperTitle": "POWER ELECTRONICS",
-            "page": 0
-        }
-    },
-    {
-        "ETIC208": {
-            "paperTitle": "THEORY AND APPLICATION OF INTEGRATED CIRCUITS",
-            "page": 0
-        }
-    },
-    {
-        "ETIC210": {
-            "paperTitle": "ELECTRICAL MACHINES",
-            "page": 0
-        }
-    },
-    {
-        "ETIC211": {
-            "paperTitle": "BASICS OF MEASUREMENTS",
-            "page": 0
-        }
-    },
-    {
-        "ETIC212": {
-            "paperTitle": "COMMUNICATION SYSTEMS",
-            "page": 0
-        }
-    },
-    {
-        "ETIC302": {
-            "paperTitle": "Pneumatic and Hydraulic Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETIC303": {
-            "paperTitle": "Industrial Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETIC304": {
-            "paperTitle": "Process Control",
-            "page": 0
-        }
-    },
-    {
-        "ETIC308": {
-            "paperTitle": "Analytical Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETIC309": {
-            "paperTitle": "Object Oriented Programming",
-            "page": 0
-        }
-    },
-    {
-        "ETIC310": {
-            "paperTitle": "Modern Control Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETIC401": {
-            "paperTitle": "Digital Control Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETIC403": {
-            "paperTitle": "Biomedical Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETIC404": {
-            "paperTitle": "Intelligent Systems and Control",
-            "page": 0
-        }
-    },
-    {
-        "ETIC405": {
-            "paperTitle": "Artificial Neural Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETIC406": {
-            "paperTitle": "Virtual Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETIC407": {
-            "paperTitle": "Industrial Automation and Control",
-            "page": 0
-        }
-    },
-    {
-        "ETIC408": {
-            "paperTitle": "System",
-            "page": 0
-        }
-    },
-    {
-        "ETIC410": {
-            "paperTitle": "Embedded Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETIC413": {
-            "paperTitle": "Instrumentation Diagnostics",
-            "page": 0
-        }
-    },
-    {
-        "ETIC414": {
-            "paperTitle": "VLSI Design",
-            "page": 0
-        }
-    },
-    {
-        "ETIC417": {
-            "paperTitle": "Selected Topics in ICE",
-            "page": 0
-        }
-    },
-    {
-        "ETIC418": {
-            "paperTitle": "Mobile communication",
-            "page": 0
-        }
-    },
-    {
-        "ETIC419": {
-            "paperTitle": "Engineering Materials",
-            "page": 0
-        }
-    },
-    {
-        "ETIC421": {
-            "paperTitle": "Computer Architecture",
-            "page": 0
-        }
-    },
-    {
-        "ETIC423": {
-            "paperTitle": "Software Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETIC427": {
-            "paperTitle": "Operating Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETIC428": {
-            "paperTitle": "Computer Graphics",
-            "page": 0
-        }
-    },
-    {
-        "ETIC430": {
-            "paperTitle": "Electromagnetic Field Theory",
-            "page": 0
-        }
-    },
-    {
-        "ETIT302": {
-            "paperTitle": "Decision Science",
-            "page": 0
-        }
-    },
-    {
-        "ETIT309": {
-            "paperTitle": "Communication Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETIT401": {
-            "paperTitle": "Advanced Computer Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETIT402": {
-            "paperTitle": "Mobile Computing",
-            "page": 0
-        }
-    },
-    {
-        "ETIT403": {
-            "paperTitle": "Cryptography",
-            "page": 0
-        }
-    },
-    {
-        "ETIT406": {
-            "paperTitle": "Big Data Analytics",
-            "page": 0
-        }
-    },
-    {
-        "ETIT407": {
-            "paperTitle": "Cloud Computing",
-            "page": 0
-        }
-    },
-    {
-        "ETIT408": {
-            "paperTitle": "Social Network Analysis",
-            "page": 0
-        }
-    },
-    {
-        "ETIT409": {
-            "paperTitle": "Distributed Databases",
-            "page": 0
-        }
-    },
-    {
-        "ETIT410": {
-            "paperTitle": "Soft Computing",
-            "page": 0
-        }
-    },
-    {
-        "ETIT411": {
-            "paperTitle": "Semantic Web Technologies",
-            "page": 0
-        }
-    },
-    {
-        "ETIT412": {
-            "paperTitle": "Bio Informatics",
-            "page": 0
-        }
-    },
-    {
-        "ETIT413": {
-            "paperTitle": "Software Testing",
-            "page": 0
-        }
-    },
-    {
-        "ETIT414": {
-            "paperTitle": "Web Application Development Using .NET",
-            "page": 0
-        }
-    },
-    {
-        "ETIT415": {
-            "paperTitle": "Digital Signal Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETIT416": {
-            "paperTitle": "Information Theory and Coding",
-            "page": 0
-        }
-    },
-    {
-        "ETIT418": {
-            "paperTitle": "Digital Image Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETIT419": {
-            "paperTitle": ".NET and C# Programming",
-            "page": 0
-        }
-    },
-    {
-        "ETIT420": {
-            "paperTitle": "Next Generation Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETIT421": {
-            "paperTitle": "Enterprise Computing in JAVA",
-            "page": 0
-        }
-    },
-    {
-        "ETIT422": {
-            "paperTitle": "GPS and GIS",
-            "page": 0
-        }
-    },
-    {
-        "ETIT423": {
-            "paperTitle": "System and Network Administrati on",
-            "page": 0
-        }
-    },
-    {
-        "ETIT425": {
-            "paperTitle": "Grid Computing",
-            "page": 0
-        }
-    },
-    {
-        "ETIT427": {
-            "paperTitle": "Advanced Database Administration",
-            "page": 0
-        }
-    },
-    {
-        "ETIT428": {
-            "paperTitle": "E-Commerce and M-Commerce ",
-            "page": 0
-        }
-    },
-    {
-        "ETIT429": {
-            "paperTitle": "Probabilistic Graphical Models",
-            "page": 0
-        }
-    },
-    {
-        "ETIT430": {
-            "paperTitle": "Distributed Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETIT432": {
-            "paperTitle": "Selected Topics of Recent Trends in IT",
-            "page": 0
-        }
-    },
-    {
-        "ETMA101": {
-            "paperTitle": "APPLIED MATHEMATICS-I",
-            "page": 4
-        }
-    },
-    {
-        "ETMA102": {
-            "paperTitle": "APPLIED MATHEMATICS-II",
-            "page": 21
-        }
-    },
-    {
-        "ETMA201": {
-            "paperTitle": "Applied Mathematics-III",
-            "page": 0
-        }
-    },
-    {
-        "ETMA202": {
-            "paperTitle": "Applied Mathematics-IV",
-            "page": 0
-        }
-    },
-    {
-        "ETMA203": {
-            "paperTitle": "Numerical Analysis and Statistical Techniques",
-            "page": 0
-        }
-    },
-    {
-        "ETME105": {
-            "paperTitle": "MANUFACTURING PROCESSES",
-            "page": 6
-        }
-    },
-    {
-        "ETME110": {
-            "paperTitle": "ENGINEERING MECHANICS",
-            "page": 25
-        }
-    },
-    {
-        "ETME201": {
-            "paperTitle": "FLUID MECHANICS",
-            "page": 0
-        }
-    },
-    {
-        "ETME202": {
-            "paperTitle": "KINEMATICS OF MACHINES",
-            "page": 0
-        }
-    },
-    {
-        "ETME203": {
-            "paperTitle": "THERMAL SCIENCE",
-            "page": 0
-        }
-    },
-    {
-        "ETME204": {
-            "paperTitle": "STRENGTH OF MATERIALS-II",
-            "page": 0
-        }
-    },
-    {
-        "ETME205": {
-            "paperTitle": "Production Technology",
-            "page": 0
-        }
-    },
-    {
-        "ETME206": {
-            "paperTitle": "Manufacturing Machines",
-            "page": 0
-        }
-    },
-    {
-        "ETME207": {
-            "paperTitle": "MATERIAL SCIENCE & METALLURGY",
-            "page": 0
-        }
-    },
-    {
-        "ETME208": {
-            "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
-            "page": 0
-        }
-    },
-    {
-        "ETME209": {
-            "paperTitle": "Electrical Machines",
-            "page": 0
-        }
-    },
-    {
-        "ETME210": {
-            "paperTitle": "IC ENGINES & GAS TURBINES",
-            "page": 0
-        }
-    },
-    {
-        "ETME211": {
-            "paperTitle": "STRENGTH OF MATERIALS-I",
-            "page": 0
-        }
-    },
-    {
-        "ETME212": {
-            "paperTitle": "FLUID MECHANICS",
-            "page": 0
-        }
-    },
-    {
-        "ETME301": {
-            "paperTitle": "Paper: Management of Manufacturing Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETME302": {
-            "paperTitle": "Machine Design-II",
-            "page": 0
-        }
-    },
-    {
-        "ETME303": {
-            "paperTitle": "Heat Transfer",
-            "page": 0
-        }
-    },
-    {
-        "ETME304": {
-            "paperTitle": "Metal Cutting",
-            "page": 0
-        }
-    },
-    {
-        "ETME305": {
-            "paperTitle": "Dynamics of Machines",
-            "page": 0
-        }
-    },
-    {
-        "ETME306": {
-            "paperTitle": "Fluid Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETME307": {
-            "paperTitle": "Machine Design",
-            "page": 0
-        }
-    },
-    {
-        "ETME308": {
-            "paperTitle": "Refrigeration & Air Conditioning",
-            "page": 0
-        }
-    },
-    {
-        "ETME312": {
-            "paperTitle": "Metrology",
-            "page": 0
-        }
-    },
-    {
-        "ETME401": {
-            "paperTitle": "Automobile Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETME402": {
-            "paperTitle": "Engineering System Modeling and Simulation",
-            "page": 0
-        }
-    },
-    {
-        "ETME403": {
-            "paperTitle": "Computer Integrated Manufacturing",
-            "page": 0
-        }
-    },
-    {
-        "ETME404": {
-            "paperTitle": "Statistical Quality Control and Reliability",
-            "page": 0
-        }
-    },
-    {
-        "ETME405": {
-            "paperTitle": "Power Plant Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETME407": {
-            "paperTitle": "Optimization Techniques",
-            "page": 0
-        }
-    },
-    {
-        "ETME408": {
-            "paperTitle": "Nuclear Power Generation and Supply",
-            "page": 0
-        }
-    },
-    {
-        "ETME409": {
-            "paperTitle": "Preventive Maintenance & Condition Monitoring",
-            "page": 0
-        }
-    },
-    {
-        "ETME411": {
-            "paperTitle": "Computational Fluid Dynamics",
-            "page": 0
-        }
-    },
-    {
-        "ETME412": {
-            "paperTitle": "Rapid Prototyping",
-            "page": 0
-        }
-    },
-    {
-        "ETME413": {
-            "paperTitle": "NonNon-Conventional Manufacturing Processes",
-            "page": 0
-        }
-    },
-    {
-        "ETME414": {
-            "paperTitle": "Applied Plasticity",
-            "page": 0
-        }
-    },
-    {
-        "ETME415": {
-            "paperTitle": "Geometric Modelling and Product Design",
-            "page": 0
-        }
-    },
-    {
-        "ETME416": {
-            "paperTitle": "Mechanical Vibrations",
-            "page": 0
-        }
-    },
-    {
-        "ETME417": {
-            "paperTitle": "Advanced Material Science and Metallurgy",
-            "page": 0
-        }
-    },
-    {
-        "ETME421": {
-            "paperTitle": "Management Information Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETME422": {
-            "paperTitle": "Gas Dynamics",
-            "page": 0
-        }
-    },
-    {
-        "ETME423": {
-            "paperTitle": "Finite Element Methods",
-            "page": 0
-        }
-    },
-    {
-        "ETME424": {
-            "paperTitle": "Cryogenic Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETME426": {
-            "paperTitle": "Total Quality Management",
-            "page": 0
-        }
-    },
-    {
-        "ETME427": {
-            "paperTitle": "Rotor Dynamics",
-            "page": 0
-        }
-    },
-    {
-        "ETME430": {
-            "paperTitle": "Computer Aided Graphics",
-            "page": 0
-        }
-    },
-    {
-        "ETME432": {
-            "paperTitle": "Turbo Machinery",
-            "page": 0
-        }
-    },
-    {
-        "ETMS310": {
-            "paperTitle": "Organizational Behaviour",
-            "page": 0
-        }
-    },
-    {
-        "ETMS311": {
-            "paperTitle": "Industrial Management",
-            "page": 0
-        }
-    },
-    {
-        "ETMS421": {
-            "paperTitle": "Project Management",
-            "page": 0
-        }
-    },
-    {
-        "ETMS423": {
-            "paperTitle": "Economics for Engineers",
-            "page": 0
-        }
-    },
-    {
-        "ETMT202": {
-            "paperTitle": "ORGANIZATIONAL BEHAVIOUR",
-            "page": 0
-        }
-    },
-    {
-        "ETMT204": {
-            "paperTitle": "KINEMATICS AND DYNAMICS OF MACHINERY",
-            "page": 0
-        }
-    },
-    {
-        "ETMT205": {
-            "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
-            "page": 0
-        }
-    },
-    {
-        "ETMT206": {
-            "paperTitle": "SIGNALS AND SYSTEMS",
-            "page": 0
-        }
-    },
-    {
-        "ETMT212": {
-            "paperTitle": "Hydraulics and Pneumatics",
-            "page": 0
-        }
-    },
-    {
-        "ETMT302": {
-            "paperTitle": "Management",
-            "page": 0
-        }
-    },
-    {
-        "ETMT303": {
-            "paperTitle": "Machine Element Design",
-            "page": 0
-        }
-    },
-    {
-        "ETMT304": {
-            "paperTitle": "Manufacturing Technology",
-            "page": 0
-        }
-    },
-    {
-        "ETMT305": {
-            "paperTitle": "Metrology and Quality Control",
-            "page": 0
-        }
-    },
-    {
-        "ETMT306": {
-            "paperTitle": "Programmable Logic Controller",
-            "page": 0
-        }
-    },
-    {
-        "ETMT307": {
-            "paperTitle": "Digital Signal Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETMT308": {
-            "paperTitle": "COMPUTER INTEGRATED MANUFACTURING",
-            "page": 0
-        }
-    },
-    {
-        "ETMT309": {
-            "paperTitle": "Sensors and Transducers",
-            "page": 0
-        }
-    },
-    {
-        "ETMT310": {
-            "paperTitle": "Automotive Electronics",
-            "page": 0
-        }
-    },
-    {
-        "ETMT311": {
-            "paperTitle": "Power Electronics and Drives",
-            "page": 0
-        }
-    },
-    {
-        "ETMT312": {
-            "paperTitle": "Microprocessors and Microcontrollers",
-            "page": 0
-        }
-    },
-    {
-        "ETMT402": {
-            "paperTitle": "Robotics",
-            "page": 0
-        }
-    },
-    {
-        "ETMT403": {
-            "paperTitle": "Micro Electro Mechanical System and Nanotechnology",
-            "page": 0
-        }
-    },
-    {
-        "ETMT404": {
-            "paperTitle": "Embedded Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETMT405": {
-            "paperTitle": "Mechatronics System Design",
-            "page": 0
-        }
-    },
-    {
-        "ETMT407": {
-            "paperTitle": "I.C ENGINES",
-            "page": 0
-        }
-    },
-    {
-        "ETMT409": {
-            "paperTitle": "Digital Image Processing",
-            "page": 0
-        }
-    },
-    {
-        "ETMT410": {
-            "paperTitle": "FACILITY & LAYOUT PLANNING",
-            "page": 0
-        }
-    },
-    {
-        "ETMT411": {
-            "paperTitle": "Product Design and Costing",
-            "page": 0
-        }
-    },
-    {
-        "ETMT414": {
-            "paperTitle": "Factory Automation",
-            "page": 0
-        }
-    },
-    {
-        "ETMT415": {
-            "paperTitle": "Process Modelling & Optimization Techniques",
-            "page": 0
-        }
-    },
-    {
-        "ETMT416": {
-            "paperTitle": "Refrigeration and Air Conditioning",
-            "page": 0
-        }
-    },
-    {
-        "ETMT421": {
-            "paperTitle": "Waste and Heat Recovery Systems",
-            "page": 0
-        }
-    },
-    {
-        "ETMT424": {
-            "paperTitle": "Intelligent and Smart Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETMT425": {
-            "paperTitle": "Fuzzy Logic and Neural Networks",
-            "page": 0
-        }
-    },
-    {
-        "ETMT426": {
-            "paperTitle": "Reliability and Maintenance Management",
-            "page": 0
-        }
-    },
-    {
-        "ETMT427": {
-            "paperTitle": "Operations Research",
-            "page": 0
-        }
-    },
-    {
-        "ETMT428": {
-            "paperTitle": "Flexible Manufacturing System",
-            "page": 0
-        }
-    },
-    {
-        "ETMT429": {
-            "paperTitle": "Decision Science",
-            "page": 0
-        }
-    },
-    {
-        "ETMT430": {
-            "paperTitle": "Engineering Economics",
-            "page": 0
-        }
-    },
-    {
-        "ETPE201": {
-            "paperTitle": "ELECTRICAL MACHINES",
-            "page": 0
-        }
-    },
-    {
-        "ETPE202": {
-            "paperTitle": "Power Generation Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETPE204": {
-            "paperTitle": "ENERGY CONVERSION",
-            "page": 0
-        }
-    },
-    {
-        "ETPE205": {
-            "paperTitle": "Thermodynamics for Power Engineers",
-            "page": 0
-        }
-    },
-    {
-        "ETPE206": {
-            "paperTitle": "HEAT & MASS TRANSFER",
-            "page": 0
-        }
-    },
-    {
-        "ETPE207": {
-            "paperTitle": "STRENGTH OF MATERIALS & THEORY OF MACHINES",
-            "page": 0
-        }
-    },
-    {
-        "ETPE302": {
-            "paperTitle": "Load Dispatch and Electricity Regulations",
-            "page": 0
-        }
-    },
-    {
-        "ETPE303": {
-            "paperTitle": "Steam Generator and its Auxiliaries",
-            "page": 0
-        }
-    },
-    {
-        "ETPE304": {
-            "paperTitle": "Power Plant Commissioning",
-            "page": 0
-        }
-    },
-    {
-        "ETPE305": {
-            "paperTitle": "Steam Turbine and its Auxiliaries",
-            "page": 0
-        }
-    },
-    {
-        "ETPE306": {
-            "paperTitle": "Power Plant Control and Instrumentation",
-            "page": 0
-        }
-    },
-    {
-        "ETPE307": {
-            "paperTitle": "Electrical Generator and Auxiliaries ",
-            "page": 0
-        }
-    },
-    {
-        "ETPE308": {
-            "paperTitle": "Power System Transmission and Distribution",
-            "page": 0
-        }
-    },
-    {
-        "ETPE309": {
-            "paperTitle": "Refrigeration and Air Conditioning",
-            "page": 0
-        }
-    },
-    {
-        "ETPE310": {
-            "paperTitle": "I.C. Engines & Gas Dynamics ",
-            "page": 0
-        }
-    },
-    {
-        "ETPE312": {
-            "paperTitle": "Power Electronics and Electric Drives",
-            "page": 0
-        }
-    },
-    {
-        "ETPE313": {
-            "paperTitle": "Electrical & Electronic Measurements and Instrumentation ",
-            "page": 0
-        }
-    },
-    {
-        "ETPE316": {
-            "paperTitle": "Electromagnetic Field Theory",
-            "page": 0
-        }
-    },
-    {
-        "ETPE401": {
-            "paperTitle": "Power Plant Operation",
-            "page": 0
-        }
-    },
-    {
-        "ETPE403": {
-            "paperTitle": "Power System Protection and Switchgear",
-            "page": 0
-        }
-    },
-    {
-        "ETPE404": {
-            "paperTitle": "Environment Management",
-            "page": 0
-        }
-    },
-    {
-        "ETPE405": {
-            "paperTitle": "Power Plant Performance",
-            "page": 0
-        }
-    },
-    {
-        "ETPE406": {
-            "paperTitle": "Microprocessors and Microcontrollers",
-            "page": 0
-        }
-    },
-    {
-        "ETPE407": {
-            "paperTitle": "Power Plant Maintenance",
-            "page": 0
-        }
-    },
-    {
-        "ETPE409": {
-            "paperTitle": "Theory of Machines ",
-            "page": 0
-        }
-    },
-    {
-        "ETPE410": {
-            "paperTitle": "Design of Electrical Machines",
-            "page": 0
-        }
-    },
-    {
-        "ETPE412": {
-            "paperTitle": "Project Management",
-            "page": 0
-        }
-    },
-    {
-        "ETPE413": {
-            "paperTitle": "Balance of Power Plant",
-            "page": 0
-        }
-    },
-    {
-        "ETPE414": {
-            "paperTitle": "Smart Grid",
-            "page": 0
-        }
-    },
-    {
-        "ETPE415": {
-            "paperTitle": "Preventive Maintenance",
-            "page": 0
-        }
-    },
-    {
-        "ETPE421": {
-            "paperTitle": "Manufacturing and Industrial Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETPE423": {
-            "paperTitle": "Communication Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETPE425": {
-            "paperTitle": "Information Theory and its Applications",
-            "page": 0
-        }
-    },
-    {
-        "ETPE426": {
-            "paperTitle": "Energy Management",
-            "page": 0
-        }
-    },
-    {
-        "ETPE428": {
-            "paperTitle": "High Voltage AC and DC Technology",
-            "page": 0
-        }
-    },
-    {
-        "ETPE430": {
-            "paperTitle": "Residual Life Assessment of Extension",
-            "page": 0
-        }
-    },
-    {
-        "ETPH103": {
-            "paperTitle": "APPLIED PHYSICS – I",
-            "page": 5
-        }
-    },
-    {
-        "ETPH104": {
-            "paperTitle": "APPLIED PHYSICS-II",
-            "page": 22
-        }
-    },
-    {
-        "ETTE204": {
-            "paperTitle": "METAL FORMIMG",
-            "page": 0
-        }
-    },
-    {
-        "ETTE206": {
-            "paperTitle": "MACHINE TOOLS",
-            "page": 0
-        }
-    },
-    {
-        "ETTE208": {
-            "paperTitle": "MACHINE ELEMENT DESIGN",
-            "page": 0
-        }
-    },
-    {
-        "ETTE210": {
-            "paperTitle": "THERMAL SCIENCE",
-            "page": 0
-        }
-    },
-    {
-        "ETTE211": {
-            "paperTitle": "MECHANICS OF SOLIDS",
-            "page": 0
-        }
-    },
-    {
-        "ETTE212": {
-            "paperTitle": "METROLOGY AND QUALITY ASSURANCE",
-            "page": 0
-        }
-    },
-    {
-        "ETTE301": {
-            "paperTitle": "Production Planning and Control",
-            "page": 0
-        }
-    },
-    {
-        "ETTE302": {
-            "paperTitle": "Press Tool Design-1",
-            "page": 0
-        }
-    },
-    {
-        "ETTE303": {
-            "paperTitle": "CNC Machining and Programming",
-            "page": 0
-        }
-    },
-    {
-        "ETTE305": {
-            "paperTitle": "Jigs,Fixture & Gauge Design",
-            "page": 0
-        }
-    },
-    {
-        "ETTE306": {
-            "paperTitle": "Mould Design-1",
-            "page": 0
-        }
-    },
-    {
-        "ETTE308": {
-            "paperTitle": "Layered Manufacturing",
-            "page": 0
-        }
-    },
-    {
-        "ETTE309": {
-            "paperTitle": "Plastic Technology",
-            "page": 0
-        }
-    },
-    {
-        "ETTE310": {
-            "paperTitle": "Finite Element Methods",
-            "page": 0
-        }
-    },
-    {
-        "ETTE312": {
-            "paperTitle": "Total Quality Management",
-            "page": 0
-        }
-    },
-    {
-        "ETTE401": {
-            "paperTitle": "Press Tool Design-II",
-            "page": 0
-        }
-    },
-    {
-        "ETTE402": {
-            "paperTitle": "Advanced Die Casting and Die Design",
-            "page": 0
-        }
-    },
-    {
-        "ETTE403": {
-            "paperTitle": "Mould Design-2",
-            "page": 0
-        }
-    },
-    {
-        "ETTE404": {
-            "paperTitle": "Modern Manufacturing Methods",
-            "page": 0
-        }
-    },
-    {
-        "ETTE405": {
-            "paperTitle": "Computer Aided Graphics & Product Design",
-            "page": 0
-        }
-    },
-    {
-        "ETTE407": {
-            "paperTitle": "Vibrations Engineering Design",
-            "page": 0
-        }
-    },
-    {
-        "ETTE409": {
-            "paperTitle": "Creativity in Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETTE410": {
-            "paperTitle": "Theory of Design Optimization",
-            "page": 0
-        }
-    },
-    {
-        "ETTE414": {
-            "paperTitle": "Applied Plasticity",
-            "page": 0
-        }
-    },
-    {
-        "ETTE415": {
-            "paperTitle": "Advanced Welding Technology",
-            "page": 0
-        }
-    },
-    {
-        "ETTE417": {
-            "paperTitle": "Low Cost Automation",
-            "page": 0
-        }
-    },
-    {
-        "ETTE418": {
-            "paperTitle": "Project Management",
-            "page": 0
-        }
-    },
-    {
-        "ETTE422": {
-            "paperTitle": "Industrial Management",
-            "page": 0
-        }
-    },
-    {
-        "ETTE423": {
-            "paperTitle": "Value Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETTE424": {
-            "paperTitle": "Supply Chain Management",
-            "page": 0
-        }
-    },
-    {
-        "ETTE425": {
-            "paperTitle": "Material Management",
-            "page": 0
-        }
-    },
-    {
-        "ETTE427": {
-            "paperTitle": "Concurrent Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETTE428": {
-            "paperTitle": "Safety Engineering",
-            "page": 0
-        }
-    },
-    {
-        "ETTE429": {
-            "paperTitle": "Ergonomics",
-            "page": 0
-        }
+  {
+    "ETAT202": {
+      "paperTitle": "Theory of Machines",
+      "page": 0
     }
+  },
+  {
+    "ETAT203": {
+      "paperTitle": "Strenth Of Materials",
+      "page": 0
+    }
+  },
+  {
+    "ETAT204": {
+      "paperTitle": "Fluid Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETAT302": {
+      "paperTitle": "Machine Design",
+      "page": 0
+    }
+  },
+  {
+    "ETAT303": {
+      "paperTitle": "Metal Cutting & Tool Design ",
+      "page": 0
+    }
+  },
+  {
+    "ETAT304": {
+      "paperTitle": "Automobile Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETAT305": {
+      "paperTitle": "Heat Transfer & I. C. Engines",
+      "page": 0
+    }
+  },
+  {
+    "ETAT306": {
+      "paperTitle": "Operations Research",
+      "page": 0
+    }
+  },
+  {
+    "ETAT307": {
+      "paperTitle": "Metrology",
+      "page": 0
+    }
+  },
+  {
+    "ETAT401": {
+      "paperTitle": "Computer Aided Design",
+      "page": 0
+    }
+  },
+  {
+    "ETAT403": {
+      "paperTitle": "Mechatronics",
+      "page": 0
+    }
+  },
+  {
+    "ETAT407": {
+      "paperTitle": "Advanced Manufacturing Methods",
+      "page": 0
+    }
+  },
+  {
+    "ETAT432": {
+      "paperTitle": "Gas Turbines and Compressors",
+      "page": 0
+    }
+  },
+  {
+    "ETAT442": {
+      "paperTitle": "Process Planning and Cost Estimation",
+      "page": 0
+    }
+  },
+  {
+    "ETCE202": {
+      "paperTitle": "WATER ENGINEERING",
+      "page": 0
+    }
+  },
+  {
+    "ETCE203": {
+      "paperTitle": "STRENGTH OF MATERIAL",
+      "page": 0
+    }
+  },
+  {
+    "ETCE204": {
+      "paperTitle": "STRUCTURAL ANALYSIS",
+      "page": 0
+    }
+  },
+  {
+    "ETCE205": {
+      "paperTitle": "FLUID MECHANICS",
+      "page": 0
+    }
+  },
+  {
+    "ETCE206": {
+      "paperTitle": "Hydraulics and Hydraulic Machines",
+      "page": 0
+    }
+  },
+  {
+    "ETCE207": {
+      "paperTitle": "BUILDING MATERIALS AND CONSTRUCTION",
+      "page": 0
+    }
+  },
+  {
+    "ETCE208": {
+      "paperTitle": "ADVANCED SURVEYING",
+      "page": 0
+    }
+  },
+  {
+    "ETCE209": {
+      "paperTitle": "SURVEYING",
+      "page": 0
+    }
+  },
+  {
+    "ETCE210": {
+      "paperTitle": "Soil Mechanics",
+      "page": 0
+    }
+  },
+  {
+    "ETCE211": {
+      "paperTitle": "ENGINEERING GEOLOGY",
+      "page": 0
+    }
+  },
+  {
+    "ETCE212": {
+      "paperTitle": "DESIGN OF CONCRETE STRUCTURE",
+      "page": 0
+    }
+  },
+  {
+    "ETCE302": {
+      "paperTitle": "Operation Research and Management",
+      "page": 0
+    }
+  },
+  {
+    "ETCE303": {
+      "paperTitle": "Advanced Structural Analysis",
+      "page": 0
+    }
+  },
+  {
+    "ETCE304": {
+      "paperTitle": "Applications of Remote Sensing",
+      "page": 0
+    }
+  },
+  {
+    "ETCE305": {
+      "paperTitle": "Design of Steel Structure",
+      "page": 0
+    }
+  },
+  {
+    "ETCE306": {
+      "paperTitle": "Quantity Surveying and Cost Estimation",
+      "page": 0
+    }
+  },
+  {
+    "ETCE307": {
+      "paperTitle": "Engineering Hydrology",
+      "page": 0
+    }
+  },
+  {
+    "ETCE308": {
+      "paperTitle": "Open Channel Flow",
+      "page": 0
+    }
+  },
+  {
+    "ETCE309": {
+      "paperTitle": "Geotechnical and Foundation Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCE310": {
+      "paperTitle": "Advanced Structural Design",
+      "page": 0
+    }
+  },
+  {
+    "ETCE311": {
+      "paperTitle": "Wastewater Engineering and Reuse",
+      "page": 0
+    }
+  },
+  {
+    "ETCE312": {
+      "paperTitle": "Transportation Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCE401": {
+      "paperTitle": "Economics for Engineers",
+      "page": 0
+    }
+  },
+  {
+    "ETCE403": {
+      "paperTitle": "Irrigation Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCE404": {
+      "paperTitle": "Planning and Management",
+      "page": 0
+    }
+  },
+  {
+    "ETCE405": {
+      "paperTitle": "Transportation Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCE406": {
+      "paperTitle": "Analysis and Design of Bridges",
+      "page": 0
+    }
+  },
+  {
+    "ETCE410": {
+      "paperTitle": "Transportation",
+      "page": 0
+    }
+  },
+  {
+    "ETCE411": {
+      "paperTitle": "Water Resource System planning",
+      "page": 0
+    }
+  },
+  {
+    "ETCE412": {
+      "paperTitle": "Ground Water Assessment",
+      "page": 0
+    }
+  },
+  {
+    "ETCE413": {
+      "paperTitle": "Earthquake Technology",
+      "page": 0
+    }
+  },
+  {
+    "ETCE414": {
+      "paperTitle": "Environmental Preventive Health Issues",
+      "page": 0
+    }
+  },
+  {
+    "ETCE415": {
+      "paperTitle": "GEO -SYNTHETICS AND REINFORCED SOIL",
+      "page": 0
+    }
+  },
+  {
+    "ETCE416": {
+      "paperTitle": "Advance Geotechnical Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCE417": {
+      "paperTitle": "Structure Repair and Rehabilitation",
+      "page": 0
+    }
+  },
+  {
+    "ETCE418": {
+      "paperTitle": "FEM in Structural Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCE419": {
+      "paperTitle": "Data Analytics",
+      "page": 0
+    }
+  },
+  {
+    "ETCE422": {
+      "paperTitle": "Environment Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCE424": {
+      "paperTitle": "Offshore Structural Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCH113": {
+      "paperTitle": "Applied Chemistry",
+      "page": 14
+    }
+  },
+  {
+    "ETPH151": {
+      "paperTitle": "APPLIED PHYSICS LAB – I",
+      "page": 15
+    }
+  },
+  {
+    "ETEE153": {
+      "paperTitle": "ELECTRICAL TECHNOLOGY LAB",
+      "page": 16
+    }
+  },
+  {
+    "ETME155": {
+      "paperTitle": "WORKSHOP PRACTICE",
+      "page": 17
+    }
+  },
+  {
+    "ETME157": {
+      "paperTitle": "ENGINEERING GRAPHICS",
+      "page": 18
+    }
+  },
+  {
+    "ETCS157": {
+      "paperTitle": "FUNDAMENTAL OF COMPUTING LAB",
+      "page": 19
+    }
+  },
+  {
+    "ETCH161": {
+      "paperTitle": "APPLIED CHEMISTRY LAB",
+      "page": 20
+    }
+  },
+  {
+    "ETCS108": {
+      "paperTitle": "INTRODUCTION TO PROGRAMMING",
+      "page": 24
+    }
+  },
+  {
+    "ETCS111": {
+      "paperTitle": "FUNDAMENTALS OF COMPUTING",
+      "page": 13
+    }
+  },
+  {
+    "ETCS203": {
+      "paperTitle": "Foundation of Computer Science",
+      "page": 0
+    }
+  },
+  {
+    "ETCS204": {
+      "paperTitle": "Computer Organization & Architecture",
+      "page": 0
+    }
+  },
+  {
+    "ETCS206": {
+      "paperTitle": "Theory of Computation",
+      "page": 0
+    }
+  },
+  {
+    "ETCS208": {
+      "paperTitle": "Database Management Systems ",
+      "page": 0
+    }
+  },
+  {
+    "ETCS209": {
+      "paperTitle": "Data Structures",
+      "page": 0
+    }
+  },
+  {
+    "ETCS210": {
+      "paperTitle": "Object Oriented Programming",
+      "page": 0
+    }
+  },
+  {
+    "ETCS211": {
+      "paperTitle": "Computer Graphics & Multimedia",
+      "page": 0
+    }
+  },
+  {
+    "ETCS301": {
+      "paperTitle": "Algorithms Design and Analysis",
+      "page": 0
+    }
+  },
+  {
+    "ETCS302": {
+      "paperTitle": "Compiler Design",
+      "page": 0
+    }
+  },
+  {
+    "ETCS303": {
+      "paperTitle": "Software Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCS304": {
+      "paperTitle": "Operating Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETCS306": {
+      "paperTitle": "Computer Networks",
+      "page": 0
+    }
+  },
+  {
+    "ETCS307": {
+      "paperTitle": "Java Programming",
+      "page": 0
+    }
+  },
+  {
+    "ETCS308": {
+      "paperTitle": "Web Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETCS310": {
+      "paperTitle": "Artificial Intelligence",
+      "page": 0
+    }
+  },
+  {
+    "ETCS401": {
+      "paperTitle": "Information Security",
+      "page": 54
+    }
+  },
+  {
+    "ETCS402": {
+      "paperTitle": "Machine Learning",
+      "page": 84
+    }
+  },
+  {
+    "ETCS403": {
+      "paperTitle": "Software Testing and Quality Assurance",
+      "page": 55
+    }
+  },
+  {
+    "ETCS404": {
+      "paperTitle": "Human Computer Interaction",
+      "page": 97
+    }
+  },
+  {
+    "ETCS407": {
+      "paperTitle": "Complexity Theory",
+      "page": 57
+    }
+  },
+  {
+    "ETCS408": {
+      "paperTitle": "Microelectronics",
+      "page": 88
+    }
+  },
+  {
+    "ETCS409": {
+      "paperTitle": "Intellectual Property Rights",
+      "page": 58
+    }
+  },
+  {
+    "ETCS410": {
+      "paperTitle": "Natural Language Processing",
+      "page": 62
+    }
+  },
+  {
+    "ETCS411": {
+      "paperTitle": "Introduction to Data Science",
+      "page": 0
+    }
+  },
+  {
+    "ETCS412": {
+      "paperTitle": "Object Oriented Software Engineering",
+      "page": 94
+    }
+  },
+  {
+    "ETCS413": {
+      "paperTitle": "Data Mining and Business Intelligence",
+      "page": 60
+    }
+  },
+  {
+    "ETCS414": {
+      "paperTitle": "Computer Vision",
+      "page": 95
+    }
+  },
+  {
+    "ETCS415": {
+      "paperTitle": "Advanced Computer Architecture",
+      "page": 61
+    }
+  },
+  {
+    "ETCS416": {
+      "paperTitle": "Software Project Management",
+      "page": 96
+    }
+  },
+  {
+    "ETCS418": {
+      "paperTitle": "Web Intelligence and Big Data",
+      "page": 99
+    }
+  },
+  {
+    "ETCS420": {
+      "paperTitle": "Service Oriented Architecture",
+      "page": 100
+    }
+  },
+  {
+    "ETCS421": {
+      "paperTitle": "Simulation and Modelling",
+      "page": 64
+    }
+  },
+  {
+    "ETCS422": {
+      "paperTitle": "Multiagent Systems",
+      "page": 101
+    }
+  },
+  {
+    "ETCS423": {
+      "paperTitle": "Advanced DBMS",
+      "page": 66
+    }
+  },
+  {
+    "ETCS424": {
+      "paperTitle": "Principles of Programming Languages",
+      "page": 102
+    }
+  },
+  {
+    "ETCS425": {
+      "paperTitle": "Database Management Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETCS426": {
+      "paperTitle": "Telecommunication Networks",
+      "page": 103
+    }
+  },
+  {
+    "ETCS427": {
+      "paperTitle": "Parallel Computing",
+      "page": 67
+    }
+  },
+  {
+    "ETCS428": {
+      "paperTitle": "Selected Topics of Recent Trends in CSE",
+      "page": 104
+    }
+  },
+  {
+    "ETCS429": {
+      "paperTitle": "Artificial Intelligence",
+      "page": 0
+    }
+  },
+  {
+    "ETCS430": {
+      "paperTitle": "Object Oriented Programming Using C++",
+      "page": 0
+    }
+  },
+  {
+    "ETEC106": {
+      "paperTitle": "ELECTRONIC DEVICES",
+      "page": 23
+    }
+  },
+  {
+    "ETEC202": {
+      "paperTitle": "Switching Theory and Logic Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEC203": {
+      "paperTitle": "Analog Electronics-I",
+      "page": 0
+    }
+  },
+  {
+    "ETEC204": {
+      "paperTitle": "Analog Electronics-II",
+      "page": 0
+    }
+  },
+  {
+    "ETEC205": {
+      "paperTitle": "Switching Theory and Logic Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEC206": {
+      "paperTitle": "NETWORK ANALYSIS AND SYNTHESIS",
+      "page": 0
+    }
+  },
+  {
+    "ETEC207": {
+      "paperTitle": "Electronic Instruments & Measurements",
+      "page": 0
+    }
+  },
+  {
+    "ETEC208": {
+      "paperTitle": "COMMUNICATION SYSTEMS",
+      "page": 0
+    }
+  },
+  {
+    "ETEC211": {
+      "paperTitle": "Signals & Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEC302": {
+      "paperTitle": "Microwave Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETEC303": {
+      "paperTitle": "Digital Communication",
+      "page": 0
+    }
+  },
+  {
+    "ETEC304": {
+      "paperTitle": "Information Theory and Coding",
+      "page": 0
+    }
+  },
+  {
+    "ETEC305": {
+      "paperTitle": "Microprocessors and Microcontrollers",
+      "page": 0
+    }
+  },
+  {
+    "ETEC306": {
+      "paperTitle": "Digital Signal Processing",
+      "page": 0
+    }
+  },
+  {
+    "ETEC308": {
+      "paperTitle": "VLSI Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEC309": {
+      "paperTitle": "Digital System Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEC310": {
+      "paperTitle": "Data Communication",
+      "page": 0
+    }
+  },
+  {
+    "ETEC314": {
+      "paperTitle": "Antenna and Wave Propagation",
+      "page": 0
+    }
+  },
+  {
+    "ETEC401": {
+      "paperTitle": "Embedded Systems",
+      "page": 59
+    }
+  },
+  {
+    "ETEC403": {
+      "paperTitle": "Optoelectronics and Optical Communication",
+      "page": 0
+    }
+  },
+  {
+    "ETEC404": {
+      "paperTitle": "Satellite Communication",
+      "page": 0
+    }
+  },
+  {
+    "ETEC405": {
+      "paperTitle": "Wireless Communication",
+      "page": 56
+    }
+  },
+  {
+    "ETEC406": {
+      "paperTitle": "Ad Hoc and Sensor Networks",
+      "page": 89
+    }
+  },
+  {
+    "ETEC407": {
+      "paperTitle": "Advanced DSP",
+      "page": 0
+    }
+  },
+  {
+    "ETEC408": {
+      "paperTitle": "Consumer Electronics",
+      "page": 0
+    }
+  },
+  {
+    "ETEC409": {
+      "paperTitle": "Introduction to MEMS",
+      "page": 0
+    }
+  },
+  {
+    "ETEC411": {
+      "paperTitle": "Advance VLSI Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEC412": {
+      "paperTitle": "ASIC Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEC416": {
+      "paperTitle": "Introduction to Nano Technology",
+      "page": 0
+    }
+  },
+  {
+    "ETEC417": {
+      "paperTitle": "RF Devices and Circuits",
+      "page": 0
+    }
+  },
+  {
+    "ETEC419": {
+      "paperTitle": "Radar and Navigation",
+      "page": 0
+    }
+  },
+  {
+    "ETEC420": {
+      "paperTitle": "Data Communication & Networks ",
+      "page": 0
+    }
+  },
+  {
+    "ETEC421": {
+      "paperTitle": "Data Communications and Networks",
+      "page": 0
+    }
+  },
+  {
+    "ETEC424": {
+      "paperTitle": "Adaptive Signal Processing",
+      "page": 0
+    }
+  },
+  {
+    "ETEC427": {
+      "paperTitle": "Digital System Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEC428": {
+      "paperTitle": "Next Generation Networks",
+      "page": 0
+    }
+  },
+  {
+    "ETEC429": {
+      "paperTitle": "Selected Topics in ECE",
+      "page": 0
+    }
+  },
+  {
+    "ETEC430": {
+      "paperTitle": "Digital Communication",
+      "page": 0
+    }
+  },
+  {
+    "ETEC432": {
+      "paperTitle": "Image Processing and Machine Vision",
+      "page": 0
+    }
+  },
+  {
+    "ETEC434": {
+      "paperTitle": "Microprocessor System Based Process Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEE107": {
+      "paperTitle": "ELECTRICAL TECHNOLOGY",
+      "page": 7
+    }
+  },
+  {
+    "ETEE202": {
+      "paperTitle": "Electrical Machines-II",
+      "page": 0
+    }
+  },
+  {
+    "ETEE205": {
+      "paperTitle": "Materials in Electrical Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEE206": {
+      "paperTitle": "Power System-I",
+      "page": 0
+    }
+  },
+  {
+    "ETEE207": {
+      "paperTitle": "Circuits & Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEE208": {
+      "paperTitle": "Electrical and Electronic Measuring Instruments",
+      "page": 0
+    }
+  },
+  {
+    "ETEE210": {
+      "paperTitle": "ELECTROMAGNETIC FIELD THEORY",
+      "page": 0
+    }
+  },
+  {
+    "ETEE211": {
+      "paperTitle": "Electrical Machines-I",
+      "page": 0
+    }
+  },
+  {
+    "ETEE212": {
+      "paperTitle": "Control Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEE302": {
+      "paperTitle": "Power System-II",
+      "page": 0
+    }
+  },
+  {
+    "ETEE303": {
+      "paperTitle": "Power Electronics",
+      "page": 0
+    }
+  },
+  {
+    "ETEE304": {
+      "paperTitle": "Utilization of Electrical Energy",
+      "page": 0
+    }
+  },
+  {
+    "ETEE305": {
+      "paperTitle": "Sensors and Transducers",
+      "page": 0
+    }
+  },
+  {
+    "ETEE307": {
+      "paperTitle": "Switching Theory and Logic Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEE309": {
+      "paperTitle": "Communication Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEE310": {
+      "paperTitle": "Microprocessors and Microcontrollers",
+      "page": 0
+    }
+  },
+  {
+    "ETEE312": {
+      "paperTitle": "Power Station Practice",
+      "page": 0
+    }
+  },
+  {
+    "ETEE401": {
+      "paperTitle": "Electrical Drives",
+      "page": 0
+    }
+  },
+  {
+    "ETEE403": {
+      "paperTitle": "Advanced Control Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEE404": {
+      "paperTitle": "Neuro & Fuzzy Systems ",
+      "page": 0
+    }
+  },
+  {
+    "ETEE405": {
+      "paperTitle": "EHV AC & HVDC Transmission",
+      "page": 0
+    }
+  },
+  {
+    "ETEE406": {
+      "paperTitle": "POWER SYSTEM OPERATION & CONTROL",
+      "page": 0
+    }
+  },
+  {
+    "ETEE408": {
+      "paperTitle": "Application of Power Electronics to Power Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEE409": {
+      "paperTitle": "Power Distribution System",
+      "page": 0
+    }
+  },
+  {
+    "ETEE411": {
+      "paperTitle": "Telemetry & Data Acquisition System ",
+      "page": 0
+    }
+  },
+  {
+    "ETEE412": {
+      "paperTitle": " Reliability Engineering & Application to Power Systems ",
+      "page": 0
+    }
+  },
+  {
+    "ETEE413": {
+      "paperTitle": "PLC",
+      "page": 0
+    }
+  },
+  {
+    "ETEE414": {
+      "paperTitle": "Electrical Machines-III",
+      "page": 0
+    }
+  },
+  {
+    "ETEE415": {
+      "paperTitle": "Power Electronics",
+      "page": 0
+    }
+  },
+  {
+    "ETEE416": {
+      "paperTitle": "Electrical Energy Conservation",
+      "page": 0
+    }
+  },
+  {
+    "ETEE417": {
+      "paperTitle": "High Voltage Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETEE418": {
+      "paperTitle": "Electrical System Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEE419": {
+      "paperTitle": "Renewable Energy Resources",
+      "page": 0
+    }
+  },
+  {
+    "ETEE421": {
+      "paperTitle": "Selected Topics in EEE",
+      "page": 0
+    }
+  },
+  {
+    "ETEE426": {
+      "paperTitle": "Power Plant Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETEE428": {
+      "paperTitle": "Intelligent and Smart Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETEE429": {
+      "paperTitle": "Control Systems",
+      "page": 69
+    }
+  },
+  {
+    "ETEE431": {
+      "paperTitle": "Power Line Carrier Communication",
+      "page": 0
+    }
+  },
+  {
+    "ETEE432": {
+      "paperTitle": "Electrical Power Quality",
+      "page": 0
+    }
+  },
+  {
+    "ETEL203": {
+      "paperTitle": "ANALOG ELECTRONICS",
+      "page": 0
+    }
+  },
+  {
+    "ETEL204": {
+      "paperTitle": "Thermodynamics",
+      "page": 0
+    }
+  },
+  {
+    "ETEL208": {
+      "paperTitle": "Electrical Measuring Instruments & Transducers",
+      "page": 0
+    }
+  },
+  {
+    "ETEL305": {
+      "paperTitle": "Signals and Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEL306": {
+      "paperTitle": "EHV AC & HVDC Transmissions ",
+      "page": 0
+    }
+  },
+  {
+    "ETEL307": {
+      "paperTitle": "Control Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEL308": {
+      "paperTitle": "Electrical Machines-III",
+      "page": 0
+    }
+  },
+  {
+    "ETEL402": {
+      "paperTitle": "Power System Analysis",
+      "page": 0
+    }
+  },
+  {
+    "ETEL404": {
+      "paperTitle": "Digital Signal Processing",
+      "page": 0
+    }
+  },
+  {
+    "ETEL405": {
+      "paperTitle": "Electrical Machines Design",
+      "page": 0
+    }
+  },
+  {
+    "ETEL421": {
+      "paperTitle": "Selected Topics in EE",
+      "page": 0
+    }
+  },
+  {
+    "ETEN114": {
+      "paperTitle": "ENVIRONMENTAL STUDIES",
+      "page": 27
+    }
+  },
+  {
+    "ETIT452": {
+      "paperTitle": "Mobile Computing Lab",
+      "page": 105
+    }
+  },
+  {
+    "ETCS454": {
+      "paperTitle": "Machine Learning Lab",
+      "page": 106
+    }
+  },
+  {
+    "ETCS456": {
+      "paperTitle": "Lab based on Elective – I",
+      "page": 107
+    }
+  },
+  {
+    "ETCS458": {
+      "paperTitle": "Lab based on Elective - II",
+      "page": 111
+    }
+  },
+  {
+    "ETCS460": {
+      "paperTitle": "Major Project",
+      "page": 9
+    }
+  },
+  {
+    "ETCS451": {
+      "paperTitle": "Information Security Lab",
+      "page": 72
+    }
+  },
+  {
+    "ETCS453": {
+      "paperTitle": "Software Testing and QA Lab",
+      "page": 71
+    }
+  },
+  {
+    "ETEC463": {
+      "paperTitle": "Wireless Communication Lab",
+      "page": 73
+    }
+  },
+  {
+    "ETCS457": {
+      "paperTitle": "Lab based on Elective I or II",
+      "page": 74
+    }
+  },
+  {
+    "ETCS459": {
+      "paperTitle": "Summer Training",
+      "page": 7
+    }
+  },
+  {
+    "ETCS461": {
+      "paperTitle": "Minor Project",
+      "page": 8
+    }
+  },
+  {
+    "ETPH152": {
+      "paperTitle": "APPLIED PHYSICS LAB – II",
+      "page": 29
+    }
+  },
+  {
+    "ETEC156": {
+      "paperTitle": "Electronic Devices",
+      "page": 30
+    }
+  },
+  {
+    "ETME158": {
+      "paperTitle": "ENGINEERING MECHANICS LAB",
+      "page": 31
+    }
+  },
+  {
+    "ETEN160": {
+      "paperTitle": "ENVIRONMENTAL STUDIES LAB",
+      "page": 33
+    }
+  },
+  {
+    "ETCS154": {
+      "paperTitle": "PROGRAMMING LAB",
+      "page": 32
+    }
+  },
+  {
+    "ETEN202": {
+      "paperTitle": "Physico-Chemical Treatment Processes",
+      "page": 0
+    }
+  },
+  {
+    "ETEN204": {
+      "paperTitle": "Structural Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETEN206": {
+      "paperTitle": "Environmental Hydraulics",
+      "page": 0
+    }
+  },
+  {
+    "ETEN208": {
+      "paperTitle": "Introduction to Environmental Legislation",
+      "page": 0
+    }
+  },
+  {
+    "ETEN209": {
+      "paperTitle": "Surveying",
+      "page": 0
+    }
+  },
+  {
+    "ETEN210": {
+      "paperTitle": "Geotechnical Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETEN211": {
+      "paperTitle": "Environmental Chemistry and Microbiology",
+      "page": 0
+    }
+  },
+  {
+    "ETEN212": {
+      "paperTitle": "Air and Noise Pollution",
+      "page": 0
+    }
+  },
+  {
+    "ETEN302": {
+      "paperTitle": "Environment System Optimization",
+      "page": 0
+    }
+  },
+  {
+    "ETEN303": {
+      "paperTitle": "Biochemical Processes in Wastewater Treatment",
+      "page": 0
+    }
+  },
+  {
+    "ETEN304": {
+      "paperTitle": "Principles of Solid Waste Management",
+      "page": 0
+    }
+  },
+  {
+    "ETEN305": {
+      "paperTitle": "Design of Structures",
+      "page": 0
+    }
+  },
+  {
+    "ETEN306": {
+      "paperTitle": "Industrial Waste Management",
+      "page": 0
+    }
+  },
+  {
+    "ETEN307": {
+      "paperTitle": "Hydrology and Drainage Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETEN308": {
+      "paperTitle": "Economics for Engineers",
+      "page": 0
+    }
+  },
+  {
+    "ETEN309": {
+      "paperTitle": "Environmental Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETEN310": {
+      "paperTitle": "Advance Design of Structures",
+      "page": 0
+    }
+  },
+  {
+    "ETEN311": {
+      "paperTitle": "Water Supply and Sewage System",
+      "page": 0
+    }
+  },
+  {
+    "ETEN312": {
+      "paperTitle": "Transportation Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETEN401": {
+      "paperTitle": "Biomedical, Hazardous and E-Waste Management",
+      "page": 0
+    }
+  },
+  {
+    "ETEN403": {
+      "paperTitle": "EIA and EMS",
+      "page": 0
+    }
+  },
+  {
+    "ETEN404": {
+      "paperTitle": "Planning and Management of Environment Projects",
+      "page": 0
+    }
+  },
+  {
+    "ETEN405": {
+      "paperTitle": "Application of Remote Sensing and GIS",
+      "page": 0
+    }
+  },
+  {
+    "ETEN406": {
+      "paperTitle": "Environmental Modeling",
+      "page": 0
+    }
+  },
+  {
+    "ETEN413": {
+      "paperTitle": "Sustainable Energy Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETEN415": {
+      "paperTitle": "Advance Separation Process",
+      "page": 0
+    }
+  },
+  {
+    "ETEN416": {
+      "paperTitle": "Climate Change Assessment and Mitigation Measures",
+      "page": 0
+    }
+  },
+  {
+    "ETEN418": {
+      "paperTitle": "Ground Water Contamination and Mitigation Measures",
+      "page": 0
+    }
+  },
+  {
+    "ETEN419": {
+      "paperTitle": "Planning and design of Green buildings",
+      "page": 0
+    }
+  },
+  {
+    "ETEN420": {
+      "paperTitle": "Bio and Chemical Technology Applications in Waste Management",
+      "page": 0
+    }
+  },
+  {
+    "ETEN421": {
+      "paperTitle": "Planning and Design of Green Buildings",
+      "page": 0
+    }
+  },
+  {
+    "ETHS109": {
+      "paperTitle": "HUMAN VALUES & PROFESSIONAL ETHICS",
+      "page": 8
+    }
+  },
+  {
+    "ETHS112": {
+      "paperTitle": "COMMUNICATION SKILLS",
+      "page": 26
+    }
+  },
+  {
+    "ETHS301": {
+      "paperTitle": "Communication Skills For Professionals",
+      "page": 0
+    }
+  },
+  {
+    "ETHS402": {
+      "paperTitle": "Human Values and Professional Ethics-II",
+      "page": 85
+    }
+  },
+  {
+    "ETHS419": {
+      "paperTitle": "Sociology and Elements of Indian History for Engg",
+      "page": 70
+    }
+  },
+  {
+    "ETIC203": {
+      "paperTitle": "SENSORS AND TRANSDUCERS",
+      "page": 0
+    }
+  },
+  {
+    "ETIC204": {
+      "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
+      "page": 0
+    }
+  },
+  {
+    "ETIC206": {
+      "paperTitle": "POWER ELECTRONICS",
+      "page": 0
+    }
+  },
+  {
+    "ETIC208": {
+      "paperTitle": "THEORY AND APPLICATION OF INTEGRATED CIRCUITS",
+      "page": 0
+    }
+  },
+  {
+    "ETIC210": {
+      "paperTitle": "ELECTRICAL MACHINES",
+      "page": 0
+    }
+  },
+  {
+    "ETIC211": {
+      "paperTitle": "BASICS OF MEASUREMENTS",
+      "page": 0
+    }
+  },
+  {
+    "ETIC212": {
+      "paperTitle": "COMMUNICATION SYSTEMS",
+      "page": 0
+    }
+  },
+  {
+    "ETIC302": {
+      "paperTitle": "Pneumatic and Hydraulic Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETIC303": {
+      "paperTitle": "Industrial Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETIC304": {
+      "paperTitle": "Process Control",
+      "page": 0
+    }
+  },
+  {
+    "ETIC308": {
+      "paperTitle": "Analytical Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETIC309": {
+      "paperTitle": "Object Oriented Programming",
+      "page": 0
+    }
+  },
+  {
+    "ETIC310": {
+      "paperTitle": "Modern Control Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETIC401": {
+      "paperTitle": "Digital Control Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETIC403": {
+      "paperTitle": "Biomedical Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETIC404": {
+      "paperTitle": "Intelligent Systems and Control",
+      "page": 0
+    }
+  },
+  {
+    "ETIC405": {
+      "paperTitle": "Artificial Neural Networks",
+      "page": 0
+    }
+  },
+  {
+    "ETIC406": {
+      "paperTitle": "Virtual Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETIC407": {
+      "paperTitle": "Industrial Automation and Control",
+      "page": 0
+    }
+  },
+  {
+    "ETIC408": {
+      "paperTitle": "System",
+      "page": 0
+    }
+  },
+  {
+    "ETIC410": {
+      "paperTitle": "Embedded Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETIC413": {
+      "paperTitle": "Instrumentation Diagnostics",
+      "page": 0
+    }
+  },
+  {
+    "ETIC414": {
+      "paperTitle": "VLSI Design",
+      "page": 92
+    }
+  },
+  {
+    "ETIC417": {
+      "paperTitle": "Selected Topics in ICE",
+      "page": 0
+    }
+  },
+  {
+    "ETIC418": {
+      "paperTitle": "Mobile communication",
+      "page": 0
+    }
+  },
+  {
+    "ETIC419": {
+      "paperTitle": "Engineering Materials",
+      "page": 0
+    }
+  },
+  {
+    "ETIC421": {
+      "paperTitle": "Computer Architecture",
+      "page": 0
+    }
+  },
+  {
+    "ETIC423": {
+      "paperTitle": "Software Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETIC427": {
+      "paperTitle": "Operating Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETIC428": {
+      "paperTitle": "Computer Graphics",
+      "page": 0
+    }
+  },
+  {
+    "ETIC430": {
+      "paperTitle": "Electromagnetic Field Theory",
+      "page": 0
+    }
+  },
+  {
+    "ETIT302": {
+      "paperTitle": "Decision Science",
+      "page": 0
+    }
+  },
+  {
+    "ETIT309": {
+      "paperTitle": "Communication Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETIT401": {
+      "paperTitle": "Advanced Computer Networks",
+      "page": 68
+    }
+  },
+  {
+    "ETIT402": {
+      "paperTitle": "Mobile Computing",
+      "page": 82
+    }
+  },
+  {
+    "ETIT403": {
+      "paperTitle": "Cryptography",
+      "page": 0
+    }
+  },
+  {
+    "ETIT406": {
+      "paperTitle": "Big Data Analytics",
+      "page": 0
+    }
+  },
+  {
+    "ETIT407": {
+      "paperTitle": "Cloud Computing",
+      "page": 0
+    }
+  },
+  {
+    "ETIT408": {
+      "paperTitle": "Social Network Analysis",
+      "page": 0
+    }
+  },
+  {
+    "ETIT409": {
+      "paperTitle": "Distributed Databases",
+      "page": 0
+    }
+  },
+  {
+    "ETIT410": {
+      "paperTitle": "Soft Computing",
+      "page": 91
+    }
+  },
+  {
+    "ETIT411": {
+      "paperTitle": "Semantic Web Technologies",
+      "page": 0
+    }
+  },
+  {
+    "ETIT412": {
+      "paperTitle": "Bio Informatics",
+      "page": 0
+    }
+  },
+  {
+    "ETIT413": {
+      "paperTitle": "Software Testing",
+      "page": 0
+    }
+  },
+  {
+    "ETIT414": {
+      "paperTitle": "Web Application Development Using .NET",
+      "page": 0
+    }
+  },
+  {
+    "ETIT415": {
+      "paperTitle": "Digital Signal Processing",
+      "page": 63
+    }
+  },
+  {
+    "ETIT416": {
+      "paperTitle": "Information Theory and Coding",
+      "page": 98
+    }
+  },
+  {
+    "ETIT418": {
+      "paperTitle": "Digital Image Processing",
+      "page": 87
+    }
+  },
+  {
+    "ETIT419": {
+      "paperTitle": ".NET and C# Programming",
+      "page": 0
+    }
+  },
+  {
+    "ETIT420": {
+      "paperTitle": "Next Generation Networks",
+      "page": 0
+    }
+  },
+  {
+    "ETIT421": {
+      "paperTitle": "Enterprise Computing in JAVA",
+      "page": 0
+    }
+  },
+  {
+    "ETIT422": {
+      "paperTitle": "GPS and GIS",
+      "page": 0
+    }
+  },
+  {
+    "ETIT423": {
+      "paperTitle": "System and Network Administrati on",
+      "page": 0
+    }
+  },
+  {
+    "ETIT425": {
+      "paperTitle": "Grid Computing",
+      "page": 0
+    }
+  },
+  {
+    "ETIT427": {
+      "paperTitle": "Advanced Database Administration",
+      "page": 0
+    }
+  },
+  {
+    "ETIT428": {
+      "paperTitle": "E-Commerce and M-Commerce ",
+      "page": 0
+    }
+  },
+  {
+    "ETIT429": {
+      "paperTitle": "Probabilistic Graphical Models",
+      "page": 0
+    }
+  },
+  {
+    "ETIT430": {
+      "paperTitle": "Distributed Systems",
+      "page": 93
+    }
+  },
+  {
+    "ETIT432": {
+      "paperTitle": "Selected Topics of Recent Trends in IT",
+      "page": 0
+    }
+  },
+  {
+    "ETMA101": {
+      "paperTitle": "APPLIED MATHEMATICS-I",
+      "page": 4
+    }
+  },
+  {
+    "ETMA102": {
+      "paperTitle": "APPLIED MATHEMATICS-II",
+      "page": 21
+    }
+  },
+  {
+    "ETMA201": {
+      "paperTitle": "Applied Mathematics-III",
+      "page": 0
+    }
+  },
+  {
+    "ETMA202": {
+      "paperTitle": "Applied Mathematics-IV",
+      "page": 0
+    }
+  },
+  {
+    "ETMA203": {
+      "paperTitle": "Numerical Analysis and Statistical Techniques",
+      "page": 0
+    }
+  },
+  {
+    "ETME105": {
+      "paperTitle": "MANUFACTURING PROCESSES",
+      "page": 6
+    }
+  },
+  {
+    "ETME110": {
+      "paperTitle": "ENGINEERING MECHANICS",
+      "page": 25
+    }
+  },
+  {
+    "ETME201": {
+      "paperTitle": "FLUID MECHANICS",
+      "page": 0
+    }
+  },
+  {
+    "ETME202": {
+      "paperTitle": "KINEMATICS OF MACHINES",
+      "page": 0
+    }
+  },
+  {
+    "ETME203": {
+      "paperTitle": "THERMAL SCIENCE",
+      "page": 0
+    }
+  },
+  {
+    "ETME204": {
+      "paperTitle": "STRENGTH OF MATERIALS-II",
+      "page": 0
+    }
+  },
+  {
+    "ETME205": {
+      "paperTitle": "Production Technology",
+      "page": 0
+    }
+  },
+  {
+    "ETME206": {
+      "paperTitle": "Manufacturing Machines",
+      "page": 0
+    }
+  },
+  {
+    "ETME207": {
+      "paperTitle": "MATERIAL SCIENCE & METALLURGY",
+      "page": 0
+    }
+  },
+  {
+    "ETME208": {
+      "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
+      "page": 0
+    }
+  },
+  {
+    "ETME209": {
+      "paperTitle": "Electrical Machines",
+      "page": 0
+    }
+  },
+  {
+    "ETME210": {
+      "paperTitle": "IC ENGINES & GAS TURBINES",
+      "page": 0
+    }
+  },
+  {
+    "ETME211": {
+      "paperTitle": "STRENGTH OF MATERIALS-I",
+      "page": 0
+    }
+  },
+  {
+    "ETME212": {
+      "paperTitle": "FLUID MECHANICS",
+      "page": 0
+    }
+  },
+  {
+    "ETME301": {
+      "paperTitle": "Paper: Management of Manufacturing Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETME302": {
+      "paperTitle": "Machine Design-II",
+      "page": 0
+    }
+  },
+  {
+    "ETME303": {
+      "paperTitle": "Heat Transfer",
+      "page": 0
+    }
+  },
+  {
+    "ETME304": {
+      "paperTitle": "Metal Cutting",
+      "page": 0
+    }
+  },
+  {
+    "ETME305": {
+      "paperTitle": "Dynamics of Machines",
+      "page": 0
+    }
+  },
+  {
+    "ETME306": {
+      "paperTitle": "Fluid Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETME307": {
+      "paperTitle": "Machine Design",
+      "page": 0
+    }
+  },
+  {
+    "ETME308": {
+      "paperTitle": "Refrigeration & Air Conditioning",
+      "page": 0
+    }
+  },
+  {
+    "ETME312": {
+      "paperTitle": "Metrology",
+      "page": 0
+    }
+  },
+  {
+    "ETME401": {
+      "paperTitle": "Automobile Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETME402": {
+      "paperTitle": "Engineering System Modeling and Simulation",
+      "page": 0
+    }
+  },
+  {
+    "ETME403": {
+      "paperTitle": "Computer Integrated Manufacturing",
+      "page": 0
+    }
+  },
+  {
+    "ETME404": {
+      "paperTitle": "Statistical Quality Control and Reliability",
+      "page": 0
+    }
+  },
+  {
+    "ETME405": {
+      "paperTitle": "Power Plant Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETME407": {
+      "paperTitle": "Optimization Techniques",
+      "page": 0
+    }
+  },
+  {
+    "ETME408": {
+      "paperTitle": "Nuclear Power Generation and Supply",
+      "page": 0
+    }
+  },
+  {
+    "ETME409": {
+      "paperTitle": "Preventive Maintenance & Condition Monitoring",
+      "page": 0
+    }
+  },
+  {
+    "ETME411": {
+      "paperTitle": "Computational Fluid Dynamics",
+      "page": 0
+    }
+  },
+  {
+    "ETME412": {
+      "paperTitle": "Rapid Prototyping",
+      "page": 0
+    }
+  },
+  {
+    "ETME413": {
+      "paperTitle": "NonNon-Conventional Manufacturing Processes",
+      "page": 0
+    }
+  },
+  {
+    "ETME414": {
+      "paperTitle": "Applied Plasticity",
+      "page": 0
+    }
+  },
+  {
+    "ETME415": {
+      "paperTitle": "Geometric Modelling and Product Design",
+      "page": 0
+    }
+  },
+  {
+    "ETME416": {
+      "paperTitle": "Mechanical Vibrations",
+      "page": 0
+    }
+  },
+  {
+    "ETME417": {
+      "paperTitle": "Advanced Material Science and Metallurgy",
+      "page": 0
+    }
+  },
+  {
+    "ETME421": {
+      "paperTitle": "Management Information Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETME422": {
+      "paperTitle": "Gas Dynamics",
+      "page": 0
+    }
+  },
+  {
+    "ETME423": {
+      "paperTitle": "Finite Element Methods",
+      "page": 0
+    }
+  },
+  {
+    "ETME424": {
+      "paperTitle": "Cryogenic Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETME426": {
+      "paperTitle": "Total Quality Management",
+      "page": 0
+    }
+  },
+  {
+    "ETME427": {
+      "paperTitle": "Rotor Dynamics",
+      "page": 0
+    }
+  },
+  {
+    "ETME430": {
+      "paperTitle": "Computer Aided Graphics",
+      "page": 0
+    }
+  },
+  {
+    "ETME432": {
+      "paperTitle": "Turbo Machinery",
+      "page": 0
+    }
+  },
+  {
+    "ETMS310": {
+      "paperTitle": "Organizational Behaviour",
+      "page": 0
+    }
+  },
+  {
+    "ETMS311": {
+      "paperTitle": "Industrial Management",
+      "page": 0
+    }
+  },
+  {
+    "ETMS421": {
+      "paperTitle": "Project Management",
+      "page": 0
+    }
+  },
+  {
+    "ETMS423": {
+      "paperTitle": "Economics for Engineers",
+      "page": 0
+    }
+  },
+  {
+    "ETMT202": {
+      "paperTitle": "ORGANIZATIONAL BEHAVIOUR",
+      "page": 0
+    }
+  },
+  {
+    "ETMT204": {
+      "paperTitle": "KINEMATICS AND DYNAMICS OF MACHINERY",
+      "page": 0
+    }
+  },
+  {
+    "ETMT205": {
+      "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
+      "page": 0
+    }
+  },
+  {
+    "ETMT206": {
+      "paperTitle": "SIGNALS AND SYSTEMS",
+      "page": 0
+    }
+  },
+  {
+    "ETMT212": {
+      "paperTitle": "Hydraulics and Pneumatics",
+      "page": 0
+    }
+  },
+  {
+    "ETMT302": {
+      "paperTitle": "Management",
+      "page": 0
+    }
+  },
+  {
+    "ETMT303": {
+      "paperTitle": "Machine Element Design",
+      "page": 0
+    }
+  },
+  {
+    "ETMT304": {
+      "paperTitle": "Manufacturing Technology",
+      "page": 0
+    }
+  },
+  {
+    "ETMT305": {
+      "paperTitle": "Metrology and Quality Control",
+      "page": 0
+    }
+  },
+  {
+    "ETMT306": {
+      "paperTitle": "Programmable Logic Controller",
+      "page": 0
+    }
+  },
+  {
+    "ETMT307": {
+      "paperTitle": "Digital Signal Processing",
+      "page": 0
+    }
+  },
+  {
+    "ETMT308": {
+      "paperTitle": "COMPUTER INTEGRATED MANUFACTURING",
+      "page": 0
+    }
+  },
+  {
+    "ETMT309": {
+      "paperTitle": "Sensors and Transducers",
+      "page": 0
+    }
+  },
+  {
+    "ETMT310": {
+      "paperTitle": "Automotive Electronics",
+      "page": 0
+    }
+  },
+  {
+    "ETMT311": {
+      "paperTitle": "Power Electronics and Drives",
+      "page": 0
+    }
+  },
+  {
+    "ETMT312": {
+      "paperTitle": "Microprocessors and Microcontrollers",
+      "page": 0
+    }
+  },
+  {
+    "ETMT402": {
+      "paperTitle": "Robotics",
+      "page": 0
+    }
+  },
+  {
+    "ETMT403": {
+      "paperTitle": "Micro Electro Mechanical System and Nanotechnology",
+      "page": 0
+    }
+  },
+  {
+    "ETMT404": {
+      "paperTitle": "Embedded Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETMT405": {
+      "paperTitle": "Mechatronics System Design",
+      "page": 0
+    }
+  },
+  {
+    "ETMT407": {
+      "paperTitle": "I.C ENGINES",
+      "page": 0
+    }
+  },
+  {
+    "ETMT409": {
+      "paperTitle": "Digital Image Processing",
+      "page": 0
+    }
+  },
+  {
+    "ETMT410": {
+      "paperTitle": "FACILITY & LAYOUT PLANNING",
+      "page": 0
+    }
+  },
+  {
+    "ETMT411": {
+      "paperTitle": "Product Design and Costing",
+      "page": 0
+    }
+  },
+  {
+    "ETMT414": {
+      "paperTitle": "Factory Automation",
+      "page": 0
+    }
+  },
+  {
+    "ETMT415": {
+      "paperTitle": "Process Modelling & Optimization Techniques",
+      "page": 0
+    }
+  },
+  {
+    "ETMT416": {
+      "paperTitle": "Refrigeration and Air Conditioning",
+      "page": 0
+    }
+  },
+  {
+    "ETMT421": {
+      "paperTitle": "Waste and Heat Recovery Systems",
+      "page": 0
+    }
+  },
+  {
+    "ETMT424": {
+      "paperTitle": "Intelligent and Smart Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETMT425": {
+      "paperTitle": "Fuzzy Logic and Neural Networks",
+      "page": 0
+    }
+  },
+  {
+    "ETMT426": {
+      "paperTitle": "Reliability and Maintenance Management",
+      "page": 0
+    }
+  },
+  {
+    "ETMT427": {
+      "paperTitle": "Operations Research",
+      "page": 0
+    }
+  },
+  {
+    "ETMT428": {
+      "paperTitle": "Flexible Manufacturing System",
+      "page": 0
+    }
+  },
+  {
+    "ETMT429": {
+      "paperTitle": "Decision Science",
+      "page": 0
+    }
+  },
+  {
+    "ETMT430": {
+      "paperTitle": "Engineering Economics",
+      "page": 0
+    }
+  },
+  {
+    "ETPE201": {
+      "paperTitle": "ELECTRICAL MACHINES",
+      "page": 0
+    }
+  },
+  {
+    "ETPE202": {
+      "paperTitle": "Power Generation Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETPE204": {
+      "paperTitle": "ENERGY CONVERSION",
+      "page": 0
+    }
+  },
+  {
+    "ETPE205": {
+      "paperTitle": "Thermodynamics for Power Engineers",
+      "page": 0
+    }
+  },
+  {
+    "ETPE206": {
+      "paperTitle": "HEAT & MASS TRANSFER",
+      "page": 0
+    }
+  },
+  {
+    "ETPE207": {
+      "paperTitle": "STRENGTH OF MATERIALS & THEORY OF MACHINES",
+      "page": 0
+    }
+  },
+  {
+    "ETPE302": {
+      "paperTitle": "Load Dispatch and Electricity Regulations",
+      "page": 0
+    }
+  },
+  {
+    "ETPE303": {
+      "paperTitle": "Steam Generator and its Auxiliaries",
+      "page": 0
+    }
+  },
+  {
+    "ETPE304": {
+      "paperTitle": "Power Plant Commissioning",
+      "page": 0
+    }
+  },
+  {
+    "ETPE305": {
+      "paperTitle": "Steam Turbine and its Auxiliaries",
+      "page": 0
+    }
+  },
+  {
+    "ETPE306": {
+      "paperTitle": "Power Plant Control and Instrumentation",
+      "page": 0
+    }
+  },
+  {
+    "ETPE307": {
+      "paperTitle": "Electrical Generator and Auxiliaries ",
+      "page": 0
+    }
+  },
+  {
+    "ETPE308": {
+      "paperTitle": "Power System Transmission and Distribution",
+      "page": 0
+    }
+  },
+  {
+    "ETPE309": {
+      "paperTitle": "Refrigeration and Air Conditioning",
+      "page": 0
+    }
+  },
+  {
+    "ETPE310": {
+      "paperTitle": "I.C. Engines & Gas Dynamics ",
+      "page": 0
+    }
+  },
+  {
+    "ETPE312": {
+      "paperTitle": "Power Electronics and Electric Drives",
+      "page": 0
+    }
+  },
+  {
+    "ETPE313": {
+      "paperTitle": "Electrical & Electronic Measurements and Instrumentation ",
+      "page": 0
+    }
+  },
+  {
+    "ETPE316": {
+      "paperTitle": "Electromagnetic Field Theory",
+      "page": 0
+    }
+  },
+  {
+    "ETPE401": {
+      "paperTitle": "Power Plant Operation",
+      "page": 0
+    }
+  },
+  {
+    "ETPE403": {
+      "paperTitle": "Power System Protection and Switchgear",
+      "page": 0
+    }
+  },
+  {
+    "ETPE404": {
+      "paperTitle": "Environment Management",
+      "page": 0
+    }
+  },
+  {
+    "ETPE405": {
+      "paperTitle": "Power Plant Performance",
+      "page": 0
+    }
+  },
+  {
+    "ETPE406": {
+      "paperTitle": "Microprocessors and Microcontrollers",
+      "page": 0
+    }
+  },
+  {
+    "ETPE407": {
+      "paperTitle": "Power Plant Maintenance",
+      "page": 0
+    }
+  },
+  {
+    "ETPE409": {
+      "paperTitle": "Theory of Machines ",
+      "page": 0
+    }
+  },
+  {
+    "ETPE410": {
+      "paperTitle": "Design of Electrical Machines",
+      "page": 0
+    }
+  },
+  {
+    "ETPE412": {
+      "paperTitle": "Project Management",
+      "page": 0
+    }
+  },
+  {
+    "ETPE413": {
+      "paperTitle": "Balance of Power Plant",
+      "page": 0
+    }
+  },
+  {
+    "ETPE414": {
+      "paperTitle": "Smart Grid",
+      "page": 0
+    }
+  },
+  {
+    "ETPE415": {
+      "paperTitle": "Preventive Maintenance",
+      "page": 0
+    }
+  },
+  {
+    "ETPE421": {
+      "paperTitle": "Manufacturing and Industrial Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETPE423": {
+      "paperTitle": "Communication Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETPE425": {
+      "paperTitle": "Information Theory and its Applications",
+      "page": 0
+    }
+  },
+  {
+    "ETPE426": {
+      "paperTitle": "Energy Management",
+      "page": 0
+    }
+  },
+  {
+    "ETPE428": {
+      "paperTitle": "High Voltage AC and DC Technology",
+      "page": 0
+    }
+  },
+  {
+    "ETPE430": {
+      "paperTitle": "Residual Life Assessment of Extension",
+      "page": 0
+    }
+  },
+  {
+    "ETPH103": {
+      "paperTitle": "APPLIED PHYSICS – I",
+      "page": 5
+    }
+  },
+  {
+    "ETPH104": {
+      "paperTitle": "APPLIED PHYSICS-II",
+      "page": 22
+    }
+  },
+  {
+    "ETTE204": {
+      "paperTitle": "METAL FORMIMG",
+      "page": 0
+    }
+  },
+  {
+    "ETTE206": {
+      "paperTitle": "MACHINE TOOLS",
+      "page": 0
+    }
+  },
+  {
+    "ETTE208": {
+      "paperTitle": "MACHINE ELEMENT DESIGN",
+      "page": 0
+    }
+  },
+  {
+    "ETTE210": {
+      "paperTitle": "THERMAL SCIENCE",
+      "page": 0
+    }
+  },
+  {
+    "ETTE211": {
+      "paperTitle": "MECHANICS OF SOLIDS",
+      "page": 0
+    }
+  },
+  {
+    "ETTE212": {
+      "paperTitle": "METROLOGY AND QUALITY ASSURANCE",
+      "page": 0
+    }
+  },
+  {
+    "ETTE301": {
+      "paperTitle": "Production Planning and Control",
+      "page": 0
+    }
+  },
+  {
+    "ETTE302": {
+      "paperTitle": "Press Tool Design-1",
+      "page": 0
+    }
+  },
+  {
+    "ETTE303": {
+      "paperTitle": "CNC Machining and Programming",
+      "page": 0
+    }
+  },
+  {
+    "ETTE305": {
+      "paperTitle": "Jigs,Fixture & Gauge Design",
+      "page": 0
+    }
+  },
+  {
+    "ETTE306": {
+      "paperTitle": "Mould Design-1",
+      "page": 0
+    }
+  },
+  {
+    "ETTE308": {
+      "paperTitle": "Layered Manufacturing",
+      "page": 0
+    }
+  },
+  {
+    "ETTE309": {
+      "paperTitle": "Plastic Technology",
+      "page": 0
+    }
+  },
+  {
+    "ETTE310": {
+      "paperTitle": "Finite Element Methods",
+      "page": 0
+    }
+  },
+  {
+    "ETTE312": {
+      "paperTitle": "Total Quality Management",
+      "page": 0
+    }
+  },
+  {
+    "ETTE401": {
+      "paperTitle": "Press Tool Design-II",
+      "page": 0
+    }
+  },
+  {
+    "ETTE402": {
+      "paperTitle": "Advanced Die Casting and Die Design",
+      "page": 0
+    }
+  },
+  {
+    "ETTE403": {
+      "paperTitle": "Mould Design-2",
+      "page": 0
+    }
+  },
+  {
+    "ETTE404": {
+      "paperTitle": "Modern Manufacturing Methods",
+      "page": 0
+    }
+  },
+  {
+    "ETTE405": {
+      "paperTitle": "Computer Aided Graphics & Product Design",
+      "page": 0
+    }
+  },
+  {
+    "ETTE407": {
+      "paperTitle": "Vibrations Engineering Design",
+      "page": 0
+    }
+  },
+  {
+    "ETTE409": {
+      "paperTitle": "Creativity in Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETTE410": {
+      "paperTitle": "Theory of Design Optimization",
+      "page": 0
+    }
+  },
+  {
+    "ETTE414": {
+      "paperTitle": "Applied Plasticity",
+      "page": 0
+    }
+  },
+  {
+    "ETTE415": {
+      "paperTitle": "Advanced Welding Technology",
+      "page": 0
+    }
+  },
+  {
+    "ETTE417": {
+      "paperTitle": "Low Cost Automation",
+      "page": 0
+    }
+  },
+  {
+    "ETTE418": {
+      "paperTitle": "Project Management",
+      "page": 0
+    }
+  },
+  {
+    "ETTE422": {
+      "paperTitle": "Industrial Management",
+      "page": 0
+    }
+  },
+  {
+    "ETTE423": {
+      "paperTitle": "Value Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETTE424": {
+      "paperTitle": "Supply Chain Management",
+      "page": 0
+    }
+  },
+  {
+    "ETTE425": {
+      "paperTitle": "Material Management",
+      "page": 0
+    }
+  },
+  {
+    "ETTE427": {
+      "paperTitle": "Concurrent Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETTE428": {
+      "paperTitle": "Safety Engineering",
+      "page": 0
+    }
+  },
+  {
+    "ETTE429": {
+      "paperTitle": "Ergonomics",
+      "page": 0
+    }
+  }
 ]
