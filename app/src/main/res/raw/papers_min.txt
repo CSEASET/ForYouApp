@@ -374,31 +374,31 @@
   {
     "ETCS203": {
       "paperTitle": "Foundation of Computer Science",
-      "page": 0
+      "page": 12
     }
   },
   {
     "ETCS204": {
       "paperTitle": "Computer Organization & Architecture",
-      "page": 0
+      "page": 22
     }
   },
   {
     "ETCS206": {
       "paperTitle": "Theory of Computation",
-      "page": 0
+      "page": 23
     }
   },
   {
     "ETCS208": {
-      "paperTitle": "Database Management Systems ",
-      "page": 0
+      "paperTitle": "Database Management Systems",
+      "page": 24
     }
   },
   {
     "ETCS209": {
       "paperTitle": "Data Structures",
-      "page": 0
+      "page": 15
     }
   },
   {
@@ -410,55 +410,55 @@
   {
     "ETCS211": {
       "paperTitle": "Computer Graphics & Multimedia",
-      "page": 0
+      "page": 16
     }
   },
   {
     "ETCS301": {
       "paperTitle": "Algorithms Design and Analysis",
-      "page": 0
+      "page": 32
     }
   },
   {
     "ETCS302": {
       "paperTitle": "Compiler Design",
-      "page": 0
+      "page": 44
     }
   },
   {
     "ETCS303": {
       "paperTitle": "Software Engineering",
-      "page": 0
+      "page": 33
     }
   },
   {
     "ETCS304": {
       "paperTitle": "Operating Systems",
-      "page": 0
+      "page": 45
     }
   },
   {
     "ETCS306": {
       "paperTitle": "Computer Networks",
-      "page": 0
+      "page": 46
     }
   },
   {
     "ETCS307": {
       "paperTitle": "Java Programming",
-      "page": 0
+      "page": 34
     }
   },
   {
     "ETCS308": {
       "paperTitle": "Web Engineering",
-      "page": 0
+      "page": 47
     }
   },
   {
     "ETCS310": {
       "paperTitle": "Artificial Intelligence",
-      "page": 0
+      "page": 48
     }
   },
   {
@@ -644,7 +644,7 @@
   {
     "ETEC205": {
       "paperTitle": "Switching Theory and Logic Design",
-      "page": 0
+      "page": 13
     }
   },
   {
@@ -661,8 +661,8 @@
   },
   {
     "ETEC208": {
-      "paperTitle": "COMMUNICATION SYSTEMS",
-      "page": 0
+      "paperTitle": "Communication Systems",
+      "page": 26
     }
   },
   {
@@ -680,7 +680,7 @@
   {
     "ETEC303": {
       "paperTitle": "Digital Communication",
-      "page": 0
+      "page": 36
     }
   },
   {
@@ -884,7 +884,7 @@
   {
     "ETEE207": {
       "paperTitle": "Circuits & Systems",
-      "page": 0
+      "page": 14
     }
   },
   {
@@ -950,7 +950,7 @@
   {
     "ETEE310": {
       "paperTitle": "Microprocessors and Microcontrollers",
-      "page": 0
+      "page": 49
     }
   },
   {
@@ -1200,9 +1200,69 @@
     }
   },
   {
+    "ETEC253": {
+      "paperTitle": "Switching Theory and Logic Design Lab",
+      "page": 17
+    }
+  },
+  {
+    "ETCS255": {
+      "paperTitle": "Data Structures Lab",
+      "page": 19
+    }
+  },
+  {
+    "ETEE257": {
+      "paperTitle": "Circuits and Systems Lab",
+      "page": 18
+    }
+  },
+  {
+    "ETCS257": {
+      "paperTitle": "Computer Graphics and Multimedia Lab",
+      "page": 20
+    }
+  },
+  {
     "ETCS453": {
       "paperTitle": "Software Testing and QA Lab",
       "page": 71
+    }
+  },
+  {
+    "ETMA252": {
+      "paperTitle": "Applied Mathematics Lab",
+      "page": 27
+    }
+  },
+  {
+    "ETCS254": {
+      "paperTitle": "Computer Organisation and Architecture Lab",
+      "page": 28
+    }
+  },
+  {
+    "ETCS256": {
+      "paperTitle": "Database Management Systems Lab",
+      "page": 29
+    }
+  },
+  {
+    "ETCS258": {
+      "paperTitle": "Object Oriented Programming Lab",
+      "page": 30
+    }
+  },
+  {
+    "ETEC256": {
+      "paperTitle": "Communication Systems Lab",
+      "page": 31
+    }
+  },
+  {
+    "ETSS250": {
+      "paperTitle": "NCC/NSS",
+      "page": 5
     }
   },
   {
@@ -1224,6 +1284,42 @@
     }
   },
   {
+    "ETCS351": {
+      "paperTitle": "Algorithms Design and Analysis Lab",
+      "page": 
+    }
+  },
+  {
+    "ETCS353": {
+      "paperTitle": "Software Engineering Lab",
+      "page": 40
+    }
+  },
+  {
+    "ETCS357": {
+      "paperTitle": "Java Programming Lab",
+      "page": 41
+    }
+  },
+  {
+    "ETCS359": {
+      "paperTitle": "Viva Industrial Training",
+      "page": 6
+    }
+  },
+  {
+    "ETEC357": {
+      "paperTitle": "Digital Communication Lab",
+      "page": 42
+    }
+  },
+  {
+    "ETHS351": {
+      "paperTitle": "Communication Skills for Professionals Lab",
+      "page": 43
+    }
+  },
+  {
     "ETCS461": {
       "paperTitle": "Minor Project",
       "page": 8
@@ -1239,6 +1335,30 @@
     "ETEC156": {
       "paperTitle": "Electronic Devices",
       "page": 30
+    }
+  },
+  {
+    "ETCS352": {
+      "paperTitle": "Operating Systems (Linux Programming and Administration) Lab",
+      "page": 50
+    }
+  },
+  {
+    "ETCS354": {
+      "paperTitle": "Computer Networks Lab",
+      "page": 51
+    }
+  },
+  {
+    "ETCS356": {
+      "paperTitle": "Web Engineering Lab",
+      "page": 52
+    }
+  },
+  {
+    "ETEE358": {
+      "paperTitle": "Microprocessor and Microcontroller Lab",
+      "page": 53
     }
   },
   {
@@ -1460,7 +1580,7 @@
   {
     "ETHS301": {
       "paperTitle": "Communication Skills For Professionals",
-      "page": 0
+      "page": 37
     }
   },
   {
@@ -1844,13 +1964,13 @@
   {
     "ETMA201": {
       "paperTitle": "Applied Mathematics-III",
-      "page": 0
+      "page": 11
     }
   },
   {
     "ETMA202": {
       "paperTitle": "Applied Mathematics-IV",
-      "page": 0
+      "page": 21
     }
   },
   {
@@ -2144,7 +2264,7 @@
   {
     "ETMS311": {
       "paperTitle": "Industrial Management",
-      "page": 0
+      "page": 35
     }
   },
   {
