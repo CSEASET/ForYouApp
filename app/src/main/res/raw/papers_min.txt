@@ -1376,7 +1376,7 @@
   {
     "ETHS351": {
       "paperTitle": "Communication Skills for Professionals Lab",
-      "page": 43
+      "page": 43,
       "page_CIVIL": 46
     }
   },
