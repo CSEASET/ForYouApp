@@ -187,7 +187,8 @@
       "paperTitle": "NCC/NSS",
       "page": 5,
       "page_CIVIL": 5,
-      "page_ENV": 34
+      "page_ENV": 34,
+      "page_IT": 5
     }
   },
   {
@@ -443,67 +444,408 @@
   {
     "ETCS203": {
       "paperTitle": "Foundation of Computer Science",
-      "page": 12
+      "page": 12,
+      "page_IT": 12
     }
   },
   {
     "ETCS204": {
       "paperTitle": "Computer Organization & Architecture",
-      "page": 22
+      "page": 22,
+      "page_IT": 22
     }
   },
   {
     "ETCS206": {
       "paperTitle": "Theory of Computation",
-      "page": 23
+      "page": 23,
+      "page_IT": 23
     }
   },
   {
     "ETCS208": {
       "paperTitle": "Database Management Systems",
-      "page": 24
+      "page": 24,
+      "page_IT": 24
     }
   },
   {
     "ETCS209": {
       "paperTitle": "Data Structures",
-      "page": 15
+      "page": 15,
+      "page_IT": 15
     }
   },
   {
     "ETCS210": {
       "paperTitle": "Object Oriented Programming",
-      "page": 0
+      "page": 25,
+      "page_IT": 25
     }
   },
   {
     "ETCS211": {
       "paperTitle": "Computer Graphics & Multimedia",
-      "page": 16
+      "page": 16,
+      "page_IT": 16
+    }
+  },
+  {
+    "ETEE260": {
+      "paperTitle": "Control Systems Lab",
+      "page": 31
+    }
+  },
+  {
+    "ETIT359": {
+      "paperTitle": "Viva Industrial Training / In-house Workshop",
+      "page": 6
+    }
+  },
+  {
+    "ETIT357": {
+      "paperTitle": "Communication Systems Lab",
+      "page": 42
+    }
+  },
+  {
+    "ETEC358": {
+      "paperTitle": "Data Communication and Networks Lab",
+      "page": 51
+    }
+  },
+  {
+    "ETIT453": {
+      "paperTitle": "Advanced Computer Networks Lab",
+      "page": 72
+    }
+  },
+  {
+    "ETIT455": {
+      "paperTitle": "Cryptography and Network Security Lab",
+      "page": 73
+    }
+  },
+  {
+    "ETIT459": {
+      "paperTitle": "Lab based on Elective Group– A or B",
+      "page": 75
+    }
+  },
+  {
+    "ETIT461": {
+      "paperTitle": "Summer Training / Industrial workshop / Certification",
+      "page": 8
+    }
+  },
+  {
+    "ETIT463": {
+      "paperTitle": "Minor Project",
+      "page": 8
+    }
+  },
+  {
+    "ETEC458": {
+      "paperTitle": "Ad hoc and Sensor Networks Lab",
+      "page": 102
+    }
+  },
+  {
+    "ETIT456": {
+      "paperTitle": "Lab based on Elective - I",
+      "page": 9
+    }
+  },
+  {
+    "ETIT458": {
+      "paperTitle": "Lab based on Elective - II",
+      "page": 103
+    }
+  },
+  {
+    "ETIT460": {
+      "paperTitle": "Major Project",
+      "page": 9
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
     }
   },
   {
     "ETCS301": {
       "paperTitle": "Algorithms Design and Analysis",
-      "page": 32
+      "page": 32,
+      "page_IT": 32
     }
   },
   {
     "ETCS302": {
       "paperTitle": "Compiler Design",
-      "page": 44
+      "page": 44,
+      "page_IT": 44
     }
   },
   {
     "ETCS303": {
       "paperTitle": "Software Engineering",
-      "page": 33
+      "page": 33,
+      "page_IT": 33
     }
   },
   {
     "ETCS304": {
       "paperTitle": "Operating Systems",
-      "page": 45
+      "page": 45,
+      "page_IT": 45
     }
   },
   {
@@ -515,19 +857,22 @@
   {
     "ETCS307": {
       "paperTitle": "Java Programming",
-      "page": 34
+      "page": 34,
+      "page_IT": 34
     }
   },
   {
     "ETCS308": {
       "paperTitle": "Web Engineering",
-      "page": 47
+      "page": 47,
+      "page_IT": 47
     }
   },
   {
     "ETCS310": {
       "paperTitle": "Artificial Intelligence",
-      "page": 48
+      "page": 48,
+      "page_IT": 48
     }
   },
   {
@@ -551,7 +896,8 @@
   {
     "ETCS404": {
       "paperTitle": "Human Computer Interaction",
-      "page": 97
+      "page": 97,
+      "page_IT": 92
     }
   },
   {
@@ -762,7 +1108,8 @@
   {
     "ETEC205": {
       "paperTitle": "Switching Theory and Logic Design",
-      "page": 13
+      "page": 13,
+      "page_IT": 13
     }
   },
   {
@@ -833,8 +1180,8 @@
   },
   {
     "ETEC310": {
-      "paperTitle": "Data Communication",
-      "page": 0
+      "paperTitle": "Data Communication and Networks",
+      "page": 46
     }
   },
   {
@@ -846,31 +1193,34 @@
   {
     "ETEC401": {
       "paperTitle": "Embedded Systems",
-      "page": 59
+      "page": 59,
+      "page_IT": 57
     }
   },
   {
     "ETEC403": {
       "paperTitle": "Optoelectronics and Optical Communication",
-      "page": 0
+      "page": 58
     }
   },
   {
     "ETEC404": {
       "paperTitle": "Satellite Communication",
-      "page": 0
+      "page": 96
     }
   },
   {
     "ETEC405": {
       "paperTitle": "Wireless Communication",
-      "page": 56
+      "page": 56,
+      "page_IT": 56
     }
   },
   {
     "ETEC406": {
       "paperTitle": "Ad Hoc and Sensor Networks",
-      "page": 89
+      "page": 89,
+      "page_IT": 80
     }
   },
   {
@@ -1003,7 +1353,8 @@
   {
     "ETEE207": {
       "paperTitle": "Circuits & Systems",
-      "page": 14
+      "page": 14,
+      "page_IT": 14
     }
   },
   {
@@ -1027,7 +1378,7 @@
   {
     "ETEE212": {
       "paperTitle": "Control Systems",
-      "page": 0
+      "page": 26
     }
   },
   {
@@ -1069,7 +1420,8 @@
   {
     "ETEE310": {
       "paperTitle": "Microprocessors and Microcontrollers",
-      "page": 49
+      "page": 49,
+      "page_IT": 49
     }
   },
   {
@@ -1285,7 +1637,8 @@
   {
     "ETIT452": {
       "paperTitle": "Mobile Computing Lab",
-      "page": 105
+      "page": 105,
+      "page_IT": 101
     }
   },
   {
@@ -1321,25 +1674,29 @@
   {
     "ETEC253": {
       "paperTitle": "Switching Theory and Logic Design Lab",
-      "page": 17
+      "page": 17,
+      "page_IT": 17
     }
   },
   {
     "ETCS255": {
       "paperTitle": "Data Structures Lab",
-      "page": 19
+      "page": 19,
+      "page_IT: 19
     }
   },
   {
     "ETEE257": {
       "paperTitle": "Circuits and Systems Lab",
-      "page": 18
+      "page": 18,
+      "page_IT": 18
     }
   },
   {
     "ETCS257": {
       "paperTitle": "Computer Graphics and Multimedia Lab",
-      "page": 20
+      "page": 20,
+      "page_IT": 20
     }
   },
   {
@@ -1351,25 +1708,29 @@
   {
     "ETMA252": {
       "paperTitle": "Applied Mathematics Lab",
-      "page": 27
+      "page": 27,
+      "page_IT": 27
     }
   },
   {
     "ETCS254": {
       "paperTitle": "Computer Organisation and Architecture Lab",
-      "page": 28
+      "page": 28,
+      "page_IT": 28
     }
   },
   {
     "ETCS256": {
       "paperTitle": "Database Management Systems Lab",
-      "page": 29
+      "page": 29,
+      "page_IT": 29
     }
   },
   {
     "ETCS258": {
       "paperTitle": "Object Oriented Programming Lab",
-      "page": 30
+      "page": 30,
+      "page_IT": 30
     }
   },
   {
@@ -1381,7 +1742,8 @@
   {
     "ETEC463": {
       "paperTitle": "Wireless Communication Lab",
-      "page": 73
+      "page": 73,
+      "page_IT": 74
     }
   },
   {
@@ -1399,19 +1761,22 @@
   {
     "ETCS351": {
       "paperTitle": "Algorithms Design and Analysis Lab",
-      "page": 39
+      "page": 39,
+      "page_IT": 351
     }
   },
   {
     "ETCS353": {
       "paperTitle": "Software Engineering Lab",
-      "page": 40
+      "page": 40,
+      "page_IT": 40
     }
   },
   {
     "ETCS357": {
       "paperTitle": "Java Programming Lab",
-      "page": 41
+      "page": 41,
+      "page_IT": 41
     }
   },
   {
@@ -1431,7 +1796,8 @@
       "paperTitle": "Communication Skills for Professionals Lab",
       "page": 43,
       "page_CIVIL": 46,
-      "page_ENV": 43
+      "page_ENV": 43,
+      "page_IT": 43
     }
   },
   {
@@ -1455,7 +1821,8 @@
   {
     "ETCS352": {
       "paperTitle": "Operating Systems (Linux Programming and Administration) Lab",
-      "page": 50
+      "page": 50,
+      "page_IT": 50
     }
   },
   {
@@ -1467,13 +1834,15 @@
   {
     "ETCS356": {
       "paperTitle": "Web Engineering Lab",
-      "page": 52
+      "page": 52,
+      "page_IT": 52
     }
   },
   {
     "ETEE358": {
       "paperTitle": "Microprocessor and Microcontroller Lab",
-      "page": 53
+      "page": 53,
+      "page_IT": 53
     }
   },
   {
@@ -1855,7 +2224,8 @@
       "paperTitle": "Communication Skills For Professionals",
       "page": 37,
       "page_CIVIL": 36,
-      "page_ENV": 35
+      "page_ENV": 35,
+      "page_IT": 37
     }
   },
   {
@@ -1863,7 +2233,8 @@
       "paperTitle": "Human Values and Professional Ethics-II",
       "page": 85,
       "page_CIVIL": 82,
-      "page_ENV": 81
+      "page_ENV": 81,
+      "page_IT": 82
     }
   },
   {
@@ -1871,7 +2242,8 @@
       "paperTitle": "Sociology and Elements of Indian History for Engg",
       "page": 70,
       "page_CIVIL": 75,
-      "page_ENV": 74
+      "page_ENV": 74.
+      "page_IT": 71
     }
   },
   {
@@ -2009,7 +2381,8 @@
   {
     "ETIC414": {
       "paperTitle": "VLSI Design",
-      "page": 92
+      "page": 92,
+      "page_IT": 90
     }
   },
   {
@@ -2100,163 +2473,170 @@
   {
     "ETIT309": {
       "paperTitle": "Communication Systems",
-      "page": 0
+      "page": 36
     }
   },
   {
     "ETIT401": {
       "paperTitle": "Advanced Computer Networks",
-      "page": 68
+      "page": 68,
+      "page_IT": 54
     }
   },
   {
     "ETIT402": {
       "paperTitle": "Mobile Computing",
-      "page": 82
+      "page": 82,
+      "page_IT": 78
     }
   },
   {
     "ETIT403": {
-      "paperTitle": "Cryptography",
-      "page": 0
+      "paperTitle": "Cryptography and Network Security",
+      "page": 55
     }
   },
   {
     "ETIT406": {
       "paperTitle": "Big Data Analytics",
-      "page": 0
+      "page": 84
     }
   },
   {
     "ETIT407": {
       "paperTitle": "Cloud Computing",
-      "page": 0
+      "page": 59
     }
   },
   {
     "ETIT408": {
       "paperTitle": "Social Network Analysis",
-      "page": 0
+      "page": 85
     }
   },
   {
     "ETIT409": {
       "paperTitle": "Distributed Databases",
-      "page": 0
+      "page": 60
     }
   },
   {
     "ETIT410": {
       "paperTitle": "Soft Computing",
-      "page": 91
+      "page": 91,
+      "page_IT": 86
     }
   },
   {
     "ETIT411": {
       "paperTitle": "Semantic Web Technologies",
-      "page": 0
+      "page": 61
     }
   },
   {
     "ETIT412": {
       "paperTitle": "Bio Informatics",
-      "page": 0
+      "page": 87
     }
   },
   {
     "ETIT413": {
       "paperTitle": "Software Testing",
-      "page": 0
+      "page": 62
     }
   },
   {
     "ETIT414": {
       "paperTitle": "Web Application Development Using .NET",
-      "page": 0
+      "page": 88
     }
   },
   {
     "ETIT415": {
       "paperTitle": "Digital Signal Processing",
-      "page": 63
+      "page": 63,
+      "page_IT": 63
     }
   },
   {
     "ETIT416": {
       "paperTitle": "Information Theory and Coding",
-      "page": 98
+      "page": 98,
+      "page_IT": 91
     }
   },
   {
     "ETIT418": {
       "paperTitle": "Digital Image Processing",
-      "page": 87
+      "page": 87,
+      "page_IT": 93
     }
   },
   {
     "ETIT419": {
       "paperTitle": ".NET and C# Programming",
-      "page": 0
+      "page": 64
     }
   },
   {
     "ETIT420": {
       "paperTitle": "Next Generation Networks",
-      "page": 0
+      "page": 94
     }
   },
   {
     "ETIT421": {
       "paperTitle": "Enterprise Computing in JAVA",
-      "page": 0
+      "page": 66
     }
   },
   {
     "ETIT422": {
       "paperTitle": "GPS and GIS",
-      "page": 0
+      "page": 95
     }
   },
   {
     "ETIT423": {
       "paperTitle": "System and Network Administrati on",
-      "page": 0
+      "page": 67
     }
   },
   {
     "ETIT425": {
       "paperTitle": "Grid Computing",
-      "page": 0
+      "page": 68
     }
   },
   {
     "ETIT427": {
       "paperTitle": "Advanced Database Administration",
-      "page": 0
+      "page": 69
     }
   },
   {
     "ETIT428": {
-      "paperTitle": "E-Commerce and M-Commerce ",
-      "page": 0
+      "paperTitle": "E-Commerce and M-Commerce",
+      "page": 97
     }
   },
   {
     "ETIT429": {
       "paperTitle": "Probabilistic Graphical Models",
-      "page": 0
+      "page": 70
     }
   },
   {
     "ETIT430": {
       "paperTitle": "Distributed Systems",
-      "page": 93
+      "page": 93,
+      "page_IT": 99
     }
   },
   {
     "ETIT432": {
       "paperTitle": "Selected Topics of Recent Trends in IT",
-      "page": 0
+      "page": 100
     }
   },
   {
@@ -2274,13 +2654,15 @@
   {
     "ETMA201": {
       "paperTitle": "Applied Mathematics-III",
-      "page": 11
+      "page": 11,
+      "page_IT": 11
     }
   },
   {
     "ETMA202": {
       "paperTitle": "Applied Mathematics-IV",
-      "page": 21
+      "page": 21,
+      "page_IT": 21
     }
   },
   {
@@ -2608,7 +2990,8 @@
   {
     "ETMS311": {
       "paperTitle": "Industrial Management",
-      "page": 35
+      "page": 35,
+      "page_IT": 35
     }
   },
   {

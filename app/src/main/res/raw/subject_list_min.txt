@@ -54,7 +54,11 @@
     "ETEC205",
     "ETEE207",
     "ETCS209",
-    "ETCS211"
+    "ETCS211",
+    "ETEC253",
+    "ETCS255",
+    "ETEE257",
+    "ETCS257"
    ],
    "ECE": [
     "ETMA201",
@@ -176,7 +180,13 @@
     "ETCS206",
     "ETCS208",
     "ETCS210",
-    "ETEE212"
+    "ETEE212",
+    "ETMA252",
+    "ETCS254",
+    "ETCS356",
+    "ETCS258",
+    "ETEE260",
+    "ETSS250"
    ],
    "ECE": [
     "ETMA202",
@@ -302,7 +312,13 @@
     "ETCS307",
     "ETMS311",
     "ETIT309",
-    "ETHS301"
+    "ETHS301",
+    "ETCS351",
+    "ETCS353",
+    "ETCS357",
+    "ETIT359",
+    "ETIT357",
+    "ETHS351"
    ],
    "ECE": [
     "ETHS301",
@@ -422,7 +438,11 @@
     "ETEC310",
     "ETCS308",
     "ETCS310",
-    "ETEE310"
+    "ETEE310",
+    "ETCS352",
+    "ETEC358",
+    "ETCS356",
+    "ETEE358"
    ],
    "ECE": [
     "ETEC302",
@@ -574,7 +594,13 @@
     "ETIT425",
     "ETIT427",
     "ETIT429",
-    "ETHS419"
+    "ETHS419",
+    "ETIT453",
+    "ETIT455",
+    "ETEC463",
+    "ETIT459",
+    "ETIT461",
+    "ETIT463"
    ],
    "ECE": [
     "ETEC401",
@@ -833,7 +859,13 @@
     "ETIT422",
     "ETEC404",
     "ETIT428",
-    "ETIT430"
+    "ETIT430",
+    "ETIT432",
+    "ETIT452",
+    "ETEC458",
+    "ETIT456",
+    "ETIT458",
+    "ETIT460"
    ],
    "ECE": [
     "ETHS402",
