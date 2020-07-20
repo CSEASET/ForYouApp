@@ -661,7 +661,12 @@
     "ETEN419",
     "ETEC421",
     "ETHS419",
-    "ETCS425"
+    "ETCS425",
+    "ETCE451",
+    "ETCE453",
+    "ETCE459",
+    "ETCE455",
+    "ETCE457"
    ],
    "ME": [
     "ETME401",
@@ -900,7 +905,10 @@
     "ETCE418",
     "ETEN418",
     "ETCE422",
-    "ETCE424"
+    "ETCE424",
+    "ETCE452",
+    "ETCE454",
+    "ETCE460"
    ],
    "ME": [
     "ETME402",

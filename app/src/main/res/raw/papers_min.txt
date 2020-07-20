@@ -278,55 +278,55 @@
   {
     "ETCE401": {
       "paperTitle": "Economics for Engineers",
-      "page": 0
+      "page": 62
     }
   },
   {
     "ETCE403": {
       "paperTitle": "Irrigation Engineering",
-      "page": 0
+      "page": 63
     }
   },
   {
     "ETCE404": {
-      "paperTitle": "Planning and Management",
-      "page": 0
+      "paperTitle": "Planning and Management of Construction Projects",
+      "page": 85
     }
   },
   {
     "ETCE405": {
-      "paperTitle": "Transportation Engineering",
-      "page": 0
+      "paperTitle": "Transportation Engineering-II",
+      "page": 64
     }
   },
   {
     "ETCE406": {
       "paperTitle": "Analysis and Design of Bridges",
-      "page": 0
+      "page": 87
     }
   },
   {
     "ETCE410": {
-      "paperTitle": "Transportation",
-      "page": 0
+      "paperTitle": "Transportation, Planning and Management",
+      "page": 88
     }
   },
   {
     "ETCE411": {
       "paperTitle": "Water Resource System planning",
-      "page": 0
+      "page": 65
     }
   },
   {
     "ETCE412": {
-      "paperTitle": "Ground Water Assessment",
-      "page": 0
+      "paperTitle": "Ground Water Assessment, Development Management",
+      "page": 90
     }
   },
   {
     "ETCE413": {
       "paperTitle": "Earthquake Technology",
-      "page": 0
+      "page": 67
     }
   },
   {
@@ -337,44 +337,44 @@
   },
   {
     "ETCE415": {
-      "paperTitle": "GEO -SYNTHETICS AND REINFORCED SOIL",
-      "page": 0
+      "paperTitle": "Geo-synthetics and Reinforced Soil",
+      "page": 69
     }
   },
   {
     "ETCE416": {
       "paperTitle": "Advance Geotechnical Engineering",
-      "page": 0
+      "page": 92
     }
   },
   {
     "ETCE417": {
       "paperTitle": "Structure Repair and Rehabilitation",
-      "page": 0
+      "page": 70
     }
   },
   {
     "ETCE418": {
       "paperTitle": "FEM in Structural Engineering",
-      "page": 0
+      "page": 94
     }
   },
   {
     "ETCE419": {
       "paperTitle": "Data Analytics",
-      "page": 0
+      "page": 71
     }
   },
   {
     "ETCE422": {
       "paperTitle": "Environment Engineering",
-      "page": 0
+      "page": 97
     }
   },
   {
     "ETCE424": {
-      "paperTitle": "Offshore Structural Engineering",
-      "page": 0
+      "paperTitle": "Offshore structural Engineering",
+      "page": 98
     }
   },
   {
@@ -644,7 +644,55 @@
   {
     "ETCS425": {
       "paperTitle": "Database Management Systems",
-      "page": 0
+      "page": 76
+    }
+  },
+  {
+    "ETCE451": {
+      "paperTitle": "Irrigation Engineering Design",
+      "page": 77
+    }
+  },
+  {
+    "ETCE453": {
+      "paperTitle": "Economics of Infrastructure Projects: Case Studies",
+      "page": 78
+    }
+  },
+  {
+    "ETCE459": {
+      "paperTitle": "Lab Based on Core and General Elective",
+      "page": 79
+    }
+  },
+  {
+    "ETCE455": {
+      "paperTitle": "Minor Project",
+      "page": 80
+    }
+  },
+  {
+    "ETCE457": {
+      "paperTitle": "Industrial Training related to Civil Engineering",
+      "page": 81
+    }
+  },
+  {
+    "ETCE452": {
+      "paperTitle": "Estimation of Projects using applicable software",
+      "page": 99
+    }
+  },
+  {
+    "ETCE454": {
+      "paperTitle": "Lab based on Elective I or II",
+      "page": 100
+    }
+  },
+  {
+    "ETCE460": {
+      "paperTitle": "Major Projects",
+      "page": 101
     }
   },
   {
@@ -872,7 +920,7 @@
   {
     "ETEC421": {
       "paperTitle": "Data Communications and Networks",
-      "page": 0
+      "page": 74
     }
   },
   {
@@ -1604,14 +1652,14 @@
   },
   {
     "ETEN418": {
-      "paperTitle": "Ground Water Contamination and Mitigation Measures",
-      "page": 0
+      "paperTitle": "Ground Water Contamination and Mitigation measures",
+      "page": 95
     }
   },
   {
     "ETEN419": {
-      "paperTitle": "Planning and design of Green buildings",
-      "page": 0
+      "paperTitle": "Planning and Design of Green buildings",
+      "page": 73
     }
   },
   {
@@ -1648,13 +1696,15 @@
   {
     "ETHS402": {
       "paperTitle": "Human Values and Professional Ethics-II",
-      "page": 85
+      "page": 85,
+      "page_CIVIL": 82
     }
   },
   {
     "ETHS419": {
       "paperTitle": "Sociology and Elements of Indian History for Engg",
-      "page": 70
+      "page": 70,
+      "page_CIVIL": 75
     }
   },
   {
