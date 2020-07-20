@@ -339,8 +339,13 @@
     "ETCE305",
     "ETCE307",
     "ETCE309",
-    "ETCE311"
-   ],
+    "ETCE311",
+    "ETHS351",
+    "ETCE353",
+    "ETCE355",
+    "ETCE357",
+    "ETCE359"
+   ]
    "ME": [
     "ETME301",
     "ETME303",
@@ -452,7 +457,12 @@
     "ETCE312",
     "ETEN302",
     "ETCE302",
-    "ETIT302"
+    "ETIT302",
+    "ETCE352",
+    "ETCE354",
+    "ETCE356",
+    "ETCE358",
+    "ETCE360"
    ],
    "ME": [
     "ETME302",

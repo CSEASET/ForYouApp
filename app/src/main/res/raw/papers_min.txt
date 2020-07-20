@@ -188,67 +188,91 @@
   {
     "ETCE302": {
       "paperTitle": "Operation Research and Management",
-      "page": 0
+      "page": 57
     }
   },
   {
     "ETCE303": {
       "paperTitle": "Advanced Structural Analysis",
-      "page": 0
+      "page": 38
     }
   },
   {
     "ETCE304": {
       "paperTitle": "Applications of Remote Sensing",
-      "page": 0
+      "page": 51
     }
   },
   {
     "ETCE305": {
       "paperTitle": "Design of Steel Structure",
-      "page": 0
+      "page": 36
     }
   },
   {
     "ETCE306": {
       "paperTitle": "Quantity Surveying and Cost Estimation",
-      "page": 0
+      "page": 52
     }
   },
   {
     "ETCE307": {
       "paperTitle": "Engineering Hydrology",
-      "page": 0
+      "page": 40
     }
   },
   {
     "ETCE308": {
-      "paperTitle": "Open Channel Flow",
-      "page": 0
+      "paperTitle": "Open Channel, flow and Numerical Hydraulics",
+      "page": 53
     }
   },
   {
     "ETCE309": {
       "paperTitle": "Geotechnical and Foundation Engineering",
-      "page": 0
+      "page": 42
     }
   },
   {
     "ETCE310": {
       "paperTitle": "Advanced Structural Design",
-      "page": 0
+      "page": 54
     }
   },
   {
     "ETCE311": {
       "paperTitle": "Wastewater Engineering and Reuse",
-      "page": 0
+      "page": 44
+    }
+  },
+  {
+    "ETCE353": {
+      "paperTitle": "Geotechnical Engineering Lab",
+      "page": 47
+    }
+  },
+  {
+    "ETCE355": {
+      "paperTitle": "Water and Wastewater Analysis Lab",
+      "page": 48
+    }
+  },
+  {
+    "ETCE357": {
+      "paperTitle": "Seminar on Civil projects/Visits/ Case Studies",
+      "page": 49
+    }
+  },
+  {
+    "ETCE359": {
+      "paperTitle": "Software Training",
+      "page": 50
     }
   },
   {
     "ETCE312": {
-      "paperTitle": "Transportation Engineering",
-      "page": 0
+      "paperTitle": "Transportation Engineering -I",
+      "page": 55
     }
   },
   {
@@ -1353,6 +1377,7 @@
     "ETHS351": {
       "paperTitle": "Communication Skills for Professionals Lab",
       "page": 43
+      "page_CIVIL": 46
     }
   },
   {
@@ -1466,7 +1491,7 @@
   {
     "ETEN302": {
       "paperTitle": "Environment System Optimization",
-      "page": 0
+      "page": 56
     }
   },
   {
@@ -1616,7 +1641,8 @@
   {
     "ETHS301": {
       "paperTitle": "Communication Skills For Professionals",
-      "page": 37
+      "page": 37,
+      "page_CIVIL": 36
     }
   },
   {
@@ -1820,7 +1846,37 @@
   {
     "ETIT302": {
       "paperTitle": "Decision Science",
-      "page": 0
+      "page": 58
+    }
+  },
+  {
+    "ETCE352": {
+      "paperTitle": "Transportation Engineering Lab",
+      "page": 59
+    }
+  },
+  {
+    "ETCE354": {
+      "paperTitle": "Applications of Remote Sensing Lab",
+      "page": 60
+    }
+  },
+  {
+    "ETCE356": {
+      "paperTitle": "Structures Design Lab",
+      "page": 61
+    }
+  },
+  {
+    "ETCE358": {
+      "paperTitle": "Seminar",
+      "page": 7
+    }
+  },
+  {
+    "ETCE360": {
+      "paperTitle": "Surveying Camp",
+      "page": 7
     }
   },
   {
