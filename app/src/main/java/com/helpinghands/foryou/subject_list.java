@@ -10,9 +10,10 @@ import android.graphics.PorterDuff;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.Handler;
-import android.support.v7.app.ActionBarActivity;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.view.menu.ActionMenuItemView;
+
 import android.os.Bundle;
-import android.support.v7.internal.view.menu.ActionMenuItemView;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -32,7 +33,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class subject_list extends ActionBarActivity {
+public class subject_list extends AppCompatActivity {
 
     Object codes = null;
     JSONArray papers = null;

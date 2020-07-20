@@ -1,13 +1,14 @@
 package com.helpinghands.foryou;
 
-import android.support.v7.app.ActionBarActivity;
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
 
-public class developer extends ActionBarActivity {
+public class developer extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

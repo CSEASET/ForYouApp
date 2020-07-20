@@ -16,6 +16,7 @@ import android.widget.TextView;
 
 import com.github.barteksc.pdfviewer.PDFView;
 import com.github.barteksc.pdfviewer.listener.OnPageErrorListener;
+import com.github.barteksc.pdfviewer.util.FitPolicy;
 
 import org.json.simple.*;
 import org.json.simple.parser.*;
@@ -60,6 +61,7 @@ public class showSyllabus extends Activity implements OnPageErrorListener {
         pdfView.fromAsset(paperCode)// getResources().getIdentifier("raw/" + paperCode, "raw", getPackageName())));
                 .spacing(5)
                 .defaultPage(20)
+                .pageFitPolicy(FitPolicy.WIDTH)
                 .load();
 
 //        paper = (JSONObject) ((JSONArray) findSubject(state).get(state)).get(0);

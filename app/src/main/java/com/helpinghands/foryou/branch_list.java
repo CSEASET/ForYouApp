@@ -1,14 +1,14 @@
 package com.helpinghands.foryou;
 
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
 
-public class branch_list extends ActionBarActivity {
+public class branch_list extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
