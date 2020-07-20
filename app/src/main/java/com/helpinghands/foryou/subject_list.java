@@ -1,5 +1,6 @@
 package com.helpinghands.foryou;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.content.ActivityNotFoundException;
 import android.content.DialogInterface;
@@ -181,10 +182,10 @@ public class subject_list extends AppCompatActivity {
         for (int i = 0; i < count; i++) {
             subCode = (String) subList.get(i);
             JSONObject subject = findSubject(subCode);
-            subjectName = (String) ((JSONObject) ((JSONArray) subject.get(subCode)).get(0)).get("paperTitle");
+            subjectName = (String) ((JSONObject) subject.get(subCode)).get("paperTitle");
             //Log.d("ass", ((JSONObject)((JSONArray) subject.get(subCode)).get(0)).get("paperTitle")+"");
             t = (TextView) ll.getChildAt(i + 1);
-            t.setTag(subCode);
+            t.setTag(subCode+"::"+year+"::"+sem+"::"+branch + "::20");
             LinearLayout.LayoutParams p = (LinearLayout.LayoutParams) t.getLayoutParams();
             p.height = (int) (70 * scale + 0.5f);
             t.setLayoutParams(p);
@@ -258,6 +259,7 @@ public class subject_list extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    @SuppressLint("RestrictedApi")
     void toggleFavoriteBranch() {
         if (toggleSet == 1) {
             SharedPreferences settings = getSharedPreferences(PREFS_NAME, 0);
