@@ -91,8 +91,8 @@
   },
   {
     "ETCE203": {
-      "paperTitle": "STRENGTH OF MATERIAL",
-      "page": 0
+      "paperTitle": "Strength of Material",
+      "page": 12
     }
   },
   {
@@ -103,8 +103,8 @@
   },
   {
     "ETCE205": {
-      "paperTitle": "FLUID MECHANICS",
-      "page": 0
+      "paperTitle": "Fluid Mechanics",
+      "page": 13
     }
   },
   {
@@ -115,8 +115,8 @@
   },
   {
     "ETCE207": {
-      "paperTitle": "BUILDING MATERIALS AND CONSTRUCTION",
-      "page": 0
+      "paperTitle": "Building Materials and Construction",
+      "page": 14
     }
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "ETCE211": {
-      "paperTitle": "ENGINEERING GEOLOGY",
-      "page": 0
+      "paperTitle": "Engineering Geology",
+      "page": 17
     }
   },
   {
@@ -1286,7 +1286,7 @@
   {
     "ETCS351": {
       "paperTitle": "Algorithms Design and Analysis Lab",
-      "page": 
+      "page": 39
     }
   },
   {
@@ -1976,7 +1976,37 @@
   {
     "ETMA203": {
       "paperTitle": "Numerical Analysis and Statistical Techniques",
-      "page": 0
+      "page": 11
+    }
+  },
+  {
+    "ETMA253": {
+      "paperTitle": "Numerical Analysis and Statistical Techniques lab",
+      "page": 18
+    }
+  },
+  {
+    "ETCE253": {
+      "paperTitle": "Fluid Mechanics Lab",
+      "page": 19
+    }
+  },
+  {
+    "ETCE255": {
+      "paperTitle": "Civil Engineering Drawing using CAD Lab",
+      "page": 20
+    }
+  },
+  {
+    "ETCE257": {
+      "paperTitle": "Surveying Lab",
+      "page": 21
+    }
+  },
+  {
+    "ETCE259": {
+      "paperTitle": "Geology and Building Material Lab",
+      "page": 22
     }
   },
   {
