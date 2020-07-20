@@ -2,24 +2,31 @@ package com.helpinghands.foryou;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Typeface;
 import android.os.Handler;
 import android.os.Bundle;
+import android.util.AttributeSet;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.github.barteksc.pdfviewer.PDFView;
+import com.github.barteksc.pdfviewer.listener.OnPageErrorListener;
 
 import org.json.simple.*;
 import org.json.simple.parser.*;
 
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.InputStreamReader;
 
 
-public class showSyllabus extends Activity {
+public class showSyllabus extends Activity implements OnPageErrorListener {
 
     protected JSONObject paper = null;
     Handler handler = new Handler();
@@ -30,6 +37,14 @@ public class showSyllabus extends Activity {
     String state;
     int paperCount;
 
+    PDFView pdfView;
+    final String TAG = "debug";
+
+    @Override
+    public void onPageError(int page, Throwable t) {
+        Log.e(TAG, "Cannot load page " + page);
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,19 +54,27 @@ public class showSyllabus extends Activity {
         //Log.d("state", intent.getStringExtra("state"));
         readSubjectFile();
         String paperCode = state;
-        paper = (JSONObject) ((JSONArray) findSubject(state).get(state)).get(0);
-        String paperTitle = paper.get("paperTitle").toString();
-        int paperCredits = Integer.parseInt(paper.get("paperCredits").toString());
-        JSONArray paperUnits = (JSONArray) paper.get("paperUnits");
-        //Log.d("fuck", paperUnits.toString());
-        viewHandler("paperCode", paperCode);
-        viewHandler("paperTitle", paperTitle);
-        viewHandler("paperCredits", paperCredits + "");
+        paperCode = "y1.pdf";
+        pdfView = findViewById(R.id.pdfView);
+        pdfView.setBackgroundColor(Color.BLACK);
+        pdfView.fromAsset(paperCode)// getResources().getIdentifier("raw/" + paperCode, "raw", getPackageName())));
+                .spacing(5)
+                .defaultPage(20)
+                .load();
 
-        for (int i = 0; i < paperUnits.size(); i++) {
-            ;//Log.d("sadf", ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitDetails").toString());
-            viewHandler1(i, ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitTitle").toString(), ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitDetails").toString());
-        }
+//        paper = (JSONObject) ((JSONArray) findSubject(state).get(state)).get(0);
+//        String paperTitle = paper.get("paperTitle").toString();
+//        int paperCredits = Integer.parseInt(paper.get("paperCredits").toString());
+//        JSONArray paperUnits = (JSONArray) paper.get("paperUnits");
+//        //Log.d("fuck", paperUnits.toString());
+//        viewHandler("paperCode", paperCode);
+//        viewHandler("paperTitle", paperTitle);
+//        viewHandler("paperCredits", paperCredits + "");
+//
+//        for (int i = 0; i < paperUnits.size(); i++) {
+//            ;//Log.d("sadf", ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitDetails").toString());
+//            viewHandler1(i, ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitTitle").toString(), ((JSONObject) ((JSONObject) paperUnits.get(i)).get("unit")).get("unitDetails").toString());
+//        }
     }
 
     JSONObject findSubject(String subCode) {
