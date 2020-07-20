@@ -8,7 +8,13 @@
     "ETEE107",
     "ETHS109",
     "ETCS111",
-    "ETCH113"
+    "ETCH113",
+    "ETPH151",
+    "ETEE153",
+    "ETME155",
+    "ETME157",
+    "ETCS157",
+    "ETCH161"
    ]
   },
   "2": {
@@ -19,7 +25,12 @@
     "ETCS108",
     "ETME110",
     "ETHS112",
-    "ETEN114"
+    "ETEN114",
+    "ETPH152",
+    "ETCS154",
+    "ETEC156",
+    "ETME158",
+    "ETEN160"
    ]
   }
  },

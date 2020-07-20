@@ -52,7 +52,6 @@ public class showSyllabus extends Activity implements OnPageErrorListener {
         Intent intent = getIntent();
         state = intent.getStringExtra("state");
         String[] parts = state.split("::?");
-        Toast.makeText(this, parts[3], Toast.LENGTH_SHORT).show();
         String search_term = parts[3];
         String page_number = parts[4];
         if (search_term.contains("ALL")) {

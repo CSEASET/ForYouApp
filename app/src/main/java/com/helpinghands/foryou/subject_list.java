@@ -182,10 +182,12 @@ public class subject_list extends AppCompatActivity {
         for (int i = 0; i < count; i++) {
             subCode = (String) subList.get(i);
             JSONObject subject = findSubject(subCode);
-            subjectName = (String) ((JSONObject) subject.get(subCode)).get("paperTitle");
+            JSONObject subjectObject = (JSONObject) subject.get(subCode);
+            subjectName = (String) subjectObject.get("paperTitle");
+            long subjectPage = (long) subjectObject.get("page");
             //Log.d("ass", ((JSONObject)((JSONArray) subject.get(subCode)).get(0)).get("paperTitle")+"");
             t = (TextView) ll.getChildAt(i + 1);
-            t.setTag(subCode+"::"+year+"::"+sem+"::"+branch + "::20");
+            t.setTag(subCode+"::"+year+"::"+sem+"::"+branch + "::"+(subjectPage-1));
             LinearLayout.LayoutParams p = (LinearLayout.LayoutParams) t.getLayoutParams();
             p.height = (int) (70 * scale + 0.5f);
             t.setLayoutParams(p);

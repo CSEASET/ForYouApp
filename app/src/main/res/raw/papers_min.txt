@@ -320,19 +320,55 @@
     {
         "ETCH113": {
             "paperTitle": "Applied Chemistry",
-            "page": 0
+            "page": 14
+        }
+    },
+    {
+        "ETPH151": {
+            "paperTitle": "APPLIED PHYSICS LAB – I",
+            "page": 15
+        }
+    },
+    {
+        "ETEE153": {
+            "paperTitle": "ELECTRICAL TECHNOLOGY LAB",
+            "page": 16
+        }
+    },
+    {
+        "ETME155": {
+            "paperTitle": "WORKSHOP PRACTICE",
+            "page": 17
+        }
+    },
+    {
+        "ETME157": {
+            "paperTitle": "ENGINEERING GRAPHICS",
+            "page": 18
+        }
+    },
+    {
+        "ETCS157": {
+            "paperTitle": "FUNDAMENTAL OF COMPUTING LAB",
+            "page": 19
+        }
+    },
+    {
+        "ETCH161": {
+            "paperTitle": "APPLIED CHEMISTRY LAB",
+            "page": 20
         }
     },
     {
         "ETCS108": {
             "paperTitle": "INTRODUCTION TO PROGRAMMING",
-            "page": 0
+            "page": 24
         }
     },
     {
         "ETCS111": {
             "paperTitle": "FUNDAMENTALS OF COMPUTING",
-            "page": 0
+            "page": 13
         }
     },
     {
@@ -584,7 +620,7 @@
     {
         "ETEC106": {
             "paperTitle": "ELECTRONIC DEVICES",
-            "page": 0
+            "page": 23
         }
     },
     {
@@ -824,7 +860,7 @@
     {
         "ETEE107": {
             "paperTitle": "ELECTRICAL TECHNOLOGY",
-            "page": 0
+            "page": 7
         }
     },
     {
@@ -1124,7 +1160,37 @@
     {
         "ETEN114": {
             "paperTitle": "ENVIRONMENTAL STUDIES",
-            "page": 0
+            "page": 27
+        }
+    },
+    {
+        "ETPH152": {
+            "paperTitle": "APPLIED PHYSICS LAB – II",
+            "page": 29
+        }
+    },
+    {
+        "ETEC156": {
+            "paperTitle": "Electronic Devices",
+            "page": 30
+        }
+    },
+    {
+        "ETME158": {
+            "paperTitle": "ENGINEERING MECHANICS LAB",
+            "page": 31
+        }
+    },
+    {
+        "ETEN160": {
+            "paperTitle": "ENVIRONMENTAL STUDIES LAB",
+            "page": 33
+        }
+    },
+    {
+        "ETCS154": {
+            "paperTitle": "PROGRAMMING LAB",
+            "page": 32
         }
     },
     {
@@ -1316,13 +1382,13 @@
     {
         "ETHS109": {
             "paperTitle": "HUMAN VALUES & PROFESSIONAL ETHICS",
-            "page": 0
+            "page": 8
         }
     },
     {
         "ETHS112": {
             "paperTitle": "COMMUNICATION SKILLS",
-            "page": 0
+            "page": 26
         }
     },
     {
@@ -1700,13 +1766,13 @@
     {
         "ETMA101": {
             "paperTitle": "APPLIED MATHEMATICS-I",
-            "page": 0
+            "page": 4
         }
     },
     {
         "ETMA102": {
             "paperTitle": "APPLIED MATHEMATICS-II",
-            "page": 0
+            "page": 21
         }
     },
     {
@@ -1730,13 +1796,13 @@
     {
         "ETME105": {
             "paperTitle": "MANUFACTURING PROCESSES",
-            "page": 0
+            "page": 6
         }
     },
     {
         "ETME110": {
             "paperTitle": "ENGINEERING MECHANICS",
-            "page": 0
+            "page": 25
         }
     },
     {
@@ -2456,13 +2522,13 @@
     {
         "ETPH103": {
             "paperTitle": "APPLIED PHYSICS – I",
-            "page": 0
+            "page": 5
         }
     },
     {
         "ETPH104": {
             "paperTitle": "APPLIED PHYSICS-II",
-            "page": 0
+            "page": 22
         }
     },
     {
