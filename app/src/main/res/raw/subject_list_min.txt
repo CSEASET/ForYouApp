@@ -219,7 +219,13 @@
     "ETCE206",
     "ETCE208",
     "ETCE210",
-    "ETCE212"
+    "ETCE212",
+    "ETCE252",
+    "ETCE254",
+    "ETCE256",
+    "ETCE258",
+    "ETCE260",
+    "ETSS250"
    ],
    "ME": [
     "ETME202",

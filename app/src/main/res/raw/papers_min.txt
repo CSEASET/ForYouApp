@@ -85,8 +85,8 @@
   },
   {
     "ETCE202": {
-      "paperTitle": "WATER ENGINEERING",
-      "page": 0
+      "paperTitle": "Water Engineering",
+      "page": 23
     }
   },
   {
@@ -97,8 +97,8 @@
   },
   {
     "ETCE204": {
-      "paperTitle": "STRUCTURAL ANALYSIS",
-      "page": 0
+      "paperTitle": "Structural Analysis",
+      "page": 24
     }
   },
   {
@@ -110,7 +110,7 @@
   {
     "ETCE206": {
       "paperTitle": "Hydraulics and Hydraulic Machines",
-      "page": 0
+      "page": 25
     }
   },
   {
@@ -121,8 +121,8 @@
   },
   {
     "ETCE208": {
-      "paperTitle": "ADVANCED SURVEYING",
-      "page": 0
+      "paperTitle": "Advanced Surveying",
+      "page": 26
     }
   },
   {
@@ -134,7 +134,7 @@
   {
     "ETCE210": {
       "paperTitle": "Soil Mechanics",
-      "page": 0
+      "page": 28
     }
   },
   {
@@ -145,8 +145,44 @@
   },
   {
     "ETCE212": {
-      "paperTitle": "DESIGN OF CONCRETE STRUCTURE",
-      "page": 0
+      "paperTitle": "Design of Concrete Structure",
+      "page": 30
+    }
+  },
+  {
+    "ETCE252": {
+      "paperTitle": "Cement and Concrete Testing Lab",
+      "page": 31
+    }
+  },
+  {
+    "ETCE254": {
+      "paperTitle": "Structure Lab",
+      "page": 32
+    }
+  },
+  {
+    "ETCE256": {
+      "paperTitle": "Hydraulics Lab",
+      "page": 33
+    }
+  },
+  {
+    "ETCE258": {
+      "paperTitle": "Advanced Surveying Lab",
+      "page": 34
+    }
+  },
+  {
+    "ETCE260": {
+      "paperTitle": "Seminar",
+      "page": 35
+    }
+  },
+  {
+    "ETSS250": {
+      "paperTitle": "NCC/NSS",
+      "page": 5
     }
   },
   {
