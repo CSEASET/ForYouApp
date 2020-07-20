@@ -147,7 +147,12 @@
     "ETCE205",
     "ETCE207",
     "ETEN209",
-    "ETEN211"
+    "ETEN211",
+    "ETMA253",
+    "ETCE253",
+    "ETCE255",
+    "ETEN257",
+    "ETEN259"
    ]
   },
   "2": {
@@ -265,7 +270,13 @@
     "ETEN206",
     "ETEN208",
     "ETEN210",
-    "ETEN212"
+    "ETEN212",
+    "ETEN252",
+    "ETEN254",
+    "ETEN256",
+    "ETEN258",
+    "ETEN260",
+    "ETSS250"
    ]
   }
  },
@@ -385,7 +396,11 @@
     "ETEN305",
     "ETEN307",
     "ETEN309",
-    "ETEN311"
+    "ETEN311",
+    "ETHS351",
+    "ETEN355",
+    "ETEN357",
+    "ETEN359"
    ]
   },
   "2": {
@@ -506,7 +521,13 @@
     "ETEN312",
     "ETEN302",
     "ETCE302",
-    "ETIT302"
+    "ETIT302",
+    "ETEN352",
+    "ETEN354",
+    "ETEN356",
+    "ETEN358",
+    "ETEN360",
+    "ETEN362"
    ]
   }
  },
@@ -755,10 +776,16 @@
     "ETCE411",
     "ETEN413",
     "ETEN415",
-    "ETEC419",
+    "ETCE419",
     "ETEC421",
     "ETCS425",
-    "ETEN421"
+    "ETEN421",
+    "ETHS419",
+    "ETEN451",
+    "ETEN453",
+    "ETEN455",
+    "ETEN457",
+    "ETEN459"
    ]
   },
   "2": {
@@ -983,11 +1010,15 @@
     "ETEN404",
     "ETEN406",
     "ETCE410",
-    "ETCS412",
-    "ETCE414",
+    "ETCE412",
+    "ETEN414",
     "ETEN416",
     "ETEN418",
-    "ETEN420"
+    "ETEN420",
+    "ETEN452",
+    "ETEN454",
+    "ETEN456",
+    "ETEN460"
    ]
   }
  }

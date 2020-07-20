@@ -92,7 +92,8 @@
   {
     "ETCE203": {
       "paperTitle": "Strength of Material",
-      "page": 12
+      "page": 12,
+      "page_ENV": 12
     }
   },
   {
@@ -104,7 +105,8 @@
   {
     "ETCE205": {
       "paperTitle": "Fluid Mechanics",
-      "page": 13
+      "page": 13,
+      "page_ENV": 13
     }
   },
   {
@@ -116,7 +118,8 @@
   {
     "ETCE207": {
       "paperTitle": "Building Materials and Construction",
-      "page": 14
+      "page": 14,
+      "page_ENV": 14
     }
   },
   {
@@ -182,13 +185,16 @@
   {
     "ETSS250": {
       "paperTitle": "NCC/NSS",
-      "page": 5
+      "page": 5,
+      "page_CIVIL": 5,
+      "page_ENV": 34
     }
   },
   {
     "ETCE302": {
       "paperTitle": "Operation Research and Management",
-      "page": 57
+      "page": 57,
+      "page_ENV": 54
     }
   },
   {
@@ -308,7 +314,8 @@
   {
     "ETCE410": {
       "paperTitle": "Transportation, Planning and Management",
-      "page": 88
+      "page": 88,
+      "page_ENV": 87
     }
   },
   {
@@ -319,8 +326,9 @@
   },
   {
     "ETCE412": {
-      "paperTitle": "Ground Water Assessment, Development Management",
-      "page": 90
+      "paperTitle": "Ground Water Assessment, Development and Management",
+      "page": 90,
+      "page_ENV": 89
     }
   },
   {
@@ -362,7 +370,8 @@
   {
     "ETCE419": {
       "paperTitle": "Data Analytics",
-      "page": 71
+      "page": 71,
+      "page_ENV": 69
     }
   },
   {
@@ -644,7 +653,8 @@
   {
     "ETCS425": {
       "paperTitle": "Database Management Systems",
-      "page": 76
+      "page": 76,
+      "page_ENV": 72
     }
   },
   {
@@ -920,7 +930,8 @@
   {
     "ETEC421": {
       "paperTitle": "Data Communications and Networks",
-      "page": 74
+      "page": 74,
+      "page_ENV": 71
     }
   },
   {
@@ -1368,12 +1379,6 @@
     }
   },
   {
-    "ETSS250": {
-      "paperTitle": "NCC/NSS",
-      "page": 5
-    }
-  },
-  {
     "ETEC463": {
       "paperTitle": "Wireless Communication Lab",
       "page": 73
@@ -1425,7 +1430,8 @@
     "ETHS351": {
       "paperTitle": "Communication Skills for Professionals Lab",
       "page": 43,
-      "page_CIVIL": 46
+      "page_CIVIL": 46,
+      "page_ENV": 43
     }
   },
   {
@@ -1491,169 +1497,327 @@
   {
     "ETEN202": {
       "paperTitle": "Physico-Chemical Treatment Processes",
-      "page": 0
+      "page": 22
     }
   },
   {
     "ETEN204": {
       "paperTitle": "Structural Engineering",
-      "page": 0
+      "page": 23
     }
   },
   {
     "ETEN206": {
       "paperTitle": "Environmental Hydraulics",
-      "page": 0
+      "page": 24
     }
   },
   {
     "ETEN208": {
       "paperTitle": "Introduction to Environmental Legislation",
-      "page": 0
+      "page": 25
     }
   },
   {
     "ETEN209": {
       "paperTitle": "Surveying",
-      "page": 0
+      "page": 15
     }
   },
   {
     "ETEN210": {
       "paperTitle": "Geotechnical Engineering",
-      "page": 0
+      "page": 26
     }
   },
   {
     "ETEN211": {
       "paperTitle": "Environmental Chemistry and Microbiology",
-      "page": 0
+      "page": 16
+    }
+  },
+  {
+    "ETEN259": {
+      "paperTitle": "Water and Waste water Analysis Lab",
+      "page": 21
+    }
+  },
+  {
+    "ETEN252": {
+      "paperTitle": "Water Engineering Design and Drawing Lab",
+      "page": 29
+    }
+  },
+  {
+    "ETEN254": {
+      "paperTitle": "Structure Lab",
+      "page": 30
+    }
+  },
+  {
+    "ETEN256": {
+      "paperTitle": "Environmental Hydraulics Lab",
+      "page": 31
+    }
+  },
+  {
+    "ETEN258": {
+      "paperTitle": "Air and Noise Pollution Monitoring and Design Lab",
+      "page": 32
+    }
+  },
+  {
+    "ETEN260": {
+      "paperTitle": "Seminar",
+      "page": 33
+    }
+  },
+  {
+    "ETEN353": {
+      "paperTitle": "Structure Design Lab",
+      "page": 44
+    }
+  },
+  {
+    "ETEN355": {
+      "paperTitle": "Material Testing Lab",
+      "page": 45
+    }
+  },
+  {
+    "ETEN357": {
+      "paperTitle": "Seminar on Environmental Engg projects/Visits/ Case Studies",
+      "page": 46
+    }
+  },
+  {
+    "ETEN359": {
+      "paperTitle": "Environmental Modelling / Software Training",
+      "page": 47
+    }
+  },
+  {
+    "ETEN352": {
+      "paperTitle": "Solid Waste Management Lab",
+      "page": 56
+    }
+  },
+  {
+    "ETEN354": {
+      "paperTitle": "Effluent Treatment System Design and Drawing Lab",
+      "page": 57
+    }
+  },
+  {
+    "ETEN356": {
+      "paperTitle": "Advance Design of Structures Lab",
+      "page": 58
+    }
+  },
+  {
+    "ETEN358": {
+      "paperTitle": "Economic Development and Environmental Concerns",
+      "page": 59
+    }
+  },
+  {
+    "ETEN360": {
+      "paperTitle": "Environmental Monitoring and Surveying Camp: Case Studies",
+      "page": 60
+    }
+  },
+  {
+    "ETEN362": {
+      "paperTitle": "Seminar",
+      "page": 61
+    }
+  },
+  {
+    "ETEN451": {
+      "paperTitle": "Applications of Remote sensing Lab",
+      "page": 75
+    }
+  },
+  {
+    "ETEN453": {
+      "paperTitle": "EIA and EMS Lab",
+      "page": 76
+    }
+  },
+  {
+    "ETEN455": {
+      "paperTitle": "Lab Based on Core or General Elective",
+      "page": 77
+    }
+  },
+  {
+    "ETEN457": {
+      "paperTitle": "Minor Project",
+      "page": 79
+    }
+  },
+  {
+    "ETEN459": {
+      "paperTitle": "Industrial Training",
+      "page": 80
+    }
+  },
+  {
+    "ETEN414": {
+      "paperTitle": "Environmental Preventive Health Issues",
+      "page": 91
+    }
+  },
+  {
+    "ETEN452": {
+      "paperTitle": "Estimation of Environmental Projects",
+      "page": 96
+    }
+  },
+  {
+    "ETEN454": {
+      "paperTitle": "Environment Modelling Applications",
+      "page": 97
+    }
+  },
+  {
+    "ETEN456": {
+      "paperTitle": "Lab Based on Core Electives",
+      "page": 9
+    }
+  },
+  {
+    "ETEN460": {
+      "paperTitle": "Major Project",
+      "page": 98
     }
   },
   {
     "ETEN212": {
       "paperTitle": "Air and Noise Pollution",
-      "page": 0
+      "page": 28
     }
   },
   {
     "ETEN302": {
       "paperTitle": "Environment System Optimization",
-      "page": 56
+      "page": 56,
+      "page_ENV": 53
     }
   },
   {
     "ETEN303": {
       "paperTitle": "Biochemical Processes in Wastewater Treatment",
-      "page": 0
+      "page": 37
     }
   },
   {
     "ETEN304": {
       "paperTitle": "Principles of Solid Waste Management",
-      "page": 0
+      "page": 48
     }
   },
   {
     "ETEN305": {
       "paperTitle": "Design of Structures",
-      "page": 0
+      "page": 38
     }
   },
   {
     "ETEN306": {
       "paperTitle": "Industrial Waste Management",
-      "page": 0
+      "page": 49
     }
   },
   {
     "ETEN307": {
       "paperTitle": "Hydrology and Drainage Engineering",
-      "page": 0
+      "page": 39
     }
   },
   {
     "ETEN308": {
       "paperTitle": "Economics for Engineers",
-      "page": 0
+      "page": 50
     }
   },
   {
     "ETEN309": {
       "paperTitle": "Environmental Instrumentation",
-      "page": 0
+      "page": 40
     }
   },
   {
     "ETEN310": {
       "paperTitle": "Advance Design of Structures",
-      "page": 0
+      "page": 51
     }
   },
   {
     "ETEN311": {
       "paperTitle": "Water Supply and Sewage System",
-      "page": 0
+      "page": 41
     }
   },
   {
     "ETEN312": {
       "paperTitle": "Transportation Engineering",
-      "page": 0
+      "page": 52
     }
   },
   {
     "ETEN401": {
       "paperTitle": "Biomedical, Hazardous and E-Waste Management",
-      "page": 0
+      "page": 62
     }
   },
   {
     "ETEN403": {
       "paperTitle": "EIA and EMS",
-      "page": 0
+      "page": 63
     }
   },
   {
     "ETEN404": {
       "paperTitle": "Planning and Management of Environment Projects",
-      "page": 0
+      "page": 84
     }
   },
   {
     "ETEN405": {
       "paperTitle": "Application of Remote Sensing and GIS",
-      "page": 0
+      "page": 64
     }
   },
   {
     "ETEN406": {
       "paperTitle": "Environmental Modeling",
-      "page": 0
+      "page": 86
     }
   },
   {
     "ETEN413": {
       "paperTitle": "Sustainable Energy Systems",
-      "page": 0
+      "page": 67
     }
   },
   {
     "ETEN415": {
       "paperTitle": "Advance Separation Process",
-      "page": 0
+      "page": 68
     }
   },
   {
     "ETEN416": {
-      "paperTitle": "Climate Change Assessment and Mitigation Measures",
-      "page": 0
+      "paperTitle": "Climate change assessment and mitigation measures",
+      "page": 92
     }
   },
   {
     "ETEN418": {
       "paperTitle": "Ground Water Contamination and Mitigation measures",
-      "page": 95
+      "page": 95,
+      "page_ENV": 93
     }
   },
   {
@@ -1665,13 +1829,13 @@
   {
     "ETEN420": {
       "paperTitle": "Bio and Chemical Technology Applications in Waste Management",
-      "page": 0
+      "page": 95
     }
   },
   {
     "ETEN421": {
       "paperTitle": "Planning and Design of Green Buildings",
-      "page": 0
+      "page": 73
     }
   },
   {
@@ -1690,21 +1854,24 @@
     "ETHS301": {
       "paperTitle": "Communication Skills For Professionals",
       "page": 37,
-      "page_CIVIL": 36
+      "page_CIVIL": 36,
+      "page_ENV": 35
     }
   },
   {
     "ETHS402": {
       "paperTitle": "Human Values and Professional Ethics-II",
       "page": 85,
-      "page_CIVIL": 82
+      "page_CIVIL": 82,
+      "page_ENV": 81
     }
   },
   {
     "ETHS419": {
       "paperTitle": "Sociology and Elements of Indian History for Engg",
       "page": 70,
-      "page_CIVIL": 75
+      "page_CIVIL": 75,
+      "page_ENV": 74
     }
   },
   {
@@ -1896,7 +2063,8 @@
   {
     "ETIT302": {
       "paperTitle": "Decision Science",
-      "page": 58
+      "page": 58,
+      "page_ENV": 55
     }
   },
   {
@@ -2118,25 +2286,29 @@
   {
     "ETMA203": {
       "paperTitle": "Numerical Analysis and Statistical Techniques",
-      "page": 11
+      "page": 11,
+      "page_ENV": 11
     }
   },
   {
     "ETMA253": {
       "paperTitle": "Numerical Analysis and Statistical Techniques lab",
-      "page": 18
+      "page": 18,
+      "page_ENV": 17
     }
   },
   {
     "ETCE253": {
       "paperTitle": "Fluid Mechanics Lab",
-      "page": 19
+      "page": 19,
+      "page_ENV": 18
     }
   },
   {
     "ETCE255": {
       "paperTitle": "Civil Engineering Drawing using CAD Lab",
-      "page": 20
+      "page": 20,
+      "page_ENV": 19
     }
   },
   {
