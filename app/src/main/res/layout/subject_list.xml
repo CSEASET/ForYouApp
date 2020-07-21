@@ -35,7 +35,24 @@
             <Button
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
+                android:textAllCaps="false"
                 android:layout_height="0dp"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:onClick="clickHandler"
+                android:layout_height="0dp"
+                android:textAllCaps="false"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:onClick="clickHandler"
+                android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -64,6 +81,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -71,6 +89,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -78,6 +97,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -85,6 +105,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -92,6 +113,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -99,6 +121,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -106,6 +129,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -113,6 +137,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -120,6 +145,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -127,6 +153,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -134,6 +161,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -141,6 +169,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -148,6 +177,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -155,6 +185,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -162,6 +193,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -169,6 +201,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -176,6 +209,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -183,6 +217,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 
@@ -190,20 +225,7 @@
                 android:layout_width="match_parent"
                 android:onClick="clickHandler"
                 android:layout_height="0dp"
-                android:background="?android:attr/selectableItemBackground"
-                android:layout_gravity="center_horizontal" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:onClick="clickHandler"
-                android:layout_height="0dp"
-                android:background="?android:attr/selectableItemBackground"
-                android:layout_gravity="center_horizontal" />
-
-            <Button
-                android:layout_width="match_parent"
-                android:onClick="clickHandler"
-                android:layout_height="0dp"
+                android:textAllCaps="false"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_gravity="center_horizontal" />
 

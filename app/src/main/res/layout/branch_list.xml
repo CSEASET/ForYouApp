@@ -119,8 +119,9 @@
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_height="60dp"
                 android:onClick="clickHandler"
-                android:tag="MECH"
-                android:text="MECH"
+                android:tag="Mechantronics"
+                android:textAllCaps="false"
+                android:text="Mechantronics"
                 android:layout_gravity="center_horizontal" />
 
             <Button
@@ -128,8 +129,9 @@
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_height="60dp"
                 android:onClick="clickHandler"
-                android:tag="POWER"
-                android:text="POWER"
+                android:tag="Power"
+                android:textAllCaps="false"
+                android:text="Power"
                 android:layout_gravity="center_horizontal" />
 
             <Button
@@ -137,8 +139,9 @@
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_height="60dp"
                 android:onClick="clickHandler"
-                android:tag="TOOL"
-                android:text="TOOL"
+                android:tag="Tool"
+                android:textAllCaps="false"
+                android:text="Tool"
                 android:layout_gravity="center_horizontal" />
 
             <Button
@@ -146,8 +149,9 @@
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_height="60dp"
                 android:onClick="clickHandler"
-                android:tag="ENV"
-                android:text="ENV"
+                android:tag="Environment"
+                android:textAllCaps="false"
+                android:text="Environment"
                 android:layout_gravity="center_horizontal" />
 
             <Button
