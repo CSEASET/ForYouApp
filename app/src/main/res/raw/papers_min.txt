@@ -710,120 +710,6 @@
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
     "ETCS301": {
       "paperTitle": "Algorithms Design and Analysis",
       "page": 32,
@@ -1696,7 +1582,7 @@
     "ETCS255": {
       "paperTitle": "Data Structures Lab",
       "page": 19,
-      "page_IT: 19,
+      "page_IT": 19,
       "page_ECE": 21
     }
   },
@@ -2263,7 +2149,7 @@
       "paperTitle": "Sociology and Elements of Indian History for Engg",
       "page": 70,
       "page_CIVIL": 75,
-      "page_ENV": 74.
+      "page_ENV": 74,
       "page_IT": 71,
       "page_ECE": 73
     }

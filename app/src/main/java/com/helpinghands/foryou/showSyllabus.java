@@ -91,7 +91,6 @@ public class showSyllabus extends Activity implements OnPageErrorListener {
                 .spacing(5)
                 .defaultPage(Integer.parseInt(page_number))
                 .pageFitPolicy(FitPolicy.WIDTH)
-                .nightMode(true)
                 .load();
 
 
