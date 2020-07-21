@@ -2,61 +2,61 @@
   {
     "ETAT202": {
       "paperTitle": "Theory of Machines",
-      "page": 0
+      "page": 24
     }
   },
   {
     "ETAT203": {
       "paperTitle": "Strenth Of Materials",
-      "page": 0
+      "page": 14
     }
   },
   {
     "ETAT204": {
       "paperTitle": "Fluid Systems",
-      "page": 0
+      "page": 23
     }
   },
   {
     "ETAT302": {
       "paperTitle": "Machine Design",
-      "page": 0
+      "page": 47
     }
   },
   {
     "ETAT303": {
-      "paperTitle": "Metal Cutting & Tool Design ",
-      "page": 0
+      "paperTitle": "Metal Cutting & Tool Design",
+      "page": 34
     }
   },
   {
     "ETAT304": {
       "paperTitle": "Automobile Engineering",
-      "page": 0
+      "page": 48
     }
   },
   {
     "ETAT305": {
       "paperTitle": "Heat Transfer & I. C. Engines",
-      "page": 0
+      "page": 35
     }
   },
   {
     "ETAT306": {
       "paperTitle": "Operations Research",
-      "page": 0
+      "page": 50
     }
   },
   {
     "ETAT307": {
       "paperTitle": "Metrology",
-      "page": 0
+      "page": 37
     }
   },
   {
     "ETAT401": {
       "paperTitle": "Computer Aided Design",
-      "page": 0
+      "page": 58
     }
   },
   {
@@ -64,25 +64,26 @@
       "paperTitle": "Mechatronics",
       "page": 63,
       "page_EEE": 63,
-      "page_ICE": 62
+      "page_ICE": 62,
+      "page_MAE": 61
     }
   },
   {
     "ETAT407": {
       "paperTitle": "Advanced Manufacturing Methods",
-      "page": 0
+      "page": 75
     }
   },
   {
     "ETAT432": {
       "paperTitle": "Gas Turbines and Compressors",
-      "page": 0
+      "page": 97
     }
   },
   {
     "ETAT442": {
       "paperTitle": "Process Planning and Cost Estimation",
-      "page": 0
+      "page": 102
     }
   },
   {
@@ -194,7 +195,8 @@
       "page_ECE": 5,
       "page_EE": 5,
       "page_EEE": 5,
-      "page_ICE": 5
+      "page_ICE": 5,
+      "page_MAE": 5
     }
   },
   {
@@ -526,7 +528,8 @@
       "paperTitle": "Data Communication and Networks Lab",
       "page": 51,
       "page_ECE": 55,
-      "page_ICE": 57
+      "page_ICE": 57,
+      "page_MAE": 55
     }
   },
   {
@@ -673,7 +676,8 @@
   {
     "ETEL355": {
       "paperTitle": "Control Systems Lab",
-      "page": 43
+      "page": 43,
+      "page_MAE": 45
     }
   },
   {
@@ -1014,7 +1018,7 @@
   {
     "ETCS411": {
       "paperTitle": "Introduction to Data Science",
-      "page": 0
+      "page": 73
     }
   },
   {
@@ -1092,7 +1096,8 @@
       "page_ECE": 66,
       "page_EE": 68,
       "page_EEE": 68,
-      "page_ICE": 67
+      "page_ICE": 67,
+      "page_MAE": 69
     }
   },
   {
@@ -1165,7 +1170,7 @@
   {
     "ETCS429": {
       "paperTitle": "Artificial Intelligence",
-      "page": 0
+      "page": 68
     }
   },
   {
@@ -1184,7 +1189,7 @@
   {
     "ETEC202": {
       "paperTitle": "Switching Theory and Logic Design",
-      "page": 0
+      "page": 27
     }
   },
   {
@@ -1287,7 +1292,8 @@
     "ETEC310": {
       "paperTitle": "Data Communication and Networks",
       "page": 46,
-      "page_ICE": 52
+      "page_ICE": 52,
+      "page_MAE": 49
     }
   },
   {
@@ -1585,13 +1591,13 @@
   {
     "ETEC432": {
       "paperTitle": "Image Processing and Machine Vision",
-      "page": 0
+      "page": 91
     }
   },
   {
     "ETEC434": {
       "paperTitle": "Microprocessor System Based Process Design",
-      "page": 0
+      "page": 96
     }
   },
   {
@@ -1707,7 +1713,8 @@
       "page": 49,
       "page_IT": 49,
       "page_EE": 50,
-      "page_EEE": 50
+      "page_EEE": 50,
+      "page_MAE": 52
     }
   },
   {
@@ -1729,7 +1736,8 @@
     "ETEE403": {
       "paperTitle": "Advanced Control Systems",
       "page": 57,
-      "page_EEE": 57
+      "page_EEE": 57,
+      "page_MAE": 71
     }
   },
   {
@@ -1827,7 +1835,8 @@
       "page": 67,
       "page_EE": 59,
       "page_EEE": 59,
-      "page_ICE": 68
+      "page_ICE": 68,
+      "page_MAE": 67
     }
   },
   {
@@ -1903,7 +1912,8 @@
   {
     "ETEL307": {
       "paperTitle": "Control Systems",
-      "page": 38
+      "page": 38,
+      "page_MAE": 39
     }
   },
   {
@@ -2029,7 +2039,8 @@
       "paperTitle": "Applied Mathematics Lab",
       "page": 27,
       "page_IT": 27,
-      "page_ECE": 29
+      "page_ECE": 29,
+      "page_MAE": 28
     }
   },
   {
@@ -2123,7 +2134,8 @@
       "page_ECE": 41,
       "page_EE": 45,
       "page_EEE": 45,
-      "page_ICE": 41
+      "page_ICE": 41,
+      "page_MAE": 46
     }
   },
   {
@@ -2170,7 +2182,8 @@
       "page": 53,
       "page_IT": 53,
       "page_EE": 55,
-      "page_EEE": 55
+      "page_EEE": 55,
+      "page_MAE": 57
     }
   },
   {
@@ -2557,7 +2570,8 @@
       "page_ECE": 34,
       "page_EE": 32,
       "page_EEE": 33,
-      "page_ICE": 33
+      "page_ICE": 33,
+      "page_MAE": 40
     }
   },
   {
@@ -2570,7 +2584,8 @@
       "page_ECE": 79,
       "page_EE": 78,
       "page_EEE": 79,
-      "page_ICE": 81
+      "page_ICE": 81,
+      "page_MAE": 88
     }
   },
   {
@@ -2583,7 +2598,8 @@
       "page_ECE": 73,
       "page_EE": 72,
       "page_EEE": 73,
-      "page_ICE": 74
+      "page_ICE": 74,
+      "page_MAE": 76
     }
   },
   {
@@ -2872,7 +2888,8 @@
     "ETIT410": {
       "paperTitle": "Soft Computing",
       "page": 91,
-      "page_IT": 86
+      "page_IT": 86,
+      "page_MAE": 92
     }
   },
   {
@@ -3021,7 +3038,8 @@
       "paperTitle": "Applied Mathematics-IV",
       "page": 21,
       "page_IT": 21,
-      "page_ECE": 23
+      "page_ECE": 23,
+      "page_MAE": 22
     }
   },
   {
@@ -3078,8 +3096,8 @@
   },
   {
     "ETME201": {
-      "paperTitle": "FLUID MECHANICS",
-      "page": 0
+      "paperTitle": "Fluid Mechanics",
+      "page": 11
     }
   },
   {
@@ -3090,8 +3108,8 @@
   },
   {
     "ETME203": {
-      "paperTitle": "THERMAL SCIENCE",
-      "page": 0
+      "paperTitle": "Thermal Science",
+      "page": 12
     }
   },
   {
@@ -3103,31 +3121,31 @@
   {
     "ETME205": {
       "paperTitle": "Production Technology",
-      "page": 0
+      "page": 15
     }
   },
   {
     "ETME206": {
       "paperTitle": "Manufacturing Machines",
-      "page": 0
+      "page": 25
     }
   },
   {
     "ETME207": {
-      "paperTitle": "MATERIAL SCIENCE & METALLURGY",
-      "page": 0
+      "paperTitle": "Material Science and Metallurgy",
+      "page": 16
     }
   },
   {
     "ETME208": {
-      "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
-      "page": 0
+      "paperTitle": "Measurements and Instrumentation",
+      "page": 26
     }
   },
   {
     "ETME209": {
       "paperTitle": "Electrical Machines",
-      "page": 0
+      "page": 17
     }
   },
   {
@@ -3150,8 +3168,8 @@
   },
   {
     "ETME301": {
-      "paperTitle": "Paper: Management of Manufacturing Systems",
-      "page": 0
+      "paperTitle": "Management of Manufacturing Systems",
+      "page": 33
     }
   },
   {
@@ -3193,7 +3211,7 @@
   {
     "ETME308": {
       "paperTitle": "Refrigeration & Air Conditioning",
-      "page": 0
+      "page": 51
     }
   },
   {
@@ -3211,13 +3229,13 @@
   {
     "ETME402": {
       "paperTitle": "Engineering System Modeling and Simulation",
-      "page": 0
+      "page": 87
     }
   },
   {
     "ETME403": {
       "paperTitle": "Computer Integrated Manufacturing",
-      "page": 0
+      "page": 59
     }
   },
   {
@@ -3229,13 +3247,13 @@
   {
     "ETME405": {
       "paperTitle": "Power Plant Engineering",
-      "page": 0
+      "page": 72
     }
   },
   {
     "ETME407": {
       "paperTitle": "Optimization Techniques",
-      "page": 0
+      "page": 63
     }
   },
   {
@@ -3247,19 +3265,19 @@
   {
     "ETME409": {
       "paperTitle": "Preventive Maintenance & Condition Monitoring",
-      "page": 0
+      "page": 64
     }
   },
   {
     "ETME411": {
       "paperTitle": "Computational Fluid Dynamics",
-      "page": 0
+      "page": 65
     }
   },
   {
     "ETME412": {
       "paperTitle": "Rapid Prototyping",
-      "page": 0
+      "page": 99
     }
   },
   {
@@ -3271,7 +3289,7 @@
   {
     "ETME414": {
       "paperTitle": "Applied Plasticity",
-      "page": 0
+      "page": 94
     }
   },
   {
@@ -3289,13 +3307,13 @@
   {
     "ETME417": {
       "paperTitle": "Advanced Material Science and Metallurgy",
-      "page": 0
+      "page": 70
     }
   },
   {
     "ETME421": {
-      "paperTitle": "Management Information Systems",
-      "page": 0
+      "paperTitle": "Management Information System and ERP",
+      "page": 74
     }
   },
   {
@@ -3307,19 +3325,19 @@
   {
     "ETME423": {
       "paperTitle": "Finite Element Methods",
-      "page": 0
+      "page": 66
     }
   },
   {
     "ETME424": {
       "paperTitle": "Cryogenic Engineering",
-      "page": 0
+      "page": 98
     }
   },
   {
     "ETME426": {
       "paperTitle": "Total Quality Management",
-      "page": 0
+      "page": 93
     }
   },
   {
@@ -3330,8 +3348,8 @@
   },
   {
     "ETME430": {
-      "paperTitle": "Computer Aided Graphics",
-      "page": 0
+      "paperTitle": "Computer Aided Graphics and Product design",
+      "page": 95
     }
   },
   {
@@ -3469,7 +3487,8 @@
     "ETMT402": {
       "paperTitle": "Robotics",
       "page": 94,
-      "page_ICE": 96
+      "page_ICE": 96,
+      "page_MAE": 86
     }
   },
   {
@@ -3565,7 +3584,7 @@
   {
     "ETMT428": {
       "paperTitle": "Flexible Manufacturing System",
-      "page": 0
+      "page": 100
     }
   },
   {
@@ -3985,7 +4004,7 @@
   {
     "ETTE424": {
       "paperTitle": "Supply Chain Management",
-      "page": 0
+      "page": 101
     }
   },
   {
@@ -4010,6 +4029,162 @@
     "ETTE429": {
       "paperTitle": "Ergonomics",
       "page": 0
+    }
+  },
+  {
+    "ETME251": {
+      "paperTitle": "Fluid Mechanics Lab",
+      "page": 18
+    }
+  },
+  {
+    "ETAT257": {
+      "paperTitle": "Strength of Material Lab",
+      "page": 19
+    }
+  },
+  {
+    "ETTE259": {
+      "paperTitle": "Machine Drawing Lab",
+      "page": 20
+    }
+  },
+  {
+    "ETME253": {
+      "paperTitle": "Electrical Machines Lab",
+      "page": 21
+    }
+  },
+  {
+    "ETAT254": {
+      "paperTitle": "Fluid Systems Lab",
+      "page": 29
+    }
+  },
+  {
+    "ETAT252": {
+      "paperTitle": "Theory of Machines Lab",
+      "page": 30
+    }
+  },
+  {
+    "ETME256": {
+      "paperTitle": "Manufacturing Machines Lab",
+      "page": 31
+    }
+  },
+  {
+    "ETEC252": {
+      "paperTitle": "Switching Theory and Logic Design Lab",
+      "page": 32
+    }
+  },
+  {
+    "ETAT351": {
+      "paperTitle": "Metal cutting and Tool Design Lab",
+      "page": 42
+    }
+  },
+  {
+    "ETAT353": {
+      "paperTitle": "Heat Transfer and I.C. Engine lab",
+      "page": 43
+    }
+  },
+  {
+    "ETAT355": {
+      "paperTitle": "Metrology lab",
+      "page": 44
+    }
+  },
+  {
+    "ETAT357": {
+      "paperTitle": "Industrial Training (conducted after fourth semester of 4-6 weeks)",
+      "page": 6
+    }
+  },
+  {
+    "ETAT352": {
+      "paperTitle": "Machine Design Lab",
+      "page": 53
+    }
+  },
+  {
+    "ETAT354": {
+      "paperTitle": "Automobile Engg Lab",
+      "page": 54
+    }
+  },
+  {
+    "ETME358": {
+      "paperTitle": "Refrigeration and Air Conditioning Lab",
+      "page": 56
+    }
+  },
+  {
+    "ETAT362": {
+      "paperTitle": "In-house training (two weeks)",
+      "page": 7
+    }
+  },
+  {
+    "ETAT451": {
+      "paperTitle": "Computer Aided Design Lab",
+      "page": 78
+    }
+  },
+  {
+    "ETME453": {
+      "paperTitle": "Computer Integrated Manufacturing Lab",
+      "page": 79
+    }
+  },
+  {
+    "ETAT453": {
+      "paperTitle": "Mechatronics Lab",
+      "page": 80
+    }
+  },
+  {
+    "ETAT455": {
+      "paperTitle": "Lab Based on Elective- I or II",
+      "page": 77
+    }
+  },
+  {
+    "ETAT457": {
+      "paperTitle": "Minor Project",
+      "page": 8
+    }
+  },
+  {
+    "ETAT459": {
+      "paperTitle": "Summer training",
+      "page": 8
+    }
+  },
+  {
+    "ETMT452": {
+      "paperTitle": "Robotics Lab",
+      "page": 103
+    }
+  },
+  {
+    "ETME452": {
+      "paperTitle": "Engineering System Modelling and Simulation Lab",
+      "page": 104
+    }
+  },
+  {
+    "ETAT456": {
+      "paperTitle": "Lab based on Elective III or IV",
+      "page": 107
+    }
+  },
+  {
+    "ETAT458": {
+      "paperTitle": "Major project",
+      "page": 9
     }
   }
 ]
