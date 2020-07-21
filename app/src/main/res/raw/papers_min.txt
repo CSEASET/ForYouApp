@@ -65,7 +65,8 @@
       "page": 63,
       "page_EEE": 63,
       "page_ICE": 62,
-      "page_MAE": 61
+      "page_MAE": 61,
+      "page_ME": 72
     }
   },
   {
@@ -196,7 +197,8 @@
       "page_EE": 5,
       "page_EEE": 5,
       "page_ICE": 5,
-      "page_MAE": 5
+      "page_MAE": 5,
+      "page_ME": 5
     }
   },
   {
@@ -677,7 +679,8 @@
     "ETEL355": {
       "paperTitle": "Control Systems Lab",
       "page": 43,
-      "page_MAE": 45
+      "page_MAE": 45,
+      "page_ME": 43
     }
   },
   {
@@ -1018,7 +1021,8 @@
   {
     "ETCS411": {
       "paperTitle": "Introduction to Data Science",
-      "page": 73
+      "page": 73,
+      "page_ME": 63
     }
   },
   {
@@ -1097,7 +1101,8 @@
       "page_EE": 68,
       "page_EEE": 68,
       "page_ICE": 67,
-      "page_MAE": 69
+      "page_MAE": 69,
+      "page_ME": 68
     }
   },
   {
@@ -1170,7 +1175,8 @@
   {
     "ETCS429": {
       "paperTitle": "Artificial Intelligence",
-      "page": 68
+      "page": 68,
+      "page_ME": 75
     }
   },
   {
@@ -1546,7 +1552,8 @@
     "ETEC420": {
       "paperTitle": "Data Communication & Networks",
       "page": 89,
-      "page_EEE": 92
+      "page_EEE": 92,
+      "page_ME": 98
     }
   },
   {
@@ -1836,7 +1843,8 @@
       "page_EE": 59,
       "page_EEE": 59,
       "page_ICE": 68,
-      "page_MAE": 67
+      "page_MAE": 67,
+      "page_ME": 69
     }
   },
   {
@@ -1913,7 +1921,8 @@
     "ETEL307": {
       "paperTitle": "Control Systems",
       "page": 38,
-      "page_MAE": 39
+      "page_MAE": 39,
+      "page_ME": 37
     }
   },
   {
@@ -2135,7 +2144,8 @@
       "page_EE": 45,
       "page_EEE": 45,
       "page_ICE": 41,
-      "page_MAE": 46
+      "page_MAE": 46,
+      "page_ME": 44
     }
   },
   {
@@ -2571,7 +2581,8 @@
       "page_EE": 32,
       "page_EEE": 33,
       "page_ICE": 33,
-      "page_MAE": 40
+      "page_MAE": 40,
+      "page_ME": 38
     }
   },
   {
@@ -2585,7 +2596,8 @@
       "page_EE": 78,
       "page_EEE": 79,
       "page_ICE": 81,
-      "page_MAE": 88
+      "page_MAE": 88,
+      "page_ME": 90
     }
   },
   {
@@ -2599,7 +2611,8 @@
       "page_EE": 72,
       "page_EEE": 73,
       "page_ICE": 74,
-      "page_MAE": 76
+      "page_MAE": 76,
+      "page_ME": 77
     }
   },
   {
@@ -2889,7 +2902,8 @@
       "paperTitle": "Soft Computing",
       "page": 91,
       "page_IT": 86,
-      "page_MAE": 92
+      "page_MAE": 92,
+      "page_ME": 97
     }
   },
   {
@@ -3046,14 +3060,16 @@
     "ETMA203": {
       "paperTitle": "Numerical Analysis and Statistical Techniques",
       "page": 11,
-      "page_ENV": 11
+      "page_ENV": 11,
+      "page_ME": 11
     }
   },
   {
     "ETMA253": {
       "paperTitle": "Numerical Analysis and Statistical Techniques lab",
       "page": 18,
-      "page_ENV": 17
+      "page_ENV": 17,
+      "page_ME": 17
     }
   },
   {
@@ -3102,188 +3118,203 @@
   },
   {
     "ETME202": {
-      "paperTitle": "KINEMATICS OF MACHINES",
-      "page": 0
+      "paperTitle": "Kinematics of Machines",
+      "page": 22
     }
   },
   {
     "ETME203": {
       "paperTitle": "Thermal Science",
-      "page": 12
+      "page": 12,
+      "page_ME": 13
     }
   },
   {
     "ETME204": {
-      "paperTitle": "STRENGTH OF MATERIALS-II",
-      "page": 0
+      "paperTitle": "Strength of Materials-II",
+      "page": 23
     }
   },
   {
     "ETME205": {
       "paperTitle": "Production Technology",
-      "page": 15
+      "page": 15,
+      "page_ME": 14
     }
   },
   {
     "ETME206": {
       "paperTitle": "Manufacturing Machines",
-      "page": 25
+      "page": 25,
+      "page_ME": 24
     }
   },
   {
     "ETME207": {
       "paperTitle": "Material Science and Metallurgy",
-      "page": 16
+      "page": 16,
+      "page_ME": 15
     }
   },
   {
     "ETME208": {
       "paperTitle": "Measurements and Instrumentation",
-      "page": 26
+      "page": 26,
+      "page_ME": 25
     }
   },
   {
     "ETME209": {
       "paperTitle": "Electrical Machines",
-      "page": 17
+      "page": 17,
+      "page_ME": 12
     }
   },
   {
     "ETME210": {
-      "paperTitle": "IC ENGINES & GAS TURBINES",
-      "page": 0
+      "paperTitle": "I.C Engines and Gas Turbine",
+      "page": 26
     }
   },
   {
     "ETME211": {
-      "paperTitle": "STRENGTH OF MATERIALS-I",
-      "page": 0
+      "paperTitle": "Strength of Materials-I",
+      "page": 16
     }
   },
   {
     "ETME212": {
-      "paperTitle": "FLUID MECHANICS",
-      "page": 0
+      "paperTitle": "Fluid Mechanics",
+      "page": 27
     }
   },
   {
     "ETME301": {
       "paperTitle": "Management of Manufacturing Systems",
-      "page": 33
+      "page": 33,
+      "page_ME": 33
     }
   },
   {
     "ETME302": {
       "paperTitle": "Machine Design-II",
-      "page": 0
+      "page": 45
     }
   },
   {
     "ETME303": {
       "paperTitle": "Heat Transfer",
-      "page": 0
+      "page": 34
     }
   },
   {
     "ETME304": {
-      "paperTitle": "Metal Cutting",
-      "page": 0
+      "paperTitle": "Metal Cutting and Tool Design",
+      "page": 46
     }
   },
   {
     "ETME305": {
       "paperTitle": "Dynamics of Machines",
-      "page": 0
+      "page": 35
     }
   },
   {
     "ETME306": {
       "paperTitle": "Fluid Systems",
-      "page": 0
+      "page": 47
     }
   },
   {
     "ETME307": {
-      "paperTitle": "Machine Design",
-      "page": 0
+      "paperTitle": "Machine Design - I",
+      "page": 36
     }
   },
   {
     "ETME308": {
       "paperTitle": "Refrigeration & Air Conditioning",
-      "page": 51
+      "page": 51,
+      "page_ME": 48
     }
   },
   {
     "ETME312": {
       "paperTitle": "Metrology",
-      "page": 0
+      "page": 50
     }
   },
   {
     "ETME401": {
       "paperTitle": "Automobile Engineering",
-      "page": 0
+      "page": 57
     }
   },
   {
     "ETME402": {
       "paperTitle": "Engineering System Modeling and Simulation",
-      "page": 87
+      "page": 87,
+      "page_ME": 88
     }
   },
   {
     "ETME403": {
       "paperTitle": "Computer Integrated Manufacturing",
-      "page": 59
+      "page": 59,
+      "page_ME": 57
     }
   },
   {
     "ETME404": {
       "paperTitle": "Statistical Quality Control and Reliability",
-      "page": 0
+      "page": 89
     }
   },
   {
     "ETME405": {
       "paperTitle": "Power Plant Engineering",
-      "page": 72
+      "page": 72,
+      "page_ME": 60
     }
   },
   {
     "ETME407": {
       "paperTitle": "Optimization Techniques",
-      "page": 63
+      "page": 63,
+      "page_ME": 61
     }
   },
   {
     "ETME408": {
       "paperTitle": "Nuclear Power Generation and Supply",
-      "page": 0
+      "page": 93
     }
   },
   {
     "ETME409": {
       "paperTitle": "Preventive Maintenance & Condition Monitoring",
-      "page": 64
+      "page": 64,
+      "page_ME": 62
     }
   },
   {
     "ETME411": {
       "paperTitle": "Computational Fluid Dynamics",
-      "page": 65
+      "page": 65,
+      "page_ME": 76
     }
   },
   {
     "ETME412": {
       "paperTitle": "Rapid Prototyping",
-      "page": 99
+      "page": 99,
+      "page_ME": 95
     }
   },
   {
     "ETME413": {
       "paperTitle": "NonNon-Conventional Manufacturing Processes",
-      "page": 0
+      "page": 64
     }
   },
   {
@@ -3295,55 +3326,60 @@
   {
     "ETME415": {
       "paperTitle": "Geometric Modelling and Product Design",
-      "page": 0
+      "page": 65
     }
   },
   {
     "ETME416": {
       "paperTitle": "Mechanical Vibrations",
-      "page": 0
+      "page": 96
     }
   },
   {
     "ETME417": {
       "paperTitle": "Advanced Material Science and Metallurgy",
-      "page": 70
+      "page": 70,
+      "page_ME": 66
     }
   },
   {
     "ETME421": {
       "paperTitle": "Management Information System and ERP",
-      "page": 74
+      "page": 74,
+      "page_ME": 70
     }
   },
   {
     "ETME422": {
       "paperTitle": "Gas Dynamics",
-      "page": 0
+      "page": 99
     }
   },
   {
     "ETME423": {
       "paperTitle": "Finite Element Methods",
-      "page": 66
+      "page": 66,
+      "page_ME": 71
     }
   },
   {
     "ETME424": {
       "paperTitle": "Cryogenic Engineering",
-      "page": 98
+      "page": 98,
+      "page_ME": 100
     }
   },
   {
     "ETME426": {
       "paperTitle": "Total Quality Management",
-      "page": 93
+      "page": 93,
+      "page_ME": 101
     }
   },
   {
     "ETME427": {
       "paperTitle": "Rotor Dynamics",
-      "page": 0
+      "page": 74
     }
   },
   {
@@ -3355,13 +3391,13 @@
   {
     "ETME432": {
       "paperTitle": "Turbo Machinery",
-      "page": 0
+      "page": 103
     }
   },
   {
     "ETMS310": {
       "paperTitle": "Organizational Behaviour",
-      "page": 0
+      "page": 49
     }
   },
   {
@@ -3488,7 +3524,8 @@
       "paperTitle": "Robotics",
       "page": 94,
       "page_ICE": 96,
-      "page_MAE": 86
+      "page_MAE": 86,
+      "page_ME": 94
     }
   },
   {
@@ -3578,7 +3615,7 @@
   {
     "ETMT427": {
       "paperTitle": "Operations Research",
-      "page": 0
+      "page": 67
     }
   },
   {
@@ -4004,7 +4041,8 @@
   {
     "ETTE424": {
       "paperTitle": "Supply Chain Management",
-      "page": 101
+      "page": 101,
+      "page_ME": 102
     }
   },
   {
@@ -4046,13 +4084,15 @@
   {
     "ETTE259": {
       "paperTitle": "Machine Drawing Lab",
-      "page": 20
+      "page": 20,
+      "page_ME": 21
     }
   },
   {
     "ETME253": {
       "paperTitle": "Electrical Machines Lab",
-      "page": 21
+      "page": 21,
+      "page_ME": 18
     }
   },
   {
@@ -4070,7 +4110,8 @@
   {
     "ETME256": {
       "paperTitle": "Manufacturing Machines Lab",
-      "page": 31
+      "page": 31,
+      "page_ME": 30
     }
   },
   {
@@ -4118,7 +4159,8 @@
   {
     "ETME358": {
       "paperTitle": "Refrigeration and Air Conditioning Lab",
-      "page": 56
+      "page": 56,
+      "page_ME": 55
     }
   },
   {
@@ -4136,7 +4178,8 @@
   {
     "ETME453": {
       "paperTitle": "Computer Integrated Manufacturing Lab",
-      "page": 79
+      "page": 79,
+      "page_ME": 79
     }
   },
   {
@@ -4172,7 +4215,8 @@
   {
     "ETME452": {
       "paperTitle": "Engineering System Modelling and Simulation Lab",
-      "page": 104
+      "page": 104,
+      "page_ME": 104
     }
   },
   {
@@ -4185,6 +4229,306 @@
     "ETAT458": {
       "paperTitle": "Major project",
       "page": 9
+    }
+  },
+  {
+    "ETME257": {
+      "paperTitle": "Strength of Materials-I Lab",
+      "page": 20
+    }
+  },
+  {
+    "ETME252": {
+      "paperTitle": "Kinematics of Machines Lab",
+      "page": 28
+    }
+  },
+  {
+    "ETME254": {
+      "paperTitle": "Strength of Material Lab-II",
+      "page": 29
+    }
+  },
+  {
+    "ETME258": {
+      "paperTitle": "I.C. Engines and Gas Turbine lab",
+      "page": 31
+    }
+  },
+  {
+    "ETME260": {
+      "paperTitle": "Fluid Mechanics Lab",
+      "page": 32
+    }
+  },
+  {
+    "ETME351": {
+      "paperTitle": "Heat Transfer Lab",
+      "page": 40
+    }
+  },
+  {
+    "ETME353": {
+      "paperTitle": "Dynamics of Machines Lab",
+      "page": 41
+    }
+  },
+  {
+    "ETME355": {
+      "paperTitle": "Machine Design - I Lab",
+      "page": 42
+    }
+  },
+  {
+    "ETME361": {
+      "paperTitle": "Industrial Training/In-House",
+      "page": 6
+    }
+  },
+  {
+    "ETME352": {
+      "paperTitle": "Machine Design-II Lab",
+      "page": 52
+    }
+  },
+  {
+    "ETME354": {
+      "paperTitle": "Metal Cutting and Tool Design Lab",
+      "page": 53
+    }
+  },
+  {
+    "ETME356": {
+      "paperTitle": "Fluid Systems Lab",
+      "page": 54
+    }
+  },
+  {
+    "ETME360": {
+      "paperTitle": "Metrology Lab",
+      "page": 56
+    }
+  },
+  {
+    "ETME362": {
+      "paperTitle": "In-house training (two weeks)",
+      "page": 7
+    }
+  },
+  {
+    "ETME451": {
+      "paperTitle": "Automobile Engineering Lab",
+      "page": 78
+    }
+  },
+  {
+    "ETME455": {
+      "paperTitle": "Lab Based on Elective- I or II",
+      "page": 80
+    }
+  },
+  {
+    "ETME457": {
+      "paperTitle": "Minor Project",
+      "page": 8
+    }
+  },
+  {
+    "ETME255": {
+      "paperTitle": "Production Technology Lab",
+      "page": 19
+    }
+  },
+  {
+    "ETME461": {
+      "paperTitle": "Industrial Training",
+      "page": 8
+    }
+  },
+  {
+    "ETME454": {
+      "paperTitle": "Statistical Quality Control and Reliability Lab",
+      "page": 105
+    }
+  },
+  {
+    "ETME456": {
+      "paperTitle": "Lab Based on Elective III or IV",
+      "page": 106
+    }
+  },
+  {
+    "ETME458": {
+      "paperTitle": "Major project",
+      "page": 9
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "ETME459": {
+      "paperTitle": "Seminar",
+      "page": 8
     }
   }
 ]

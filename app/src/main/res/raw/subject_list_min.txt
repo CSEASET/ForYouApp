@@ -142,7 +142,12 @@
         "ETME203",
         "ETME205",
         "ETME207",
-        "ETME211"
+        "ETME211",
+        "ETMA253",
+        "ETME253",
+        "ETME255",
+        "ETME257",
+        "ETTE259"
       ],
       "MECH": [
         "ETEC205",
@@ -300,7 +305,13 @@
         "ETME206",
         "ETME208",
         "ETME210",
-        "ETME212"
+        "ETME212",
+        "ETME252",
+        "ETME254",
+        "ETME256",
+        "ETME-258",
+        "ETME260",
+        "ETSS250"
       ],
       "MECH": [
         "ETMT202",
@@ -461,7 +472,13 @@
         "ETME305",
         "ETME307",
         "ETEL307",
-        "ETHS301"
+        "ETHS301",
+        "ETME351",
+        "ETME353",
+        "ETME355",
+        "ETEL355",
+        "ETHS351",
+        "ETME361"
       ],
       "MECH": [
         "ETHS301",
@@ -611,7 +628,13 @@
         "ETME306",
         "ETME308",
         "ETMS310",
-        "ETME312"
+        "ETME312",
+        "ETME352",
+        "ETME354",
+        "ETME356",
+        "ETME358",
+        "ETME360",
+        "ETME362"
       ],
       "MECH": [
         "ETMT302",
@@ -870,7 +893,13 @@
         "ETME427",
         "ETCS429",
         "ETME411",
-        "ETHS419"
+        "ETHS419",
+        "ETME451",
+        "ETME453",
+        "ETME455",
+        "ETME457",
+        "ETME459",
+        "ETME461"
       ],
       "MECH": [
         "ETAT401",
@@ -1136,7 +1165,11 @@
         "ETME424",
         "ETME426",
         "ETTE424",
-        "ETME432"
+        "ETME432",
+        "ETME452",
+        "ETME454",
+        "ETME456",
+        "ETME458"
       ],
       "MECH": [
         "ETMT402",
