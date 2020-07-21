@@ -21,7 +21,7 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:text="For You (2015) DEVELOPED BY\n"
+                android:text="For You (2015) Developed By\n"
                 android:layout_width="match_parent"
                 android:gravity="center"
                 android:textStyle="bold"
@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content" />
 
             <TextView
-                android:text="Vijayant Saini (CSE - I Year)\nvijayant.saini123@gmail.com\n Chirag Bansal (CSE - I Year)\nchirag2120787@gmail.com\n\n"
+                android:text="For You has been developed by For You IT Solutions (https://foryouitsolutions.github.io). We are a group of students at ASET, Delhi. For You App is an open source project and is hosted at https://github.com/CSEASET/ForYouApp\n\n"
                 android:layout_width="wrap_content"
                 android:textIsSelectable="true"
                 android:gravity="center"
@@ -41,7 +41,7 @@
                 android:layout_gravity="center_horizontal" />
 
             <TextView
-                android:text="GRAPHICS BY\n"
+                android:text="Privacy Policy\n"
                 android:layout_width="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
@@ -52,7 +52,7 @@
                 android:layout_gravity="center_horizontal" />
 
             <TextView
-                android:text="Mohit Kumar (CSE - I Year)\nmohitme100@gmail.com\n\n"
+                android:text="This app respects the privacy of it's users. IT DOES NOT TRACK ANY USER DATA.\n\n"
                 android:layout_width="wrap_content"
                 android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceMedium"
@@ -62,7 +62,7 @@
                 android:layout_gravity="center_horizontal" />
 
             <TextView
-                android:text="PUBLISHED BY\n"
+                android:text="Published By\n"
                 android:layout_width="wrap_content"
                 android:gravity="center"
                 android:textStyle="bold"
@@ -73,34 +73,13 @@
                 android:layout_gravity="center_horizontal" />
 
             <TextView
-                android:text="GSC ASET\nIshan Guliani (CSE - III Year)\nDhruv Kalia (CSE - III Year)\n\n"
+                android:text="Google Student Consortium (ASET), ASET, Delhi\n\n"
                 android:layout_width="wrap_content"
                 android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="#3D3D3D"
                 android:layout_height="wrap_content"
                 android:id="@+id/textView6"
-                android:layout_gravity="center_horizontal" />
-
-            <TextView
-                android:text="BETA TESTER\n"
-                android:layout_width="wrap_content"
-                android:gravity="center"
-                android:textStyle="bold"
-                android:textAppearance="?android:attr/textAppearanceLarge"
-                android:textColor="#3D3D3D"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView7"
-                android:layout_gravity="center_horizontal" />
-
-            <TextView
-                android:text="Madhur Mittal (CSE - I Year)\nmadhurmittal1807@gmail.com\n"
-                android:layout_width="wrap_content"
-                android:gravity="center"
-                android:textAppearance="?android:attr/textAppearanceMedium"
-                android:textColor="#3D3D3D"
-                android:layout_height="wrap_content"
-                android:id="@+id/textView8"
                 android:layout_gravity="center_horizontal" />
         </LinearLayout>
     </ScrollView>
