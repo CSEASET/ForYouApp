@@ -92,7 +92,12 @@
     "ETEE205",
     "ETEE207",
     "ETCS209",
-    "ETEE211"
+    "ETEE211",
+    "ETEC251",
+    "ETEE253",
+    "ETCS255",
+    "ETEE257",
+    "ETEE259"
    ],
    "ICE": [
     "ETMA201",
@@ -231,7 +236,13 @@
     "ETEE206",
     "ETEE208",
     "ETEE210",
-    "ETEE212"
+    "ETEE212",
+    "ETEE252",
+    "ETEC254",
+    "ETEE256",
+    "ETEE258",
+    "ETEE260",
+    "ETSS250"
    ],
    "ICE": [
     "ETIC204",
@@ -375,7 +386,13 @@
     "ETEE305",
     "ETEE307",
     "ETEE309",
-    "ETMS311"
+    "ETMS311",
+    "ETEE351",
+    "ETEE353",
+    "ETEE355",
+    "ETEE357",
+    "ETEE359",
+    "ETHS351"
    ],
    "ICE": [
     "ETHS301",
@@ -508,7 +525,11 @@
     "ETEC306",
     "ETEC308",
     "ETEE310",
-    "ETEE312"
+    "ETEE312",
+    "ETEE352",
+    "ETEE354",
+    "ETEC356",
+    "ETEE358"
    ],
    "ICE": [
     "ETIC302",
@@ -712,7 +733,12 @@
     "ETEC427",
     "ETEE431",
     "ETEL405",
-    "ETHS419"
+    "ETHS419",
+    "ETEE451",
+    "ETEE453",
+    "ETEE455",
+    "ETEE457",
+    "ETEE459"
    ],
    "ICE": [
     "ETIC401",
@@ -979,7 +1005,10 @@
     "ETEE426",
     "ETEE428",
     "ETEC430",
-    "ETEE432"
+    "ETEE432",
+    "ETEE452",
+    "ETEE454",
+    "ETEE456"
    ],
    "ICE": [
     "ETHS402",
