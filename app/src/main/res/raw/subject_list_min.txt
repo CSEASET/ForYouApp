@@ -79,7 +79,12 @@
     "ETEE205",
     "ETEE207",
     "ETCS209",
-    "ETEE211"
+    "ETEE211",
+    "ETEL251",
+    "ETEE253",
+    "ETCS255",
+    "ETEE257",
+    "ETEE259"
    ],
    "EEE": [
     "ETMA201",
@@ -213,7 +218,12 @@
     "ETEE206",
     "ETEL208",
     "ETEE210",
-    "ETEL204"
+    "ETEL204",
+    "ETEE252",
+    "ETEE260",
+    "ETEE256",
+    "ETEL258",
+    "ETSS250"
    ],
    "EEE": [
     "ETEE202",
@@ -351,7 +361,13 @@
     "ETEL305",
     "ETEE307",
     "ETEE309",
-    "ETMS311"
+    "ETMS311",
+    "ETEL351",
+    "ETEE353",
+    "ETEE355",
+    "ETEE357",
+    "ETEL359",
+    "ETHS351"
    ],
    "EEE": [
     "ETHS301",
@@ -480,7 +496,11 @@
     "ETEL306",
     "ETEL308",
     "ETEE310",
-    "ETEE312"
+    "ETEE312",
+    "ETEE352",
+    "ETEE354",
+    "ETEL356",
+    "ETEE358"
    ],
    "EEE": [
     "ETEE302",
@@ -667,7 +687,13 @@
     "ETIC403",
     "ETEC427",
     "ETEE431",
-    "ETHS419"
+    "ETHS419",
+    "ETEE451",
+    "ETEE453",
+    "ETEL455",
+    "ETEL457",
+    "ETEL459",
+    "ETEL461"
    ],
    "EEE": [
     "ETEE401",
@@ -931,7 +957,10 @@
     "ETEE426",
     "ETEE428",
     "ETEC430",
-    "ETEE432"
+    "ETEE432",
+    "ETEL452",
+    "ETEL454",
+    "ETEL456"
    ],
    "EEE": [
     "ETEE404",

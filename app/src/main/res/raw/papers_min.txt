@@ -62,7 +62,7 @@
   {
     "ETAT403": {
       "paperTitle": "Mechatronics",
-      "page": 0
+      "page": 63
     }
   },
   {
@@ -189,7 +189,8 @@
       "page_CIVIL": 5,
       "page_ENV": 34,
       "page_IT": 5,
-      "page_ECE": 5
+      "page_ECE": 5,
+      "page_EE": 5
     }
   },
   {
@@ -475,7 +476,8 @@
       "paperTitle": "Data Structures",
       "page": 15,
       "page_IT": 15,
-      "page_ECE": 15
+      "page_ECE": 15,
+      "page_EE": 15
     }
   },
   {
@@ -495,7 +497,8 @@
   {
     "ETEE260": {
       "paperTitle": "Control Systems Lab",
-      "page": 31
+      "page": 31,
+      "page_EE": 29
     }
   },
   {
@@ -890,7 +893,8 @@
       "paperTitle": "Database Management Systems",
       "page": 76,
       "page_ENV": 72,
-      "page_ECE": 66
+      "page_ECE": 66,
+      "page_EE": 68
     }
   },
   {
@@ -969,7 +973,7 @@
   {
     "ETCS430": {
       "paperTitle": "Object Oriented Programming Using C++",
-      "page": 0
+      "page": 90
     }
   },
   {
@@ -1096,7 +1100,8 @@
     "ETEC403": {
       "paperTitle": "Optoelectronics and Optical Communication",
       "page": 58,
-      "page_ECE": 57
+      "page_ECE": 57,
+      "page_EE": 67
     }
   },
   {
@@ -1104,6 +1109,144 @@
       "paperTitle": "Satellite Communication",
       "page": 96,
       "page_ECE": 82
+    }
+  },
+  {
+    "ETEL452": {
+      "paperTitle": "Power System Analysis and Stability Lab",
+      "page": 95
+    }
+  },
+  {
+    "ETEL454": {
+      "paperTitle": "Digital Signal Processing Lab",
+      "page": 96
+    }
+  },
+  {
+    "ETEL456": {
+      "paperTitle": "Major Project",
+      "page": 9
+    }
+  },
+  {
+    "ETEL251": {
+      "paperTitle": "Analog Electronics Lab",
+      "page": 17
+    }
+  },
+  {
+    "ETEE253": {
+      "paperTitle": "Electrical Machines-I Lab",
+      "page": 18
+    }
+  },
+  {
+    "ETEE259": {
+      "paperTitle": "Scientific Computing Lab",
+      "page": 21
+    }
+  },
+  {
+    "ETEE252": {
+      "paperTitle": "Electrical Machines-II Lab",
+      "page": 28
+    }
+  },
+  {
+    "ETEE256": {
+      "paperTitle": "Power System-I Lab",
+      "page": 30
+    }
+  },
+  {
+    "ETEL258": {
+      "paperTitle": "Electrical Measuring Instruments and Transducers Lab",
+      "page": 31
+    }
+  },
+  {
+    "ETEL351": {
+      "paperTitle": "Signals and Systems Lab",
+      "page": 40
+    }
+  },
+  {
+    "ETEE353": {
+      "paperTitle": "Power Electronics Lab",
+      "page": 41
+    }
+  },
+  {
+    "ETEE355": {
+      "paperTitle": "Switching Theory and Logic Design Lab",
+      "page": 42
+    }
+  },
+  {
+    "ETEE357": {
+      "paperTitle": "Communication Systems Lab",
+      "page": 43
+    }
+  },
+  {
+    "ETEL359": {
+      "paperTitle": "Electrical Workshop",
+      "page": 44
+    }
+  },
+  {
+    "ETEE352": {
+      "paperTitle": "Power System – II Lab",
+      "page": 52
+    }
+  },
+  {
+    "ETEE354": {
+      "paperTitle": "Utilization of Electrical Energy Lab",
+      "page": 53
+    }
+  },
+  {
+    "ETEL356": {
+      "paperTitle": "Electrical Machine - III Lab",
+      "page": 54
+    }
+  },
+  {
+    "ETEE451": {
+      "paperTitle": "Electrical Drives Lab",
+      "page": 73
+    }
+  },
+  {
+    "ETEE453": {
+      "paperTitle": "Advanced Control Systems Lab",
+      "page": 74
+    }
+  },
+  {
+    "ETEL455": {
+      "paperTitle": "Electrical Machines Design Lab",
+      "page": 75
+    }
+  },
+  {
+    "ETEL457": {
+      "paperTitle": "Seminar",
+      "page": 8
+    }
+  },
+  {
+    "ETEL459": {
+      "paperTitle": "Minor Project",
+      "page": 8
+    }
+  },
+  {
+    "ETEL461": {
+      "paperTitle": "Industrial Training",
+      "page": 8
     }
   },
   {
@@ -1172,8 +1315,8 @@
   },
   {
     "ETEC420": {
-      "paperTitle": "Data Communication & Networks ",
-      "page": 0
+      "paperTitle": "Data Communication & Networks",
+      "page": 89
     }
   },
   {
@@ -1192,7 +1335,7 @@
   {
     "ETEC427": {
       "paperTitle": "Digital System Design",
-      "page": 0
+      "page": 70
     }
   },
   {
@@ -1210,7 +1353,7 @@
   {
     "ETEC430": {
       "paperTitle": "Digital Communication",
-      "page": 0
+      "page": 93
     }
   },
   {
@@ -1234,19 +1377,19 @@
   {
     "ETEE202": {
       "paperTitle": "Electrical Machines-II",
-      "page": 0
+      "page": 22
     }
   },
   {
     "ETEE205": {
       "paperTitle": "Materials in Electrical Systems",
-      "page": 0
+      "page": 13
     }
   },
   {
     "ETEE206": {
       "paperTitle": "Power System-I",
-      "page": 0
+      "page": 24
     }
   },
   {
@@ -1265,37 +1408,39 @@
   {
     "ETEE210": {
       "paperTitle": "Electromagnetic Field Theory",
-      "page": 27
+      "page": 27,
+      "page_EE": 26
     }
   },
   {
     "ETEE211": {
       "paperTitle": "Electrical Machines-I",
-      "page": 0
+      "page": 16
     }
   },
   {
     "ETEE212": {
       "paperTitle": "Control Systems",
-      "page": 26
+      "page": 26,
+      "page_EE": 23
     }
   },
   {
     "ETEE302": {
       "paperTitle": "Power System-II",
-      "page": 0
+      "page": 46
     }
   },
   {
     "ETEE303": {
       "paperTitle": "Power Electronics",
-      "page": 0
+      "page": 34
     }
   },
   {
     "ETEE304": {
-      "paperTitle": "Utilization of Electrical Energy",
-      "page": 0
+      "paperTitle": "Utilization of Electrical Energy and Electric Traction",
+      "page": 47
     }
   },
   {
@@ -1307,44 +1452,45 @@
   {
     "ETEE307": {
       "paperTitle": "Switching Theory and Logic Design",
-      "page": 0
+      "page": 37
     }
   },
   {
     "ETEE309": {
       "paperTitle": "Communication Systems",
-      "page": 0
+      "page": 38
     }
   },
   {
     "ETEE310": {
       "paperTitle": "Microprocessors and Microcontrollers",
       "page": 49,
-      "page_IT": 49
+      "page_IT": 49,
+      "page_EE": 50
     }
   },
   {
     "ETEE312": {
       "paperTitle": "Power Station Practice",
-      "page": 0
+      "page": 51
     }
   },
   {
     "ETEE401": {
       "paperTitle": "Electrical Drives",
-      "page": 0
+      "page": 56
     }
   },
   {
     "ETEE403": {
       "paperTitle": "Advanced Control Systems",
-      "page": 0
+      "page": 57
     }
   },
   {
     "ETEE404": {
       "paperTitle": "Neuro & Fuzzy Systems ",
-      "page": 0
+      "page": 86
     }
   },
   {
@@ -1355,38 +1501,39 @@
   },
   {
     "ETEE406": {
-      "paperTitle": "POWER SYSTEM OPERATION & CONTROL",
-      "page": 0
+      "paperTitle": "Power System Operation and Control",
+      "page": 83
     }
   },
   {
     "ETEE408": {
       "paperTitle": "Application of Power Electronics to Power Systems",
-      "page": 0
+      "page": 81
     }
   },
   {
     "ETEE409": {
       "paperTitle": "Power Distribution System",
-      "page": 0
+      "page": 60
     }
   },
   {
     "ETEE411": {
-      "paperTitle": "Telemetry & Data Acquisition System ",
-      "page": 0
+      "paperTitle": "Telemetry and Data Acquisition System",
+      "page": 61
     }
   },
   {
     "ETEE412": {
-      "paperTitle": " Reliability Engineering & Application to Power Systems ",
-      "page": 0
+      "paperTitle": " Reliability Engineering and Application to Power Systems",
+      "page": 84
     }
   },
   {
     "ETEE413": {
       "paperTitle": "PLC and SCADA Systems",
-      "page": 63
+      "page": 63,
+      "page_EE": 62
     }
   },
   {
@@ -1404,25 +1551,26 @@
   {
     "ETEE416": {
       "paperTitle": "Electrical Energy Conservation",
-      "page": 0
+      "page": 85
     }
   },
   {
     "ETEE417": {
       "paperTitle": "High Voltage Engineering",
-      "page": 0
+      "page": 65
     }
   },
   {
     "ETEE418": {
       "paperTitle": "Electrical System Design",
-      "page": 0
+      "page": 87
     }
   },
   {
     "ETEE419": {
       "paperTitle": "Renewable Energy Resources",
-      "page": 67
+      "page": 67,
+      "page_EE": 59
     }
   },
   {
@@ -1434,13 +1582,13 @@
   {
     "ETEE426": {
       "paperTitle": "Power Plant Instrumentation",
-      "page": 0
+      "page": 91
     }
   },
   {
     "ETEE428": {
       "paperTitle": "Intelligent and Smart Instrumentation",
-      "page": 0
+      "page": 92
     }
   },
   {
@@ -1452,43 +1600,43 @@
   {
     "ETEE431": {
       "paperTitle": "Power Line Carrier Communication",
-      "page": 0
+      "page": 71
     }
   },
   {
     "ETEE432": {
       "paperTitle": "Electrical Power Quality",
-      "page": 0
+      "page": 94
     }
   },
   {
     "ETEL203": {
-      "paperTitle": "ANALOG ELECTRONICS",
-      "page": 0
+      "paperTitle": "Analog Electronics",
+      "page": 12
     }
   },
   {
     "ETEL204": {
       "paperTitle": "Thermodynamics",
-      "page": 0
+      "page": 27
     }
   },
   {
     "ETEL208": {
       "paperTitle": "Electrical Measuring Instruments & Transducers",
-      "page": 0
+      "page": 25
     }
   },
   {
     "ETEL305": {
       "paperTitle": "Signals and Systems",
-      "page": 0
+      "page": 35
     }
   },
   {
     "ETEL306": {
-      "paperTitle": "EHV AC & HVDC Transmissions ",
-      "page": 0
+      "paperTitle": "EHV AC & HVDC Transmissions",
+      "page": 48
     }
   },
   {
@@ -1500,31 +1648,31 @@
   {
     "ETEL308": {
       "paperTitle": "Electrical Machines-III",
-      "page": 0
+      "page": 49
     }
   },
   {
     "ETEL402": {
-      "paperTitle": "Power System Analysis",
-      "page": 0
+      "paperTitle": "Power System Analysis and Stability",
+      "page": 76
     }
   },
   {
     "ETEL404": {
       "paperTitle": "Digital Signal Processing",
-      "page": 0
+      "page": 77
     }
   },
   {
     "ETEL405": {
       "paperTitle": "Electrical Machines Design",
-      "page": 0
+      "page": 58
     }
   },
   {
     "ETEL421": {
       "paperTitle": "Selected Topics in EE",
-      "page": 0
+      "page": 66
     }
   },
   {
@@ -1583,14 +1731,16 @@
       "paperTitle": "Data Structures Lab",
       "page": 19,
       "page_IT": 19,
-      "page_ECE": 21
+      "page_ECE": 21,
+      "page_EE": 19
     }
   },
   {
     "ETEE257": {
       "paperTitle": "Circuits and Systems Lab",
       "page": 18,
-      "page_IT": 18
+      "page_IT": 18,
+      "page_EE": 20
     }
   },
   {
@@ -1702,7 +1852,8 @@
       "page_CIVIL": 46,
       "page_ENV": 43,
       "page_IT": 43,
-      "page_ECE": 41
+      "page_ECE": 41,
+      "page_EE": 45
     }
   },
   {
@@ -1747,7 +1898,8 @@
     "ETEE358": {
       "paperTitle": "Microprocessor and Microcontroller Lab",
       "page": 53,
-      "page_IT": 53
+      "page_IT": 53,
+      "page_EE": 55
     }
   },
   {
@@ -2131,7 +2283,8 @@
       "page_CIVIL": 36,
       "page_ENV": 35,
       "page_IT": 37,
-      "page_ECE": 34
+      "page_ECE": 34,
+      "page_EE": 32
     }
   },
   {
@@ -2141,7 +2294,8 @@
       "page_CIVIL": 82,
       "page_ENV": 81,
       "page_IT": 82,
-      "page_ECE": 79
+      "page_ECE": 79,
+      "page_EE": 78
     }
   },
   {
@@ -2151,7 +2305,8 @@
       "page_CIVIL": 75,
       "page_ENV": 74,
       "page_IT": 71,
-      "page_ECE": 73
+      "page_ECE": 73,
+      "page_EE": 72
     }
   },
   {
@@ -2241,7 +2396,8 @@
   {
     "ETIC403": {
       "paperTitle": "Biomedical Instrumentation",
-      "page": 62
+      "page": 62,
+      "page_EE": 69
     }
   },
   {
@@ -2277,7 +2433,7 @@
   {
     "ETIC410": {
       "paperTitle": "Embedded Systems",
-      "page": 0
+      "page": 88
     }
   },
   {
@@ -2479,7 +2635,8 @@
       "paperTitle": "Digital Image Processing",
       "page": 87,
       "page_IT": 93,
-      "page_ECE": 87
+      "page_ECE": 87,
+      "page_EE": 82
     }
   },
   {
@@ -2568,7 +2725,8 @@
       "paperTitle": "Applied Mathematics-III",
       "page": 11,
       "page_IT": 11,
-      "page_ECE": 11
+      "page_ECE": 11,
+      "page_EE": 11
     }
   },
   {
@@ -2906,7 +3064,8 @@
       "paperTitle": "Industrial Management",
       "page": 35,
       "page_IT": 35,
-      "page_ECE": 40
+      "page_ECE": 40,
+      "page_EE": 39
     }
   },
   {
