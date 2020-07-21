@@ -188,7 +188,8 @@
       "page": 5,
       "page_CIVIL": 5,
       "page_ENV": 34,
-      "page_IT": 5
+      "page_IT": 5,
+      "page_ECE": 5
     }
   },
   {
@@ -473,7 +474,8 @@
     "ETCS209": {
       "paperTitle": "Data Structures",
       "page": 15,
-      "page_IT": 15
+      "page_IT": 15,
+      "page_ECE": 15
     }
   },
   {
@@ -511,7 +513,8 @@
   {
     "ETEC358": {
       "paperTitle": "Data Communication and Networks Lab",
-      "page": 51
+      "page": 51,
+      "page_ECE": 55
     }
   },
   {
@@ -569,141 +572,141 @@
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC452": {
+      "paperTitle": "Satellite and Antenna Lab",
+      "page": 98
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC454": {
+      "paperTitle": "Practical Based on Elective or Compulsory Subject",
+      "page": 99
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC456": {
+      "paperTitle": "Major Project",
+      "page": 9
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC451": {
+      "paperTitle": "Optical and Wireless Communication Lab",
+      "page": 75
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC453": {
+      "paperTitle": "Embedded System Lab",
+      "page": 76
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC455": {
+      "paperTitle": "Lab Based on Elective I and/or II",
+      "page": 77
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC457": {
+      "paperTitle": "Seminar",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC459": {
+      "paperTitle": "Minor Project",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC461": {
+      "paperTitle": "Industrial Training",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC352": {
+      "paperTitle": "Microwave Engineering Lab",
+      "page": 52
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC354": {
+      "paperTitle": "VLSI Design Lab",
+      "page": 53
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC356": {
+      "paperTitle": "Digital Signal Processing Lab",
+      "page": 54
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC360": {
+      "paperTitle": "Industrial/In-house Training",
+      "page": 7
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC351": {
+      "paperTitle": "Digital System Design Lab",
+      "page": 42
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEL355": {
+      "paperTitle": "Control Systems Lab",
+      "page": 43
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC355": {
+      "paperTitle": "Microprocessors and Microcontrollers Lab",
+      "page": 44
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC359": {
+      "paperTitle": "Industrial training / In-house electronics Workshop",
+      "page": 6
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC258": {
+      "paperTitle": "Network Analysis and Synthesis Lab",
+      "page": 30
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC254": {
+      "paperTitle": "Analog Electronics – II Lab",
+      "page": 32
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETCS260": {
+      "paperTitle": "Linux Programming and Administration Lab",
+      "page": 33
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC251": {
+      "paperTitle": "Analog Electronics Lab",
+      "page": 18
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC257": {
+      "paperTitle": "Electronic Instruments and Measurements Lab",
+      "page": 20
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETEC259": {
+      "paperTitle": "Signals and Systems Lab",
+      "page": 22
     }
   },
   {
@@ -1000,7 +1003,8 @@
     "ETCS425": {
       "paperTitle": "Database Management Systems",
       "page": 76,
-      "page_ENV": 72
+      "page_ENV": 72,
+      "page_ECE": 66
     }
   },
   {
@@ -1060,7 +1064,8 @@
   {
     "ETCS427": {
       "paperTitle": "Parallel Computing",
-      "page": 67
+      "page": 67,
+      "page_ECE": 72
     }
   },
   {
@@ -1096,86 +1101,89 @@
   {
     "ETEC203": {
       "paperTitle": "Analog Electronics-I",
-      "page": 0
+      "page": 12
     }
   },
   {
     "ETEC204": {
       "paperTitle": "Analog Electronics-II",
-      "page": 0
+      "page": 24
     }
   },
   {
     "ETEC205": {
       "paperTitle": "Switching Theory and Logic Design",
       "page": 13,
-      "page_IT": 13
+      "page_IT": 13,
+      "page_ECE": 13
     }
   },
   {
     "ETEC206": {
-      "paperTitle": "NETWORK ANALYSIS AND SYNTHESIS",
-      "page": 0
+      "paperTitle": "Network Analysis and Synthesis",
+      "page": 25
     }
   },
   {
     "ETEC207": {
       "paperTitle": "Electronic Instruments & Measurements",
-      "page": 0
+      "page": 14
     }
   },
   {
     "ETEC208": {
       "paperTitle": "Communication Systems",
-      "page": 26
+      "page": 26,
+      "page_ECE": 26
     }
   },
   {
     "ETEC211": {
       "paperTitle": "Signals & Systems",
-      "page": 0
+      "page": 16
     }
   },
   {
     "ETEC302": {
       "paperTitle": "Microwave Engineering",
-      "page": 0
+      "page": 46
     }
   },
   {
     "ETEC303": {
       "paperTitle": "Digital Communication",
-      "page": 36
+      "page": 36,
+      "page_ECE": 36
     }
   },
   {
     "ETEC304": {
       "paperTitle": "Information Theory and Coding",
-      "page": 0
+      "page": 47
     }
   },
   {
     "ETEC305": {
       "paperTitle": "Microprocessors and Microcontrollers",
-      "page": 0
+      "page": 37
     }
   },
   {
     "ETEC306": {
       "paperTitle": "Digital Signal Processing",
-      "page": 0
+      "page": 48
     }
   },
   {
     "ETEC308": {
       "paperTitle": "VLSI Design",
-      "page": 0
+      "page": 49
     }
   },
   {
     "ETEC309": {
       "paperTitle": "Digital System Design",
-      "page": 0
+      "page": 39
     }
   },
   {
@@ -1187,88 +1195,93 @@
   {
     "ETEC314": {
       "paperTitle": "Antenna and Wave Propagation",
-      "page": 0
+      "page": 51
     }
   },
   {
     "ETEC401": {
       "paperTitle": "Embedded Systems",
       "page": 59,
-      "page_IT": 57
+      "page_IT": 57,
+      "page_ECE": 56
     }
   },
   {
     "ETEC403": {
       "paperTitle": "Optoelectronics and Optical Communication",
-      "page": 58
+      "page": 58,
+      "page_ECE": 57
     }
   },
   {
     "ETEC404": {
       "paperTitle": "Satellite Communication",
-      "page": 96
+      "page": 96,
+      "page_ECE": 82
     }
   },
   {
     "ETEC405": {
       "paperTitle": "Wireless Communication",
       "page": 56,
-      "page_IT": 56
+      "page_IT": 56,
+      "page_ECE": 58
     }
   },
   {
     "ETEC406": {
       "paperTitle": "Ad Hoc and Sensor Networks",
       "page": 89,
-      "page_IT": 80
+      "page_IT": 80,
+      "page_ECE": 83
     }
   },
   {
     "ETEC407": {
       "paperTitle": "Advanced DSP",
-      "page": 0
+      "page": 59
     }
   },
   {
     "ETEC408": {
       "paperTitle": "Consumer Electronics",
-      "page": 0
+      "page": 85
     }
   },
   {
     "ETEC409": {
       "paperTitle": "Introduction to MEMS",
-      "page": 0
+      "page": 60
     }
   },
   {
     "ETEC411": {
       "paperTitle": "Advance VLSI Design",
-      "page": 0
+      "page": 61
     }
   },
   {
     "ETEC412": {
       "paperTitle": "ASIC Design",
-      "page": 0
+      "page": 88
     }
   },
   {
     "ETEC416": {
-      "paperTitle": "Introduction to Nano Technology",
-      "page": 0
+      "paperTitle": "Introduction to Nanotechnology",
+      "page": 91
     }
   },
   {
     "ETEC417": {
       "paperTitle": "RF Devices and Circuits",
-      "page": 0
+      "page": 65
     }
   },
   {
     "ETEC419": {
       "paperTitle": "Radar and Navigation",
-      "page": 0
+      "page": 68
     }
   },
   {
@@ -1287,7 +1300,7 @@
   {
     "ETEC424": {
       "paperTitle": "Adaptive Signal Processing",
-      "page": 0
+      "page": 93
     }
   },
   {
@@ -1299,13 +1312,13 @@
   {
     "ETEC428": {
       "paperTitle": "Next Generation Networks",
-      "page": 0
+      "page": 96
     }
   },
   {
     "ETEC429": {
       "paperTitle": "Selected Topics in ECE",
-      "page": 0
+      "page": 74
     }
   },
   {
@@ -1365,8 +1378,8 @@
   },
   {
     "ETEE210": {
-      "paperTitle": "ELECTROMAGNETIC FIELD THEORY",
-      "page": 0
+      "paperTitle": "Electromagnetic Field Theory",
+      "page": 27
     }
   },
   {
@@ -1486,8 +1499,8 @@
   },
   {
     "ETEE413": {
-      "paperTitle": "PLC",
-      "page": 0
+      "paperTitle": "PLC and SCADA Systems",
+      "page": 63
     }
   },
   {
@@ -1499,7 +1512,7 @@
   {
     "ETEE415": {
       "paperTitle": "Power Electronics",
-      "page": 0
+      "page": 64
     }
   },
   {
@@ -1523,7 +1536,7 @@
   {
     "ETEE419": {
       "paperTitle": "Renewable Energy Resources",
-      "page": 0
+      "page": 67
     }
   },
   {
@@ -1595,7 +1608,7 @@
   {
     "ETEL307": {
       "paperTitle": "Control Systems",
-      "page": 0
+      "page": 38
     }
   },
   {
@@ -1675,14 +1688,16 @@
     "ETEC253": {
       "paperTitle": "Switching Theory and Logic Design Lab",
       "page": 17,
-      "page_IT": 17
+      "page_IT": 17,
+      "page_ECE": 19
     }
   },
   {
     "ETCS255": {
       "paperTitle": "Data Structures Lab",
       "page": 19,
-      "page_IT: 19
+      "page_IT: 19,
+      "page_ECE": 21
     }
   },
   {
@@ -1709,7 +1724,8 @@
     "ETMA252": {
       "paperTitle": "Applied Mathematics Lab",
       "page": 27,
-      "page_IT": 27
+      "page_IT": 27,
+      "page_ECE": 29
     }
   },
   {
@@ -1736,7 +1752,8 @@
   {
     "ETEC256": {
       "paperTitle": "Communication Systems Lab",
-      "page": 31
+      "page": 31,
+      "page_ECE": 31
     }
   },
   {
@@ -1788,7 +1805,8 @@
   {
     "ETEC357": {
       "paperTitle": "Digital Communication Lab",
-      "page": 42
+      "page": 42,
+      "page_ECE": 45
     }
   },
   {
@@ -1797,7 +1815,8 @@
       "page": 43,
       "page_CIVIL": 46,
       "page_ENV": 43,
-      "page_IT": 43
+      "page_IT": 43,
+      "page_ECE": 41
     }
   },
   {
@@ -2225,7 +2244,8 @@
       "page": 37,
       "page_CIVIL": 36,
       "page_ENV": 35,
-      "page_IT": 37
+      "page_IT": 37,
+      "page_ECE": 34
     }
   },
   {
@@ -2234,7 +2254,8 @@
       "page": 85,
       "page_CIVIL": 82,
       "page_ENV": 81,
-      "page_IT": 82
+      "page_IT": 82,
+      "page_ECE": 79
     }
   },
   {
@@ -2243,7 +2264,8 @@
       "page": 70,
       "page_CIVIL": 75,
       "page_ENV": 74.
-      "page_IT": 71
+      "page_IT": 71,
+      "page_ECE": 73
     }
   },
   {
@@ -2333,7 +2355,7 @@
   {
     "ETIC403": {
       "paperTitle": "Biomedical Instrumentation",
-      "page": 0
+      "page": 62
     }
   },
   {
@@ -2423,8 +2445,8 @@
   },
   {
     "ETIC428": {
-      "paperTitle": "Computer Graphics",
-      "page": 0
+      "paperTitle": "Computer Graphics and Multimedia",
+      "page": 95
     }
   },
   {
@@ -2487,7 +2509,8 @@
     "ETIT402": {
       "paperTitle": "Mobile Computing",
       "page": 82,
-      "page_IT": 78
+      "page_IT": 78,
+      "page_ECE": 89
     }
   },
   {
@@ -2569,7 +2592,8 @@
     "ETIT418": {
       "paperTitle": "Digital Image Processing",
       "page": 87,
-      "page_IT": 93
+      "page_IT": 93,
+      "page_ECE": 87
     }
   },
   {
@@ -2593,7 +2617,8 @@
   {
     "ETIT422": {
       "paperTitle": "GPS and GIS",
-      "page": 95
+      "page": 95,
+      "page_ECE": 92
     }
   },
   {
@@ -2605,7 +2630,8 @@
   {
     "ETIT425": {
       "paperTitle": "Grid Computing",
-      "page": 68
+      "page": 68,
+      "page_ECE": 71
     }
   },
   {
@@ -2655,14 +2681,16 @@
     "ETMA201": {
       "paperTitle": "Applied Mathematics-III",
       "page": 11,
-      "page_IT": 11
+      "page_IT": 11,
+      "page_ECE": 11
     }
   },
   {
     "ETMA202": {
       "paperTitle": "Applied Mathematics-IV",
       "page": 21,
-      "page_IT": 21
+      "page_IT": 21,
+      "page_ECE": 23
     }
   },
   {
@@ -2991,19 +3019,20 @@
     "ETMS311": {
       "paperTitle": "Industrial Management",
       "page": 35,
-      "page_IT": 35
+      "page_IT": 35,
+      "page_ECE": 40
     }
   },
   {
     "ETMS421": {
       "paperTitle": "Project Management",
-      "page": 0
+      "page": 69
     }
   },
   {
     "ETMS423": {
       "paperTitle": "Economics for Engineers",
-      "page": 0
+      "page": 70
     }
   },
   {
@@ -3105,7 +3134,7 @@
   {
     "ETMT402": {
       "paperTitle": "Robotics",
-      "page": 0
+      "page": 94
     }
   },
   {

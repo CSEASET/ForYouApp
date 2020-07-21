@@ -61,7 +61,10 @@ public class showSyllabus extends Activity implements OnPageErrorListener {
         String[] file_name = {
                 "1Final Scheme & Syllabus- Ist & 2nd Semester for the academic session 2014-15.pdf",
                 "3Final Syllabus-CSE-3rd Semester4,5,6,7,8.pdf",
-                "1Final Syllabus-CIVIL-3rd Semester4,5,6,7,8.pdf"
+                "1Final Syllabus-CIVIL-3rd Semester4,5,6,7,8.pdf",
+                "2Final Syllabus-Environment-3rd Semester4,5,6,7,8.pdf",
+                "4Final Syllabus-IT-3rd Semester4,5,6,7,8.pdf",
+                "Final Syllabus-ECE-3rd Semester4,5,6,7,8.pdf"
         };
 
         String fileCode = null;
@@ -88,6 +91,7 @@ public class showSyllabus extends Activity implements OnPageErrorListener {
                 .spacing(5)
                 .defaultPage(Integer.parseInt(page_number))
                 .pageFitPolicy(FitPolicy.WIDTH)
+                .nightMode(true)
                 .load();
 
 
