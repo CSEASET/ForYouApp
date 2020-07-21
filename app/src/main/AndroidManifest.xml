@@ -49,14 +49,6 @@
                 android:value="com.helpinghands.foryou.MainActivity" />
         </activity>
         <activity
-            android:name=".sem_list"
-            android:label="@string/title_activity_sem_list"
-            android:parentActivityName=".branch_list">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.helpinghands.foryou.branch_list" />
-        </activity>
-        <activity
             android:name=".branch_list"
             android:label="@string/title_activity_branch_list"
             android:parentActivityName=".yearlist">

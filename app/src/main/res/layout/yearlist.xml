@@ -26,7 +26,7 @@
             android:layout_height="wrap_content">
 
             <TextView
-                android:text="Choose Year"
+                android:text="Choose Semester"
                 android:layout_width="match_parent"
                 android:gravity="center"
                 android:textAppearance="?android:attr/textAppearanceLarge"
@@ -39,39 +39,72 @@
                 android:layout_height="60dp"
                 android:onClick="clickHandler"
                 android:tag="1"
-                android:text="I  YEAR"
-                android:id="@+id/button"
+                android:text="Semester 1"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
-                android:onClick="clickHandler"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_height="60dp"
+                android:onClick="clickHandler"
                 android:tag="2"
-                android:text="II  YEAR"
-                android:id="@+id/button2"
+                android:text="Semester 2"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
-                android:onClick="clickHandler"
                 android:background="?android:attr/selectableItemBackground"
                 android:layout_height="60dp"
+                android:onClick="clickHandler"
                 android:tag="3"
-                android:text="III  YEAR"
-                android:id="@+id/button3"
+                android:text="Semester 3"
                 android:layout_gravity="center_horizontal" />
 
             <Button
                 android:layout_width="match_parent"
+                android:background="?android:attr/selectableItemBackground"
                 android:layout_height="60dp"
                 android:onClick="clickHandler"
-                android:background="?android:attr/selectableItemBackground"
                 android:tag="4"
-                android:text="IV  YEAR"
-                android:id="@+id/button4"
+                android:text="Semester 4"
                 android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="60dp"
+                android:onClick="clickHandler"
+                android:tag="5"
+                android:text="Semester 5"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="60dp"
+                android:onClick="clickHandler"
+                android:tag="6"
+                android:text="Semester 6"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="60dp"
+                android:onClick="clickHandler"
+                android:tag="7"
+                android:text="Semester 7"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:background="?android:attr/selectableItemBackground"
+                android:layout_height="60dp"
+                android:onClick="clickHandler"
+                android:tag="8"
+                android:text="Semester 8"
+                android:layout_gravity="center_horizontal" />
+
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="5dp"

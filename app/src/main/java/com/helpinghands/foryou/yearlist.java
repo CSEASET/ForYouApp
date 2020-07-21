@@ -20,8 +20,16 @@ public class yearlist extends AppCompatActivity {
     }
 
     public void clickHandler(View view) {
-        Intent intent = new Intent(this, sem_list.class);
-        intent.putExtra("state", view.getTag().toString());
+        Intent i = getIntent();
+        String year = view.getTag().toString();
+        Intent intent;
+        if (Integer.parseInt(year) == 1 || Integer.parseInt(year) == 2) {
+            intent = new Intent(this, subject_list.class);
+            intent.putExtra("state", year + "0ALL");
+        } else {
+            intent = new Intent(this, branch_list.class);
+            intent.putExtra("state", year + "0");
+        }
         startActivity(intent);
     }
 

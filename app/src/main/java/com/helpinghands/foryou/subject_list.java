@@ -165,7 +165,41 @@ public class subject_list extends AppCompatActivity {
 
     void parseJSON() {
         year = state.charAt(0) + "";
-        sem = state.charAt(1) + "";
+        switch (year){
+            case "1":
+                year = "1";
+                sem = "1";
+                break;
+            case "2":
+                year = "1";
+                sem = "2";
+                break;
+            case "3":
+                year = "2";
+                sem = "1";
+                break;
+            case "4":
+                year = "2";
+                sem = "2";
+                break;
+            case "5":
+                year = "3";
+                sem = "1";
+                break;
+            case "6":
+                year = "3";
+                sem = "2";
+                break;
+            case "7":
+                year = "4";
+                sem = "1";
+                break;
+            case "8":
+                year = "4";
+                sem = "2";
+                break;
+        }
+
         branch = state.substring(2);
         //Log.d("ass",((JSONObject) ((JSONObject)((JSONObject) obj).get(year)).get(sem)).get(branch).toString() + "s");
         JSONArray subList = (JSONArray) ((JSONObject) ((JSONObject) ((JSONObject) codes).get(year)).get(sem)).get(branch);
