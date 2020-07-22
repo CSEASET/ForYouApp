@@ -20,7 +20,8 @@
   {
     "ETAT302": {
       "paperTitle": "Machine Design",
-      "page": 47
+      "page": 47,
+      "page_Power": 52
     }
   },
   {
@@ -200,7 +201,8 @@
       "page_ICE": 5,
       "page_MAE": 5,
       "page_ME": 5,
-      "page_Mechantronics": 5
+      "page_Mechantronics": 5,
+      "page_Power": 5
     }
   },
   {
@@ -513,7 +515,8 @@
       "page_EE": 29,
       "page_EEE": 32,
       "page_ICE": 29,
-      "page_Mechantronics": 31
+      "page_Mechantronics": 31,
+      "page_Power": 31
     }
   },
   {
@@ -1107,7 +1110,8 @@
       "page_ICE": 67,
       "page_MAE": 69,
       "page_ME": 68,
-      "page_Mechantronics": 66
+      "page_Mechantronics": 66,
+      "page_Power": 70
     }
   },
   {
@@ -1201,7 +1205,8 @@
   {
     "ETEC202": {
       "paperTitle": "Switching Theory and Logic Design",
-      "page": 27
+      "page": 27,
+      "page_Power": 26
     }
   },
   {
@@ -1361,7 +1366,8 @@
   {
     "ETEL251": {
       "paperTitle": "Analog Electronics Lab",
-      "page": 17
+      "page": 17,
+      "page_Power": 20
     }
   },
   {
@@ -1562,7 +1568,8 @@
       "page": 89,
       "page_EEE": 92,
       "page_ME": 98,
-      "page_Mechantronics": 93
+      "page_Mechantronics": 93,
+      "page_Power": 96
     }
   },
   {
@@ -1649,7 +1656,8 @@
       "page": 14,
       "page_IT": 14,
       "page_EEE": 14,
-      "page_ICE": 14
+      "page_ICE": 14,
+      "page_Power": 12
     }
   },
   {
@@ -1680,7 +1688,8 @@
       "page_EE": 23,
       "page_EEE": 27,
       "page_ICE": 23,
-      "page_Mechantronics": 26
+      "page_Mechantronics": 26,
+      "page_Power": 27
     }
   },
   {
@@ -1855,7 +1864,8 @@
       "page_ICE": 68,
       "page_MAE": 67,
       "page_ME": 69,
-      "page_Mechantronics": 73
+      "page_Mechantronics": 73,
+      "page_Power": 60
     }
   },
   {
@@ -1901,7 +1911,8 @@
   {
     "ETEL203": {
       "paperTitle": "Analog Electronics",
-      "page": 12
+      "page": 12,
+      "page_Power": 16
     }
   },
   {
@@ -1946,7 +1957,8 @@
     "ETEL402": {
       "paperTitle": "Power System Analysis and Stability",
       "page": 76,
-      "page_EEE": 89
+      "page_EEE": 89,
+      "page_Power": 93
     }
   },
   {
@@ -2158,7 +2170,8 @@
       "page_ICE": 41,
       "page_MAE": 46,
       "page_ME": 44
-      "page_Mechantronics": 40
+      "page_Mechantronics": 40,
+      "page_Power": 41
     }
   },
   {
@@ -2596,7 +2609,8 @@
       "page_ICE": 33,
       "page_MAE": 40,
       "page_ME": 38,
-      "page_Mechantronics": 33
+      "page_Mechantronics": 33,
+      "page_Power": 32
     }
   },
   {
@@ -2612,7 +2626,8 @@
       "page_ICE": 81,
       "page_MAE": 88,
       "page_ME": 90,
-      "page_Mechantronics": 83
+      "page_Mechantronics": 83,
+      "page_Power": 84
     }
   },
   {
@@ -2628,7 +2643,8 @@
       "page_ICE": 74,
       "page_MAE": 76,
       "page_ME": 77,
-      "page_Mechantronics": 75
+      "page_Mechantronics": 75,
+      "page_Power": 77
     }
   },
   {
@@ -3174,7 +3190,8 @@
       "paperTitle": "Material Science and Metallurgy",
       "page": 16,
       "page_ME": 15,
-      "page_Mechantronics": 15
+      "page_Mechantronics": 15,
+      "page_Power": 11
     }
   },
   {
@@ -3206,7 +3223,8 @@
   {
     "ETME212": {
       "paperTitle": "Fluid Mechanics",
-      "page": 27
+      "page": 27,
+      "page_Power": 25
     }
   },
   {
@@ -3310,7 +3328,8 @@
   {
     "ETME408": {
       "paperTitle": "Nuclear Power Generation and Supply",
-      "page": 93
+      "page": 93,
+      "page_Power": 94
     }
   },
   {
@@ -3338,7 +3357,8 @@
     "ETME413": {
       "paperTitle": "NonNon-Conventional Manufacturing Processes",
       "page": 64,
-      "page_Mechantronics": 63
+      "page_Mechantronics": 63,
+      "page_Power": 69
     }
   },
   {
@@ -3356,7 +3376,8 @@
   {
     "ETME416": {
       "paperTitle": "Mechanical Vibrations",
-      "page": 96
+      "page": 96,
+      "page_Power": 89
     }
   },
   {
@@ -3371,7 +3392,8 @@
       "paperTitle": "Management Information System and ERP",
       "page": 74,
       "page_ME": 70,
-      "page_Mechantronics": 69
+      "page_Mechantronics": 69,
+      "page_Power": 76
     }
   },
   {
@@ -3385,27 +3407,31 @@
       "paperTitle": "Finite Element Methods",
       "page": 66,
       "page_ME": 71,
-      "page_Mechantronics": 74
+      "page_Mechantronics": 74,
+      "page_Power": 74
     }
   },
   {
     "ETME424": {
       "paperTitle": "Cryogenic Engineering",
       "page": 98,
-      "page_ME": 100
+      "page_ME": 100,
+      "page_Power": 100
     }
   },
   {
     "ETME426": {
       "paperTitle": "Total Quality Management",
       "page": 93,
-      "page_ME": 101
+      "page_ME": 101,
+      "page_Power": 101
     }
   },
   {
     "ETME427": {
       "paperTitle": "Rotor Dynamics",
-      "page": 74
+      "page": 74,
+      "page_Power": 75
     }
   },
   {
@@ -3434,7 +3460,8 @@
       "page_ECE": 40,
       "page_EE": 39,
       "page_EEE": 39,
-      "page_ICE": 40
+      "page_ICE": 40,
+      "page_Power": 40
     }
   },
   {
@@ -3552,7 +3579,8 @@
       "page_ICE": 96,
       "page_MAE": 86,
       "page_ME": 94,
-      "page_Mechantronics": 81
+      "page_Mechantronics": 81,
+      "page_Power": 95
     }
   },
   {
@@ -3668,218 +3696,218 @@
   },
   {
     "ETPE201": {
-      "paperTitle": "ELECTRICAL MACHINES",
-      "page": 0
+      "paperTitle": "Electrical Machines",
+      "page": 17
     }
   },
   {
     "ETPE202": {
       "paperTitle": "Power Generation Engineering",
-      "page": 0
+      "page": 22
     }
   },
   {
     "ETPE204": {
-      "paperTitle": "ENERGY CONVERSION",
-      "page": 0
+      "paperTitle": "Energy Conversion",
+      "page": 67
     }
   },
   {
     "ETPE205": {
       "paperTitle": "Thermodynamics for Power Engineers",
-      "page": 0
+      "page": 13
     }
   },
   {
     "ETPE206": {
-      "paperTitle": "HEAT & MASS TRANSFER",
-      "page": 0
+      "paperTitle": "Heat and Mass Transfer",
+      "page": 24
     }
   },
   {
     "ETPE207": {
-      "paperTitle": "STRENGTH OF MATERIALS & THEORY OF MACHINES",
-      "page": 0
+      "paperTitle": "Strength of Materials and Theory of Machines",
+      "page": 14
     }
   },
   {
     "ETPE302": {
       "paperTitle": "Load Dispatch and Electricity Regulations",
-      "page": 0
+      "page": 45
     }
   },
   {
     "ETPE303": {
       "paperTitle": "Steam Generator and its Auxiliaries",
-      "page": 0
+      "page": 34
     }
   },
   {
     "ETPE304": {
-      "paperTitle": "Power Plant Commissioning",
-      "page": 0
+      "paperTitle": "Power Plant Commissioning (Thermal and Hydro)",
+      "page": 46
     }
   },
   {
     "ETPE305": {
       "paperTitle": "Steam Turbine and its Auxiliaries",
-      "page": 0
+      "page": 35
     }
   },
   {
     "ETPE306": {
       "paperTitle": "Power Plant Control and Instrumentation",
-      "page": 0
+      "page": 47
     }
   },
   {
     "ETPE307": {
       "paperTitle": "Electrical Generator and Auxiliaries ",
-      "page": 0
+      "page": 36
     }
   },
   {
     "ETPE308": {
       "paperTitle": "Power System Transmission and Distribution",
-      "page": 0
+      "page": 48
     }
   },
   {
     "ETPE309": {
       "paperTitle": "Refrigeration and Air Conditioning",
-      "page": 0
+      "page": 37
     }
   },
   {
     "ETPE310": {
-      "paperTitle": "I.C. Engines & Gas Dynamics ",
-      "page": 0
+      "paperTitle": "I.C. Engines & Gas Dynamics",
+      "page": 50
     }
   },
   {
     "ETPE312": {
       "paperTitle": "Power Electronics and Electric Drives",
-      "page": 0
+      "page": 51
     }
   },
   {
     "ETPE313": {
       "paperTitle": "Electrical & Electronic Measurements and Instrumentation ",
-      "page": 0
+      "page": 38
     }
   },
   {
     "ETPE316": {
       "paperTitle": "Electromagnetic Field Theory",
-      "page": 0
+      "page": 53
     }
   },
   {
     "ETPE401": {
       "paperTitle": "Power Plant Operation",
-      "page": 0
+      "page": 59
     }
   },
   {
     "ETPE403": {
       "paperTitle": "Power System Protection and Switchgear",
-      "page": 0
+      "page": 62
     }
   },
   {
     "ETPE404": {
       "paperTitle": "Environment Management",
-      "page": 0
+      "page": 87
     }
   },
   {
     "ETPE405": {
       "paperTitle": "Power Plant Performance",
-      "page": 0
+      "page": 61
     }
   },
   {
     "ETPE406": {
       "paperTitle": "Microprocessors and Microcontrollers",
-      "page": 0
+      "page": 88
     }
   },
   {
     "ETPE407": {
-      "paperTitle": "Power Plant Maintenance",
-      "page": 0
+      "paperTitle": "Power Plant Maintenance (plant maintenance ETPE-407 Planning and Cost control)",
+      "page": 65
     }
   },
   {
     "ETPE409": {
-      "paperTitle": "Theory of Machines ",
-      "page": 0
+      "paperTitle": "Theory of Machines",
+      "page": 64
     }
   },
   {
     "ETPE410": {
       "paperTitle": "Design of Electrical Machines",
-      "page": 0
+      "page": 90
     }
   },
   {
     "ETPE412": {
       "paperTitle": "Project Management",
-      "page": 0
+      "page": 91
     }
   },
   {
     "ETPE413": {
       "paperTitle": "Balance of Power Plant",
-      "page": 0
+      "page": 67
     }
   },
   {
     "ETPE414": {
       "paperTitle": "Smart Grid",
-      "page": 0
+      "page": 91
     }
   },
   {
     "ETPE415": {
-      "paperTitle": "Preventive Maintenance",
-      "page": 0
+      "paperTitle": "Preventive Maintenance & Condition Monitoring",
+      "page": 68
     }
   },
   {
     "ETPE421": {
       "paperTitle": "Manufacturing and Industrial Engineering",
-      "page": 0
+      "page": 71
     }
   },
   {
     "ETPE423": {
       "paperTitle": "Communication Engineering",
-      "page": 0
+      "page": 72
     }
   },
   {
     "ETPE425": {
       "paperTitle": "Information Theory and its Applications",
-      "page": 0
+      "page": 73
     }
   },
   {
     "ETPE426": {
       "paperTitle": "Energy Management",
-      "page": 0
+      "page": 97
     }
   },
   {
     "ETPE428": {
       "paperTitle": "High Voltage AC and DC Technology",
-      "page": 0
+      "page": 98
     }
   },
   {
     "ETPE430": {
       "paperTitle": "Residual Life Assessment of Extension",
-      "page": 0
+      "page": 99
     }
   },
   {
@@ -4148,7 +4176,8 @@
   {
     "ETEC252": {
       "paperTitle": "Switching Theory and Logic Design Lab",
-      "page": 32
+      "page": 32,
+      "page_Power": 30
     }
   },
   {
@@ -4291,7 +4320,8 @@
   {
     "ETME260": {
       "paperTitle": "Fluid Mechanics Lab",
-      "page": 32
+      "page": 32,
+      "page_Power": 29
     }
   },
   {
@@ -4529,39 +4559,381 @@
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETPE251": {
+      "paperTitle": "Thermodynamics for Power Engineers Lab",
+      "page": 18
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETPE253": {
+      "paperTitle": "Strength of Materials and Theory of Machines Lab",
+      "page": 19
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETPE255": {
+      "paperTitle": "Electrical Machines Lab",
+      "page": 21
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETPE252": {
+      "paperTitle": "Heat and Mass Transfer Lab",
+      "page": 28
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETPE353": {
+      "paperTitle": "Thermal Power Plant Scheme Tracing Lab",
+      "page": 42
     }
   },
   {
     "ETME459": {
       "paperTitle": "Seminar",
       "page": 8
+    }
+  },
+  {
+    "ETPE357": {
+      "paperTitle": "Refrigeration and Air Conditioning Lab",
+      "page": 43
+    }
+  },
+  {
+    "ETPE359": {
+      "paperTitle": "Electrical and Electronic Measurements and Instrumentation Lab",
+      "page": 44
+    }
+  },
+  {
+    "ETPE361": {
+      "paperTitle": "Practical Training/In-house Training",
+      "page": 6
+    }
+  },
+  {
+    "ETPE354": {
+      "paperTitle": "Rotational On-Job Training (Operation - Steam Generator and Its Auxiliaries)",
+      "page": 54
+    }
+  },
+  {
+    "ETPE356": {
+      "paperTitle": "Rotational On-Job Training (Operation - Steam Turbine and Its Auxiliaries)",
+      "page": 55
+    }
+  },
+  {
+    "ETPE358": {
+      "paperTitle": "Rotational On-Job Training (Operation - Power Plant Electrical Machines and Systems)",
+      "page": 56
+    }
+  },
+  {
+    "ETPE350": {
+      "paperTitle": "Practical/In-House Training",
+      "page": 7
+    }
+  },
+  {
+    "ETPE360": {
+      "paperTitle": "I. C. Engines and Gas Dynamics Lab",
+      "page": 57
+    }
+  },
+  {
+    "ETPE362": {
+      "paperTitle": "Power Electronics and Electric Drives Lab",
+      "page": 58f
+    }
+  },
+  {
+    "ETPE451": {
+      "paperTitle": "Rotational On-Job Training (Maintenance – Steam Generator and Its Auxiliaries)",
+      "page": 78
+    }
+  },
+  {
+    "ETPE453": {
+      "paperTitle": "Rotational On-Job Training (Maintenance – Steam Turbine and Its Auxiliaries)",
+      "page": 79
+    }
+  },
+  {
+    "ETPE455": {
+      "paperTitle": "Rotational On-Job Training (Maintenance – Power Plant Electrical Machines and Systems)",
+      "page": 80
+    }
+  },
+  {
+    "ETPE457": {
+      "paperTitle": "Power System Protection and Switchgear Lab.",
+      "page": 81
+    }
+  },
+  {
+    "ETPE459": {
+      "paperTitle": "Lab based on Electives Group A or B",
+      "page": 8
+    }
+  },
+  {
+    "ETPE461": {
+      "paperTitle": "Seminar",
+      "page": 8
+    }
+  },
+  {
+    "ETPE463": {
+      "paperTitle": "Industrial Training",
+      "page": 8
+    }
+  },
+  {
+    "ETPE465": {
+      "paperTitle": "Minor Projects",
+      "page": 8
+    }
+  },
+  {
+    "ETPE452": {
+      "paperTitle": "Environmental and Energy Audit Lab",
+      "page": 102
+    }
+  },
+  {
+    "ETPE454": {
+      "paperTitle": "Microprocessor and Microcontroller Lab",
+      "page": 103
+    }
+  },
+  {
+    "ETPE458": {
+      "paperTitle": "Lab based on Elective Group A or B",
+      "page": 104
+    }
+  },
+  {
+    "ETPE456": {
+      "paperTitle": "Major Project",
+      "page": 9
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
+    }
+  },
+  {
+    "": {
+      "paperTitle": "",
+      "page": 
     }
   }
 ]

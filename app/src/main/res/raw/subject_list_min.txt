@@ -161,13 +161,17 @@
         "ETMT255",
         "ETTE257"
       ],
-      "POWER": [
+      "Power": [
         "ETME207",
         "ETEE207",
         "ETPE205",
         "ETPE207",
         "ETEL203",
-        "ETPE201"
+        "ETPE201",
+        "ETPE251",
+        "ETPE253",
+        "ETEL251",
+        "ETPE255"
       ],
       "TOOL": [
         "ETME209",
@@ -330,13 +334,18 @@
         "ETMT258",
         "ETSS250"
       ],
-      "POWER": [
+      "Power": [
         "ETPE202",
         "ETPE204",
         "ETPE206",
         "ETME212",
         "ETEC202",
-        "ETEE212"
+        "ETEE212",
+        "ETPE252",
+        "ETME260",
+        "ETEC252",
+        "ETEE260",
+        "ETSS250"
       ],
       "TOOL": [
         "ETAT202",
@@ -502,14 +511,19 @@
         "ETMT359",
         "ETMT361"
       ],
-      "POWER": [
+      "Power": [
         "ETHS301",
         "ETPE303",
         "ETPE305",
         "ETPE307",
         "ETPE309",
         "ETPE313",
-        "ETMS311"
+        "ETMS311",
+        "ETHS351",
+        "ETPE353",
+        "ETPE357",
+        "ETPE359",
+        "ETPE361"
       ],
       "TOOL": [
         "ETTE301",
@@ -663,7 +677,7 @@
         "ETMT358",
         "ETMT360"
       ],
-      "POWER": [
+      "Power": [
         "ETPE302",
         "ETPE304",
         "ETPE306",
@@ -671,7 +685,13 @@
         "ETPE310",
         "ETPE312",
         "ETAT302",
-        "ETPE316"
+        "ETPE316",
+        "ETPE354",
+        "ETPE356",
+        "ETPE358",
+        "ETPE350",
+        "ETPE360",
+        "ETPE362"
       ],
       "TOOL": [
         "ETTE302",
@@ -946,7 +966,7 @@
         "ETMT459",
         "ETMT461"
       ],
-      "POWER": [
+      "Power": [
         "ETPE401",
         "ETEE419",
         "ETPE405",
@@ -963,7 +983,15 @@
         "ETME423",
         "ETME427",
         "ETME421",
-        "ETHS419"
+        "ETHS419",
+        "ETPE451",
+        "ETPE453",
+        "ETPE455",
+        "ETPE457",
+        "ETPE459",
+        "ETPE461",
+        "ETPE463",
+        "ETPE465"
       ],
       "TOOL": [
         "ETTE401",
@@ -1217,7 +1245,7 @@
         "ETMT456",
         "ETMT458"
       ],
-      "POWER": [
+      "Power": [
         "ETHS402",
         "ETPE404",
         "ETPE406",
@@ -1233,7 +1261,11 @@
         "ETPE428",
         "ETPE430",
         "ETME424",
-        "ETME426"
+        "ETME426",
+        "ETPE452",
+        "ETPE454",
+        "ETPE458",
+        "ETPE456"
       ],
       "TOOL": [
         "ETTE402",
