@@ -59,7 +59,12 @@ public class showSyllabus extends Activity implements OnPageErrorListener {
                 "Final Syllabus-ECE-3rd Semester4,5,6,7,8.pdf",
                 "Final Syllabus-EE-3rd Semester4,5,6,7,8.pdf",
                 "Final Syllabus-EEE-3rd Semester4,5,6,7,8.pdf",
-                "Final Syllabus-ICE-3rd Semester4,5,6,7,8.pdf"
+                "Final Syllabus-ICE-3rd Semester4,5,6,7,8.pdf",
+                "Final Syllabus-MAE-3rd Semester4,5,6,7,8.pdf",
+                "Final Syllabus-ME-3rd Semester4,5,6,7,8.pdf",
+                "Final Syllabus-Mechantronics-3rd Semester4,5,6,7,8.pdf",
+                "Final Syllabus-Power-3rd Semester4,5,6,7,8.pdf",
+                "Final Syllabus-Tool-3rd Semester4,5,6,7,8.pdf"
         };
 
         String fileCode = null;

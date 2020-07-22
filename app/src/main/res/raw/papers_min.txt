@@ -2,7 +2,8 @@
   {
     "ETAT202": {
       "paperTitle": "Theory of Machines",
-      "page": 24
+      "page": 24,
+      "page_Tool": 21
     }
   },
   {
@@ -202,7 +203,8 @@
       "page_MAE": 5,
       "page_ME": 5,
       "page_Mechantronics": 5,
-      "page_Power": 5
+      "page_Power": 5,
+      "page_Tool": 5
     }
   },
   {
@@ -686,7 +688,8 @@
       "paperTitle": "Control Systems Lab",
       "page": 43,
       "page_MAE": 45,
-      "page_ME": 43
+      "page_ME": 43,
+      "page_Tool": 40
     }
   },
   {
@@ -1111,7 +1114,8 @@
       "page_MAE": 69,
       "page_ME": 68,
       "page_Mechantronics": 66,
-      "page_Power": 70
+      "page_Power": 70,
+      "page_Tool": 61
     }
   },
   {
@@ -1865,7 +1869,8 @@
       "page_MAE": 67,
       "page_ME": 69,
       "page_Mechantronics": 73,
-      "page_Power": 60
+      "page_Power": 60,
+      "page_Tool": 62
     }
   },
   {
@@ -1944,7 +1949,8 @@
       "paperTitle": "Control Systems",
       "page": 38,
       "page_MAE": 39,
-      "page_ME": 37
+      "page_ME": 37,
+      "page_Tool": 34
     }
   },
   {
@@ -2169,9 +2175,10 @@
       "page_EEE": 45,
       "page_ICE": 41,
       "page_MAE": 46,
-      "page_ME": 44
+      "page_ME": 44,
       "page_Mechantronics": 40,
-      "page_Power": 41
+      "page_Power": 41,
+      "page_Tool": 41
     }
   },
   {
@@ -2610,7 +2617,8 @@
       "page_MAE": 40,
       "page_ME": 38,
       "page_Mechantronics": 33,
-      "page_Power": 32
+      "page_Power": 32,
+      "page_Tool": 36
     }
   },
   {
@@ -2627,7 +2635,8 @@
       "page_MAE": 88,
       "page_ME": 90,
       "page_Mechantronics": 83,
-      "page_Power": 84
+      "page_Power": 84,
+      "page_Tool": 79
     }
   },
   {
@@ -2644,7 +2653,8 @@
       "page_MAE": 76,
       "page_ME": 77,
       "page_Mechantronics": 75,
-      "page_Power": 77
+      "page_Power": 77,
+      "page_Tool": 68
     }
   },
   {
@@ -2936,7 +2946,8 @@
       "page": 91,
       "page_IT": 86,
       "page_MAE": 92,
-      "page_ME": 97
+      "page_ME": 97,
+      "page_Tool": 89
     }
   },
   {
@@ -3095,7 +3106,8 @@
       "page": 11,
       "page_ENV": 11,
       "page_ME": 11,
-      "page_Mechantronics": 12
+      "page_Mechantronics": 12,
+      "page_Tool": 12
     }
   },
   {
@@ -3104,7 +3116,8 @@
       "page": 18,
       "page_ENV": 17,
       "page_ME": 17,
-      "page_Mechantronics": 19
+      "page_Mechantronics": 19,
+      "page_Tool": 18
     }
   },
   {
@@ -3149,7 +3162,8 @@
     "ETME201": {
       "paperTitle": "Fluid Mechanics",
       "page": 11,
-      "page_Mechantronics": 16
+      "page_Mechantronics": 16,
+      "page_Tool": 15
     }
   },
   {
@@ -3175,7 +3189,8 @@
     "ETME205": {
       "paperTitle": "Production Technology",
       "page": 15,
-      "page_ME": 14
+      "page_ME": 14,
+      "page_Tool": 13
     }
   },
   {
@@ -3191,7 +3206,8 @@
       "page": 16,
       "page_ME": 15,
       "page_Mechantronics": 15,
-      "page_Power": 11
+      "page_Power": 11,
+      "page_Tool": 14
     }
   },
   {
@@ -3205,7 +3221,8 @@
     "ETME209": {
       "paperTitle": "Electrical Machines",
       "page": 17,
-      "page_ME": 12
+      "page_ME": 12,
+      "page_Tool": 11
     }
   },
   {
@@ -3249,7 +3266,8 @@
   {
     "ETME304": {
       "paperTitle": "Metal Cutting and Tool Design",
-      "page": 46
+      "page": 46,
+      "page_Tool": 43
     }
   },
   {
@@ -3287,7 +3305,8 @@
     "ETME401": {
       "paperTitle": "Automobile Engineering",
       "page": 57,
-      "page_Mechantronics": 65
+      "page_Mechantronics": 65,
+      "page_Tool": 72
     }
   },
   {
@@ -3295,7 +3314,8 @@
       "paperTitle": "Engineering System Modeling and Simulation",
       "page": 87,
       "page_ME": 88,
-      "page_Mechantronics": 86
+      "page_Mechantronics": 86,
+      "page_Tool": 87
     }
   },
   {
@@ -3393,7 +3413,8 @@
       "page": 74,
       "page_ME": 70,
       "page_Mechantronics": 69,
-      "page_Power": 76
+      "page_Power": 76,
+      "page_Tool": 63
     }
   },
   {
@@ -3416,7 +3437,8 @@
       "paperTitle": "Cryogenic Engineering",
       "page": 98,
       "page_ME": 100,
-      "page_Power": 100
+      "page_Power": 100,
+      "page_Tool": 82
     }
   },
   {
@@ -3580,7 +3602,8 @@
       "page_MAE": 86,
       "page_ME": 94,
       "page_Mechantronics": 81,
-      "page_Power": 95
+      "page_Power": 95,
+      "page_Tool": 86
     }
   },
   {
@@ -3672,14 +3695,16 @@
     "ETMT427": {
       "paperTitle": "Operations Research",
       "page": 67,
-      "page_Mechantronics": 71
+      "page_Mechantronics": 71,
+      "page_Tool": 56
     }
   },
   {
     "ETMT428": {
       "paperTitle": "Flexible Manufacturing System",
       "page": 100,
-      "page_Mechantronics": 99
+      "page_Mechantronics": 99,
+      "page_Tool": 84
     }
   },
   {
@@ -3912,188 +3937,190 @@
   },
   {
     "ETPH103": {
-      "paperTitle": "APPLIED PHYSICS – I",
+      "paperTitle": "Applied Physics – I",
       "page": 5
     }
   },
   {
     "ETPH104": {
-      "paperTitle": "APPLIED PHYSICS-II",
+      "paperTitle": "Applied Physics-II",
       "page": 22
     }
   },
   {
     "ETTE204": {
-      "paperTitle": "METAL FORMIMG",
-      "page": 0
+      "paperTitle": "Metal Forming",
+      "page": 22
     }
   },
   {
     "ETTE206": {
-      "paperTitle": "MACHINE TOOLS",
-      "page": 0
+      "paperTitle": "Machine Tools",
+      "page": 23
     }
   },
   {
     "ETTE208": {
-      "paperTitle": "MACHINE ELEMENT DESIGN",
-      "page": 0
+      "paperTitle": "Machine Element Design",
+      "page": 24
     }
   },
   {
     "ETTE210": {
       "paperTitle": "Thermal science",
-      "page": 27
+      "page": 27,
+      "page_Tool": 25
     }
   },
   {
     "ETTE211": {
       "paperTitle": "Mechanics of Solids",
-      "page": 17
+      "page": 17,
+      "page_Tool": 16
     }
   },
   {
     "ETTE212": {
-      "paperTitle": "METROLOGY AND QUALITY ASSURANCE",
-      "page": 0
+      "paperTitle": "Metrology and Quality Assurance",
+      "page": 26
     }
   },
   {
     "ETTE301": {
       "paperTitle": "Production Planning and Control",
-      "page": 0
+      "page": 31
     }
   },
   {
     "ETTE302": {
       "paperTitle": "Press Tool Design-1",
-      "page": 0
+      "page": 42
     }
   },
   {
     "ETTE303": {
       "paperTitle": "CNC Machining and Programming",
-      "page": 0
+      "page": 32
     }
   },
   {
     "ETTE305": {
-      "paperTitle": "Jigs,Fixture & Gauge Design",
-      "page": 0
+      "paperTitle": "Jigs, Fixture & Gauge Design",
+      "page": 33
     }
   },
   {
     "ETTE306": {
       "paperTitle": "Mould Design-1",
-      "page": 0
+      "page": 44
     }
   },
   {
     "ETTE308": {
       "paperTitle": "Layered Manufacturing",
-      "page": 0
+      "page": 45
     }
   },
   {
     "ETTE309": {
       "paperTitle": "Plastic Technology",
-      "page": 0
+      "page": 35
     }
   },
   {
     "ETTE310": {
       "paperTitle": "Finite Element Methods",
-      "page": 0
+      "page": 46
     }
   },
   {
     "ETTE312": {
       "paperTitle": "Total Quality Management",
-      "page": 0
+      "page": 47
     }
   },
   {
     "ETTE401": {
       "paperTitle": "Press Tool Design-II",
-      "page": 0
+      "page": 52
     }
   },
   {
     "ETTE402": {
       "paperTitle": "Advanced Die Casting and Die Design",
-      "page": 0
+      "page": 76
     }
   },
   {
     "ETTE403": {
       "paperTitle": "Mould Design-2",
-      "page": 0
+      "page": 53
     }
   },
   {
     "ETTE404": {
       "paperTitle": "Modern Manufacturing Methods",
-      "page": 0
+      "page": 77
     }
   },
   {
     "ETTE405": {
       "paperTitle": "Computer Aided Graphics & Product Design",
-      "page": 0
+      "page": 54
     }
   },
   {
     "ETTE407": {
       "paperTitle": "Vibrations Engineering Design",
-      "page": 0
+      "page": 55
     }
   },
   {
     "ETTE409": {
       "paperTitle": "Creativity in Engineering",
-      "page": 0
+      "page": 58
     }
   },
   {
     "ETTE410": {
       "paperTitle": "Theory of Design Optimization",
-      "page": 0
+      "page": 83
     }
   },
   {
     "ETTE414": {
       "paperTitle": "Applied Plasticity",
-      "page": 0
+      "page": 85
     }
   },
   {
     "ETTE415": {
       "paperTitle": "Advanced Welding Technology",
-      "page": 0
+      "page": 59
     }
   },
   {
     "ETTE417": {
       "paperTitle": "Low Cost Automation",
-      "page": 0
+      "page": 60
     }
   },
   {
     "ETTE418": {
       "paperTitle": "Project Management",
-      "page": 0
+      "page": 88
     }
   },
   {
     "ETTE422": {
       "paperTitle": "Industrial Management",
-      "page": 0
+      "page": 90
     }
   },
   {
     "ETTE423": {
       "paperTitle": "Value Engineering",
-      "page": 0
+      "page": 64
     }
   },
   {
@@ -4101,31 +4128,32 @@
       "paperTitle": "Supply Chain Management",
       "page": 101,
       "page_ME": 102,
-      "page_Mechantronics": 96
+      "page_Mechantronics": 96,
+      "page_Tool": 91
     }
   },
   {
     "ETTE425": {
       "paperTitle": "Material Management",
-      "page": 0
+      "page": 65
     }
   },
   {
     "ETTE427": {
       "paperTitle": "Concurrent Engineering",
-      "page": 0
+      "page": 66
     }
   },
   {
     "ETTE428": {
       "paperTitle": "Safety Engineering",
-      "page": 0
+      "page": 92
     }
   },
   {
     "ETTE429": {
       "paperTitle": "Ergonomics",
-      "page": 0
+      "page": 67
     }
   },
   {
@@ -4144,14 +4172,16 @@
     "ETTE259": {
       "paperTitle": "Machine Drawing Lab",
       "page": 20,
-      "page_ME": 21
+      "page_ME": 21,
+      "page_Tool": 20
     }
   },
   {
     "ETME253": {
       "paperTitle": "Electrical Machines Lab",
       "page": 21,
-      "page_ME": 18
+      "page_ME": 18,
+      "page_Tool": 17
     }
   },
   {
@@ -4163,7 +4193,8 @@
   {
     "ETAT252": {
       "paperTitle": "Theory of Machines Lab",
-      "page": 30
+      "page": 30,
+      "page_Tool": 27
     }
   },
   {
@@ -4357,7 +4388,8 @@
   {
     "ETME354": {
       "paperTitle": "Metal Cutting and Tool Design Lab",
-      "page": 53
+      "page": 53,
+      "page_Tool": 49
     }
   },
   {
@@ -4435,7 +4467,8 @@
   {
     "ETTE257": {
       "paperTitle": "Mechanics of Solids and Fluid Lab",
-      "page": 21
+      "page": 21,
+      "page_Tool": 19
     }
   },
   {
@@ -4645,7 +4678,7 @@
   {
     "ETPE362": {
       "paperTitle": "Power Electronics and Electric Drives Lab",
-      "page": 58f
+      "page": 58
     }
   },
   {
@@ -4721,219 +4754,111 @@
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE252": {
+      "paperTitle": "Machine Tools Lab",
+      "page": 28
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE256": {
+      "paperTitle": "Machine Element Design Lab",
+      "page": 29
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE258": {
+      "paperTitle": "Metrology and Quality Assurance Lab",
+      "page": 30
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE351": {
+      "paperTitle": "CNC Machining and Programming Lab",
+      "page": 38
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE353": {
+      "paperTitle": "Jigs, Fixture and Gauge Design Lab",
+      "page": 39
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE357": {
+      "paperTitle": "Industrial Training",
+      "page": 6
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE352": {
+      "paperTitle": "Press Tool Design-I Lab",
+      "page": 48
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE356": {
+      "paperTitle": "Mould Design-I Lab",
+      "page": 50
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE358": {
+      "paperTitle": "Finite Element Method Lab",
+      "page": 51
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE360": {
+      "paperTitle": "In-house training (two weeks)",
+      "page": 7
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE451": {
+      "paperTitle": "Press Tool Design – II Lab",
+      "page": 69
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE453": {
+      "paperTitle": "Mould Design – II Lab",
+      "page": 70
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE455": {
+      "paperTitle": "Computer Aided Graphics and Product Design Lab",
+      "page": 71
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE457": {
+      "paperTitle": "Lab Based on Elective I or II",
+      "page": 72
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE459": {
+      "paperTitle": "Minor Project",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE461": {
+      "paperTitle": "Industrial Training",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE452": {
+      "paperTitle": "Lab Based on Elective III or IV",
+      "page": 93
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
-    }
-  },
-  {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE454": {
+      "paperTitle": "Major Project",
+      "page": 9
     }
   }
 ]

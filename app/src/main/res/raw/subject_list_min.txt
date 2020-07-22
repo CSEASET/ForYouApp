@@ -173,13 +173,17 @@
         "ETEL251",
         "ETPE255"
       ],
-      "TOOL": [
+      "Tool": [
         "ETME209",
         "ETMA203",
         "ETME205",
         "ETME207",
         "ETME201",
-        "ETTE211"
+        "ETTE211",
+        "ETME253",
+        "ETMA253",
+        "ETTE257",
+        "ETTE259"
       ],
       "ENV": [
         "ETMA203",
@@ -347,13 +351,18 @@
         "ETEE260",
         "ETSS250"
       ],
-      "TOOL": [
+      "Tool": [
         "ETAT202",
         "ETTE204",
         "ETTE206",
         "ETTE208",
         "ETTE210",
-        "ETTE212"
+        "ETTE212",
+        "ETAT252",
+        "ETTE252",
+        "ETTE256",
+        "ETTE258",
+        ""
       ],
       "ENV": [
         "ETEN202",
@@ -525,13 +534,18 @@
         "ETPE359",
         "ETPE361"
       ],
-      "TOOL": [
+      "Tool": [
         "ETTE301",
         "ETTE303",
         "ETTE305",
         "ETEL307",
         "ETTE309",
-        "ETHS301"
+        "ETHS301",
+        "ETTE351",
+        "ETTE353",
+        "ETEL355",
+        "ETTE357",
+        "ETHS351"
       ],
       "ENV": [
         "ETHS301",
@@ -693,13 +707,18 @@
         "ETPE360",
         "ETPE362"
       ],
-      "TOOL": [
+      "Tool": [
         "ETTE302",
         "ETME304",
         "ETTE306",
         "ETTE308",
         "ETTE310",
-        "ETTE312"
+        "ETTE312",
+        "ETTE352",
+        "ETME354",
+        "ETTE356",
+        "ETTE358",
+        "ETTE360"
       ],
       "ENV": [
         "ETEN304",
@@ -993,7 +1012,7 @@
         "ETPE463",
         "ETPE465"
       ],
-      "TOOL": [
+      "Tool": [
         "ETTE401",
         "ETTE403",
         "ETTE405",
@@ -1010,7 +1029,13 @@
         "ETTE425",
         "ETTE427",
         "ETTE429",
-        "ETHS419"
+        "ETHS419",
+        "ETTE451",
+        "ETTE453",
+        "ETTE455",
+        "ETTE457",
+        "ETTE459",
+        "ETTE461"
       ],
       "ENV": [
         "ETEN401",
@@ -1267,7 +1292,7 @@
         "ETPE458",
         "ETPE456"
       ],
-      "TOOL": [
+      "Tool": [
         "ETTE402",
         "ETTE404",
         "ETHS402",
@@ -1281,7 +1306,9 @@
         "ETIT410",
         "ETTE422",
         "ETTE424",
-        "ETTE428"
+        "ETTE428",
+        "ETTE452",
+        "ETTE454"
       ],
       "ENV": [
         "ETHS402",
