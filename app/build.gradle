@@ -13,13 +13,13 @@ android {
         applicationId "com.helpinghands.foryou"
         minSdkVersion 14
         targetSdkVersion 29
-        versionCode 106
+        versionCode 107
         versionName "1.3"
         ndkConfig.abiFilters "armeabi-v7a", "arm64-v8a"
     }
     buildTypes {
         release {
-            minifyEnabled true
+            minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
