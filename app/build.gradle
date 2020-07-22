@@ -4,7 +4,7 @@ android {
     signingConfigs {
         config {
             keyAlias 'none'
-            storeFile file('~/Downloads/keys.jks')
+            storeFile file('../../android_keystore/keys.jks')
         }
     }
     compileSdkVersion 29
@@ -20,7 +20,6 @@ android {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.config
         }
     }
 
