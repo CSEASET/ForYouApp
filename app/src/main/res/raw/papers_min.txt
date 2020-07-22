@@ -56,7 +56,8 @@
   {
     "ETAT401": {
       "paperTitle": "Computer Aided Design",
-      "page": 58
+      "page": 58,
+      "page_Mechantronics": 56
     }
   },
   {
@@ -198,7 +199,8 @@
       "page_EEE": 5,
       "page_ICE": 5,
       "page_MAE": 5,
-      "page_ME": 5
+      "page_ME": 5,
+      "page_Mechantronics": 5
     }
   },
   {
@@ -510,7 +512,8 @@
       "page": 31,
       "page_EE": 29,
       "page_EEE": 32,
-      "page_ICE": 29
+      "page_ICE": 29,
+      "page_Mechantronics": 31
     }
   },
   {
@@ -1029,7 +1032,8 @@
     "ETCS412": {
       "paperTitle": "Object Oriented Software Engineering",
       "page": 94,
-      "page_ICE": 97
+      "page_ICE": 97,
+      "page_Mechantronics": 88
     }
   },
   {
@@ -1102,7 +1106,8 @@
       "page_EEE": 68,
       "page_ICE": 67,
       "page_MAE": 69,
-      "page_ME": 68
+      "page_ME": 68,
+      "page_Mechantronics": 66
     }
   },
   {
@@ -1176,7 +1181,8 @@
     "ETCS429": {
       "paperTitle": "Artificial Intelligence",
       "page": 68,
-      "page_ME": 75
+      "page_ME": 75,
+      "page_Mechantronics": 67
     }
   },
   {
@@ -1218,7 +1224,8 @@
       "page": 13,
       "page_IT": 13,
       "page_ECE": 13,
-      "page_ICE": 13
+      "page_ICE": 13,
+      "page_Mechantronics": 11
     }
   },
   {
@@ -1509,7 +1516,8 @@
     "ETEC408": {
       "paperTitle": "Consumer Electronics",
       "page": 85,
-      "page_ICE": 90
+      "page_ICE": 90,
+      "page_Mechantronics": 94
     }
   },
   {
@@ -1553,7 +1561,8 @@
       "paperTitle": "Data Communication & Networks",
       "page": 89,
       "page_EEE": 92,
-      "page_ME": 98
+      "page_ME": 98,
+      "page_Mechantronics": 93
     }
   },
   {
@@ -1670,7 +1679,8 @@
       "page": 26,
       "page_EE": 23,
       "page_EEE": 27,
-      "page_ICE": 23
+      "page_ICE": 23,
+      "page_Mechantronics": 26
     }
   },
   {
@@ -1844,7 +1854,8 @@
       "page_EEE": 59,
       "page_ICE": 68,
       "page_MAE": 67,
-      "page_ME": 69
+      "page_ME": 69,
+      "page_Mechantronics": 73
     }
   },
   {
@@ -2006,7 +2017,8 @@
       "page": 17,
       "page_IT": 17,
       "page_ECE": 19,
-      "page_ICE": 19
+      "page_ICE": 19,
+      "page_Mechantronics": 18
     }
   },
   {
@@ -2146,6 +2158,7 @@
       "page_ICE": 41,
       "page_MAE": 46,
       "page_ME": 44
+      "page_Mechantronics": 40
     }
   },
   {
@@ -2582,7 +2595,8 @@
       "page_EEE": 33,
       "page_ICE": 33,
       "page_MAE": 40,
-      "page_ME": 38
+      "page_ME": 38,
+      "page_Mechantronics": 33
     }
   },
   {
@@ -2597,7 +2611,8 @@
       "page_EEE": 79,
       "page_ICE": 81,
       "page_MAE": 88,
-      "page_ME": 90
+      "page_ME": 90,
+      "page_Mechantronics": 83
     }
   },
   {
@@ -2612,7 +2627,8 @@
       "page_EEE": 73,
       "page_ICE": 74,
       "page_MAE": 76,
-      "page_ME": 77
+      "page_ME": 77,
+      "page_Mechantronics": 75
     }
   },
   {
@@ -2757,7 +2773,8 @@
       "paperTitle": "VLSI Design",
       "page": 92,
       "page_IT": 90,
-      "page_ICE": 89
+      "page_ICE": 89,
+      "page_Mechantronics": 92
     }
   },
   {
@@ -3061,7 +3078,8 @@
       "paperTitle": "Numerical Analysis and Statistical Techniques",
       "page": 11,
       "page_ENV": 11,
-      "page_ME": 11
+      "page_ME": 11,
+      "page_Mechantronics": 12
     }
   },
   {
@@ -3069,7 +3087,8 @@
       "paperTitle": "Numerical Analysis and Statistical Techniques lab",
       "page": 18,
       "page_ENV": 17,
-      "page_ME": 17
+      "page_ME": 17,
+      "page_Mechantronics": 19
     }
   },
   {
@@ -3113,7 +3132,8 @@
   {
     "ETME201": {
       "paperTitle": "Fluid Mechanics",
-      "page": 11
+      "page": 11,
+      "page_Mechantronics": 16
     }
   },
   {
@@ -3153,7 +3173,8 @@
     "ETME207": {
       "paperTitle": "Material Science and Metallurgy",
       "page": 16,
-      "page_ME": 15
+      "page_ME": 15,
+      "page_Mechantronics": 15
     }
   },
   {
@@ -3247,14 +3268,16 @@
   {
     "ETME401": {
       "paperTitle": "Automobile Engineering",
-      "page": 57
+      "page": 57,
+      "page_Mechantronics": 65
     }
   },
   {
     "ETME402": {
       "paperTitle": "Engineering System Modeling and Simulation",
       "page": 87,
-      "page_ME": 88
+      "page_ME": 88,
+      "page_Mechantronics": 86
     }
   },
   {
@@ -3314,7 +3337,8 @@
   {
     "ETME413": {
       "paperTitle": "NonNon-Conventional Manufacturing Processes",
-      "page": 64
+      "page": 64,
+      "page_Mechantronics": 63
     }
   },
   {
@@ -3346,7 +3370,8 @@
     "ETME421": {
       "paperTitle": "Management Information System and ERP",
       "page": 74,
-      "page_ME": 70
+      "page_ME": 70,
+      "page_Mechantronics": 69
     }
   },
   {
@@ -3359,7 +3384,8 @@
     "ETME423": {
       "paperTitle": "Finite Element Methods",
       "page": 66,
-      "page_ME": 71
+      "page_ME": 71,
+      "page_Mechantronics": 74
     }
   },
   {
@@ -3425,98 +3451,98 @@
   },
   {
     "ETMT202": {
-      "paperTitle": "ORGANIZATIONAL BEHAVIOUR",
-      "page": 0
+      "paperTitle": "Organizational Behaviour",
+      "page": 22
     }
   },
   {
     "ETMT204": {
-      "paperTitle": "KINEMATICS AND DYNAMICS OF MACHINERY",
-      "page": 0
+      "paperTitle": "Kinematics and Dynamics of Machinery",
+      "page": 23
     }
   },
   {
     "ETMT205": {
-      "paperTitle": "MEASUREMENTS AND INSTRUMENTATION",
-      "page": 0
+      "paperTitle": "Measurements and Instrumentation",
+      "page": 13
     }
   },
   {
     "ETMT206": {
-      "paperTitle": "SIGNALS AND SYSTEMS",
-      "page": 0
+      "paperTitle": "Signals and Systems",
+      "page": 24
     }
   },
   {
     "ETMT212": {
       "paperTitle": "Hydraulics and Pneumatics",
-      "page": 0
+      "page": 28
     }
   },
   {
     "ETMT302": {
-      "paperTitle": "Management",
-      "page": 0
+      "paperTitle": "Management of Manufacturing System",
+      "page": 45
     }
   },
   {
     "ETMT303": {
       "paperTitle": "Machine Element Design",
-      "page": 0
+      "page": 35
     }
   },
   {
     "ETMT304": {
       "paperTitle": "Manufacturing Technology",
-      "page": 0
+      "page": 46
     }
   },
   {
     "ETMT305": {
       "paperTitle": "Metrology and Quality Control",
-      "page": 0
+      "page": 36
     }
   },
   {
     "ETMT306": {
-      "paperTitle": "Programmable Logic Controller",
-      "page": 0
+      "paperTitle": "Programmable Logic Controller and SCADA",
+      "page": 47
     }
   },
   {
     "ETMT307": {
       "paperTitle": "Digital Signal Processing",
-      "page": 0
+      "page": 37
     }
   },
   {
     "ETMT308": {
-      "paperTitle": "COMPUTER INTEGRATED MANUFACTURING",
-      "page": 0
+      "paperTitle": "Computer Integrated Manufacturing",
+      "page": 48
     }
   },
   {
     "ETMT309": {
       "paperTitle": "Sensors and Transducers",
-      "page": 0
+      "page": 38
     }
   },
   {
     "ETMT310": {
       "paperTitle": "Automotive Electronics",
-      "page": 0
+      "page": 50
     }
   },
   {
     "ETMT311": {
       "paperTitle": "Power Electronics and Drives",
-      "page": 0
+      "page": 39
     }
   },
   {
     "ETMT312": {
       "paperTitle": "Microprocessors and Microcontrollers",
-      "page": 0
+      "page": 51
     }
   },
   {
@@ -3525,115 +3551,119 @@
       "page": 94,
       "page_ICE": 96,
       "page_MAE": 86,
-      "page_ME": 94
+      "page_ME": 94,
+      "page_Mechantronics": 81
     }
   },
   {
     "ETMT403": {
       "paperTitle": "Micro Electro Mechanical System and Nanotechnology",
-      "page": 0
+      "page": 57
     }
   },
   {
     "ETMT404": {
       "paperTitle": "Embedded Systems",
-      "page": 0
+      "page": 82
     }
   },
   {
     "ETMT405": {
       "paperTitle": "Mechatronics System Design",
-      "page": 0
+      "page": 58
     }
   },
   {
     "ETMT407": {
-      "paperTitle": "I.C ENGINES",
-      "page": 0
+      "paperTitle": "IC Engines",
+      "page": 60
     }
   },
   {
     "ETMT409": {
       "paperTitle": "Digital Image Processing",
-      "page": 0
+      "page": 61
     }
   },
   {
     "ETMT410": {
-      "paperTitle": "FACILITY & LAYOUT PLANNING",
-      "page": 0
+      "paperTitle": "Facility and Layout Planning",
+      "page": 87
     }
   },
   {
     "ETMT411": {
       "paperTitle": "Product Design and Costing",
-      "page": 0
+      "page": 62
     }
   },
   {
     "ETMT414": {
       "paperTitle": "Factory Automation",
-      "page": 0
+      "page": 89
     }
   },
   {
     "ETMT415": {
       "paperTitle": "Process Modelling & Optimization Techniques",
-      "page": 66
+      "page": 66,
+      "page_Mechantronics": 64
     }
   },
   {
     "ETMT416": {
       "paperTitle": "Refrigeration and Air Conditioning",
-      "page": 0
+      "page": 91
     }
   },
   {
     "ETMT421": {
       "paperTitle": "Waste and Heat Recovery Systems",
-      "page": 0
+      "page": 68
     }
   },
   {
     "ETMT424": {
       "paperTitle": "Intelligent and Smart Instrumentation",
-      "page": 0
+      "page": 97
     }
   },
   {
     "ETMT425": {
       "paperTitle": "Fuzzy Logic and Neural Networks",
-      "page": 0
+      "page": 70
     }
   },
   {
     "ETMT426": {
       "paperTitle": "Reliability and Maintenance Management",
-      "page": 0
+      "page": 98
     }
   },
   {
     "ETMT427": {
       "paperTitle": "Operations Research",
-      "page": 67
+      "page": 67,
+      "page_Mechantronics": 71
     }
   },
   {
     "ETMT428": {
       "paperTitle": "Flexible Manufacturing System",
-      "page": 100
+      "page": 100,
+      "page_Mechantronics": 99
     }
   },
   {
     "ETMT429": {
       "paperTitle": "Decision Science",
-      "page": 0
+      "page": 72
     }
   },
   {
     "ETMT430": {
-      "paperTitle": "Engineering Economics",
-      "page": 0
+      "paperTitle": "Engineering Economics and Cost Analysis",
+      "page": 100
     }
   },
   {
@@ -3884,14 +3914,14 @@
   },
   {
     "ETTE210": {
-      "paperTitle": "THERMAL SCIENCE",
-      "page": 0
+      "paperTitle": "Thermal science",
+      "page": 27
     }
   },
   {
     "ETTE211": {
-      "paperTitle": "MECHANICS OF SOLIDS",
-      "page": 0
+      "paperTitle": "Mechanics of Solids",
+      "page": 17
     }
   },
   {
@@ -4042,7 +4072,8 @@
     "ETTE424": {
       "paperTitle": "Supply Chain Management",
       "page": 101,
-      "page_ME": 102
+      "page_ME": 102,
+      "page_Mechantronics": 96
     }
   },
   {
@@ -4172,7 +4203,8 @@
   {
     "ETAT451": {
       "paperTitle": "Computer Aided Design Lab",
-      "page": 78
+      "page": 78,
+      "page_Mechantronics": 76
     }
   },
   {
@@ -4209,7 +4241,8 @@
   {
     "ETMT452": {
       "paperTitle": "Robotics Lab",
-      "page": 103
+      "page": 103,
+      "page_Mechantronics": 101
     }
   },
   {
@@ -4364,135 +4397,135 @@
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT255": {
+      "paperTitle": "Measurements and Instrumentation Lab",
+      "page": 20
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETTE257": {
+      "paperTitle": "Mechanics of Solids and Fluid Lab",
+      "page": 21
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT252": {
+      "paperTitle": "Kinematics and Dynamics of Machinery Lab",
+      "page": 29
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT254": {
+      "paperTitle": "Signals and Systems Lab",
+      "page": 30
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT258": {
+      "paperTitle": "Hydraulics and Pneumatics Lab",
+      "page": 32
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT353": {
+      "paperTitle": "Metrology And Quality Control Lab",
+      "page": 41
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT355": {
+      "paperTitle": "Digital Signal Processing Lab",
+      "page": 42
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT357": {
+      "paperTitle": "Sensors and Transducers Lab",
+      "page": 43
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT359": {
+      "paperTitle": "Power Electronics and Drives Lab",
+      "page": 44
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT361": {
+      "paperTitle": "Industrial Training",
+      "page": 6
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT352": {
+      "paperTitle": "Programmable Logic Controller and SCADA Lab",
+      "page": 52
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT354": {
+      "paperTitle": "Computer Integrated Manufacturing Lab",
+      "page": 53
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT356": {
+      "paperTitle": "Automotive Electronics Lab",
+      "page": 54
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT358": {
+      "paperTitle": "Microprocessors and Microcontrollers Lab",
+      "page": 55
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT360": {
+      "paperTitle": "In house Training/Industrial Training",
+      "page": 7
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT453": {
+      "paperTitle": "Lab based on Elective – I or II",
+      "page": 77
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT457": {
+      "paperTitle": "Seminar",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT459": {
+      "paperTitle": "Industrial Training",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT461": {
+      "paperTitle": "Minor Project",
+      "page": 8
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT454": {
+      "paperTitle": "Embedded System Lab",
+      "page": 102
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT456": {
+      "paperTitle": "Lab based on Elective – III or IV",
+      "page": 103
     }
   },
   {
-    "": {
-      "paperTitle": "",
-      "page": 
+    "ETMT458": {
+      "paperTitle": "Major Project",
+      "page": 9
     }
   },
   {

@@ -149,13 +149,17 @@
         "ETME257",
         "ETTE259"
       ],
-      "MECH": [
+      "Mechantronics": [
         "ETEC205",
         "ETMA203",
         "ETMT205",
         "ETME207",
         "ETME201",
-        "ETTE211"
+        "ETTE211",
+        "ETEC253",
+        "ETMA253",
+        "ETMT255",
+        "ETTE257"
       ],
       "POWER": [
         "ETME207",
@@ -313,13 +317,18 @@
         "ETME260",
         "ETSS250"
       ],
-      "MECH": [
+      "Mechantronics": [
         "ETMT202",
         "ETMT204",
         "ETMT206",
         "ETEE212",
         "ETTE210",
-        "ETMT212"
+        "ETMT212",
+        "ETMT252",
+        "ETMT254",
+        "ETEE260",
+        "ETMT258",
+        "ETSS250"
       ],
       "POWER": [
         "ETPE202",
@@ -480,13 +489,18 @@
         "ETHS351",
         "ETME361"
       ],
-      "MECH": [
+      "Mechantronics": [
         "ETHS301",
         "ETMT303",
         "ETMT305",
         "ETMT307",
         "ETMT309",
-        "ETMT311"
+        "ETMT311",
+        "ETHS351",
+        "ETMT355",
+        "ETMT357",
+        "ETMT359",
+        "ETMT361"
       ],
       "POWER": [
         "ETHS301",
@@ -636,13 +650,18 @@
         "ETME360",
         "ETME362"
       ],
-      "MECH": [
+      "Mechantronics": [
         "ETMT302",
         "ETMT304",
         "ETMT306",
         "ETMT308",
         "ETMT310",
-        "ETMT312"
+        "ETMT312",
+        "ETMT352",
+        "ETMT354",
+        "ETMT356",
+        "ETMT358",
+        "ETMT360"
       ],
       "POWER": [
         "ETPE302",
@@ -901,7 +920,7 @@
         "ETME459",
         "ETME461"
       ],
-      "MECH": [
+      "Mechantronics": [
         "ETAT401",
         "ETMT403",
         "ETMT405",
@@ -920,7 +939,12 @@
         "ETMT429",
         "ETEE419",
         "ETME423",
-        "ETHS419"
+        "ETHS419",
+        "ETAT451",
+        "ETMT453",
+        "ETMT457",
+        "ETMT459",
+        "ETMT461"
       ],
       "POWER": [
         "ETPE401",
@@ -1171,7 +1195,7 @@
         "ETME456",
         "ETME458"
       ],
-      "MECH": [
+      "Mechantronics": [
         "ETMT402",
         "ETMT404",
         "ETHS402",
@@ -1187,7 +1211,11 @@
         "ETMT424",
         "ETMT426",
         "ETMT428",
-        "ETMT430"
+        "ETMT430",
+        "ETMT452",
+        "ETMT454",
+        "ETMT456",
+        "ETMT458"
       ],
       "POWER": [
         "ETHS402",
