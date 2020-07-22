@@ -14,7 +14,7 @@ public class developer extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.developer);
-        Toast.makeText(this,"Please report bugs to the Developers", Toast.LENGTH_LONG).show();
+        Toast.makeText(this,"Please report bugs on the Google Play Store page.", Toast.LENGTH_LONG).show();
     }
 
 
